@@ -1,0 +1,3656 @@
+1
+csr report
+2020
+2
+contents 
+preface	
+3
+about	topdanmark		
+4
+how	we	work	with	csr	
+6
+materiality	assessment		
+8
+objectives	2020	
+9
+customer relations	
+11
+responsible	sales		
+12
+fair	and	easy	claims	handling			
+13
+objectives	for	our	customer	satisfaction		
+15
+complaints	are	used	to	improve	matters	
+17
+products and services - social sustainability			
+19
+more	health	to	the	many	
+20
+free	health	support	through	an	app	
+2 1
+improvement	of	mental	health	
+22
+help	after	a	severe	injury	or	illness	
+23
+products and services – climate and the environment 26
+prevention	–	an	innovative	approach	
+27
+sustainability	in	claims	handling	
+28
+help	to	farmers	in	climate	changes		
+29
+investments	
+31
+new	policy	on	active	ownership	
+32
+objectives	and	results	2020		
+33
+responsible business management		
+35
+two	new	initiatives	in	2020	
+36
+human	rights		
+37
+diversity	in	management	
+38
+protection	of	personal	data	
+40
+data	ethics	
+42
+co2	neutral	in	2030	
+43
+environment	is	also	less	plastic	
+45
+new	level	of	ambition	for	climate	and	the	environment		
+46
+anti-corruption	and	anti-bribery		
+47
+responsible corporate culture			
+49
+well-being	and	commitment		
+50
+health	in	everyday	life			
+52
+the	competencies	of	the	future	
+53
+responsibility in society	
+55
+education	in	the	insurance	industry	
+57
+tax	contributions	are	also	social	contributions	
+58
+contact	
+59
+3
+introduction
+for	topdanmark,	csr	means	a	close	link	
+between	business	and	sustainability.	every	
+day,	we	work	to	create	financial	and	social	
+security	for	our	customers,	employees	
+and	in	society	–	and	we	want	to	contribute	
+to	solutions	for	climate	changes.		
+	
+it	is	our	ambition	to	firmly	anchor	and	
+integrate	csr	fully	into	our	core	business	
+and	business	model.	in	2020,	we	have	
+once	again	taken	steps	to	ensure	further	
+csr	integration	into	the	entire	value	
+chain,	and	we	expect	to	have	a	joint	
+strategy	and	action	plan	ready	in	2021.		
+	
+when	looking	at	2020,	the	year	for	
+topdanmark	has	also	been	marked	
+by	covid-19,	and	we	have	helped	a	
+record	number	of	customers	with	the	
+consequences	of	the	pandemic.	thus,	we	
+have	very	much	lived	up	to	the	customer	
+promise	we	launched	this	year:	“we	are	
+here	to	help.”	a	promise	which	underlines	
+that	we	take	care	of	our	customers	all	
+through	their	lives,	and	we	proactively	
+help	with	service	and	advice	when	needed.		
+the	new	top	promise		helps	set	the	
+direction	for	our	csr	work	and	take	
+responsibility	and	assist	our	customers.	
+not	only	ensuring	their	financial	assets	
+but	also	their	health.	among	our	health	
+offerings,	we	have	launched	a	free	online	
+medical	assistance	app	in	2020.	it	is	
+called	sundhedshjælp	(health	support),	
+and	so	far,	it	has	been	offered	to	500,000	
+private	insurance	customers.		
+	
+likewise,	2020	marks	a	milestone	for	
+the	integration	of	sustainability	into	
+our	pension	products.	in	february,	we	
+launched	formålspension	(purpose	
+pension)	in	which	the	customers	can	
+choose	green	transformation	as	one	
+of	four	specific	investment	purposes.	
+furthermore,	all	investments	are	subject	
+to	extended	esg	requirements	and	
+exclusion	of	e.g.	companies	producing	
+fossil	fuel.	less	than	a	year	after	the	
+launch,	the	investments	in	formålspension	
+have	already	rounded	dkk	1bn.		
+	
+we	have	strengthened	our	focus	on	
+responsible	investments	by	appointing	
+an	esg	asset	manager,	and	we	have	
+set	an	objective	of	having	approx.	
+20%	of	provisions	placed	in	the	green	
+transformation	by	2020.	
+in	2020,	we	have	also	continued	the	
+work	on	our	ambition	from	last	year’s	
+csr	report	of	becoming	co2	neutral	in	
+2030.	more	specifically,	we	have	had	a	
+reduction	of	15%	compared	with	2019.	
+furthermore,	we	have	looked	into	how	
+we	can	reduce	co2	emission	in	the	entire	
+value	chain.	
+we	are	committed	to	a	serious	and	
+ambitious	approach	to	csr,	and	since	
+2010,	we	have	been	affiliated	to	the	un	
+global	compact.	we	want	to	send	a	clear	
+signal	to	the	surrounding	world	that	we	
+are	proud	of	our	many	csr	actions,	which	
+you	can	read	more	about	on	the	following	
+pages.
+i	hope	you	enjoy	reading	the	csr	report!	
+peter	hermann	
+ceo
+preface
+welcome to topdanmark’s csr report 2020, in which 
+you can read about the initiatives and results for the 
+year. with this report, we wish to give an open and 
+transparent depiction of topdanmark and our work with 
+sustainability.
+photo:	stine	bidstrup
+4
+topdanmark’s	primary	task	is	to	help	our	
+customers.	therefore,	we	have	defined	a	
+top	promise	in	2020:	we	are	here	to	help.	
+the	promise	is	the	foundation	of	our	daily	
+work	in	which	we	want	to	make	a	difference	
+for	our	customers.	it	is	also	the	foundation	
+of	our	customer	aspiration:	
+“as	a	topdanmark	customer,	you	need	not	
+worry	about	insurance	and	pension.	we	
+will	take	care	of	this	for	you.	based	upon	
+your	requirements,	we	make	provisions	
+for	your	security.	making	sure	that	being	a	
+topdanmark	customer	is	easy	and	simple.	
+we	are	proactive	and	available	when	you	
+need	our	assistance.”
+the	customer	aspiration	reflects	that	
+we	want	to	help	our	customers	with	our	
+products	and	services	regardless	of	the	
+situation.	not	only	do	we	want	to	protect	
+our	customers’	financial	assets	but	also	
+their	health.	
+we	want	to	be	proactive	and	help	with	
+prevention,	so	that	damage	and	injuries	
+do	not	occur,	and	we	want	to	promote	
+well-being	and	health.	when	the	damage	is	
+done	or	the	customer	has	fallen	ill,	we	help	
+limit	the	consequences	in	the	best	possible	
+way	and	we	pay	out	compensation.	we	also	
+help	our	customers	with	advice	and	pension	
+payments	when	working	life	ends.	we	take	
+responsibility	for	our	customers	–	and	we	
+want	to	be	the	best	at	it.	
+introduction
+about topdanmark 
+topdanmark is both a non-life and life insurance company, and we offer a wide range 
+of products and services within insurance and pension to both private, commercial 
+and agricultural customers. the foundation stone of topdanmark was laid in 1899, and 
+today we are 2,450 employees across the country. topdanmark is a limited company 
+listed on nasdaq copenhagen a/s. our head office is situated in ballerup. 
+key figures 2020
+dkk 12,893 m paid out to insurance customers 
+dkk 20,713 m in premiums earned
+dkk 1,124 m profit 
+dkk 104 bn in investment activities
+  86.5 in combined ratio 
+denmark’s fourth-largest commercial 
+life insurance company
+  10.9% market share 
+103,826 private customers
+60,545 corporate customers
+83,879 people with group 
+life insurance
+denmark’s second-largest non-life 
+insurance company
+  16.3 % market share 
+502,451 private 
+customers 
+113,080 commercial and 
+agricultural customers
+5
+> read more about topdanmark e.g. 
+organisation, board of directors and 
+financial reports 
+introduction
+the importance of the main stakeholders 
+topdanmark	has	three	mutually	
+dependent	main	stakeholders:	
+customers,	employees	and	
+shareholders.
+our	starting	point	is	that	
+qualified	and	committed	
+employees	in	an	organisation	
+with	a	high	level	of	well-being	
+and	job	satisfaction	are	a	
+prerequisite	for	achieving	
+high	customer	satisfaction.	
+customer	satisfaction	is	again	
+crucial	for	customer	retention	
+and	recommendations	–	and	
+thus	a	prerequisite	for	creating	
+a	good	business	–	which	again	
+is	key	in	ensuring	satisfied	
+shareholders	by	achieving	a	
+long-term,	competitive	and	
+stable	return.
+our business structure
+our	distribution	structure	is	to	combine	our	own	sales	channels	such	
+as	online	sales	via	the	website,	insurance	agents	and	telephone	sales,	
+and	sales	and	referrals	through	a	number	of	partners.	
+6
+how we work with csr
+for topdanmark, csr means a link between business and sustainability. every day, we 
+work to create financial and social security for all our customers, for our employees and for 
+society in general– and we contribute with solutions to the climate challenges.
+introduction
+topdanmark’s	promise	of	helpfulness,	the	
+top	promise,	and	customer	aspiration	
+also	form	the	basis	for	our	approach	
+to	csr	and	sustainability.	through	
+our	products	and	advice,	we	help	our	
+customers	and	contribute	to	financial	and	
+social	security.	however,	we	also	want	
+to	contribute	to	the	development	of	a	
+socially	and	environmentally	sustainable	
+society.		
+we	want	to	make	a	difference	in	the	
+society	of	which	we	are	part	of	by	playing	
+an	active	part	in	the	solution	of	general	
+social	problems	i.a.	within	climate,	the	
+environment,	health	and	well-being.	we	
+want	to	contribute	both	through	our	
+products	and	advice	by	applying	our	
+knowledge	to	relevant	partnerships,	and	
+by	supporting	and	contributing	to	selected	
+projects	and	organisations.	
+part of the un global compact
+we	are	part	of	the	un	global	compact,	
+and	we	continuously	analyse	how	we	
+can	integrate	the	ten	principles	into	
+our	csr	and	busines	strategy.	this	also	
+includes	an	analysis	of	where	we	are	at	
+risk	of	non-compliance	with	the	principles	
+and	the	potential	consequences	to	our	
+business.	furthermore,	we	also	include	
+the	expectations	of	our	stakeholders	as	
+well	as	general	csr	risk	assessments.	
+un’s sustainable development goals 
+we	also	want	to	contribute	to	the	un’s	
+17	sustainability	goals	by	impacting	a	
+positive	development	and	by	ensuring	
+that	we	do	not	contribute	to	a	negative	
+development.	we	have	chosen	to	work	
+with	a	number	of	specific	sustainability	
+goals	to	focus	on	as	we	believe	them	to	
+be	the	most	relevant	in	respect	to	our	
+business	and	csr	strategy.	
+in	the	sections	of	this	report,	the	
+sustainability	goals	in	question	will	be	
+evident	as	well	as	how	we	contribute.	
+organisation of csr 
+the board of directors:	approves	csr	policies,	policies	on	active	ownership	and	
+diversity	policies	
+executive management: approves	annual	csr	reporting,	selected	policies	and	
+projects	
+csr steering committee:	consists	of	nine	general	managers	with	our	head	of	
+secretariat	(strategy	and	csr)	as	chairman.	the	steering	committee	is	responsible	
+for	the	csr	strategy	and	action	plan,	csr	and	esg	reporting,	and	evaluation	of	
+results.	four	meetings	are	held	annually.	
+csr manager:	ensures	implementation	of	the	csr	strategy,	prepares	csr	and	
+esg	reporting	and	other	communication.	engages	in	dialogue	with	ngos	and	other	
+stakeholders. 
+in	2020,	our	csr	officer	was	moved	organisationally	to	be	part	of	the	management	
+secretariat.	this	is	to	ensure	increased	focus	on	csr	across	topdanmark’s	business	
+units	and	divisions	and	a	stronger	link	to	our	business	strategy.	read	more	about	
+the	organisation	of	responsible	investments	on	page	31.
+7
+reporting
+we	prepare	an	annual	mandatory	csr	
+report,	which	is	also	a	progress	report	for	
+the	un	global	compact.	it	thus	constitutes	
+our	mandatory	report	on	corporate	
+social	responsibility	(see	sections	132a	
+and	132b	of	danish	executive	order	
+on	financial	reports	for	insurance	
+companies	and	lateral	pension	funds).	
+our	aim	with	this	report	is	to	present	
+an	open	and	transparent	description	of	
+topdanmark	and	our	work	with	social	
+responsibility.	
+esg report with data
+we	also	publish	an	annual	esg	report	(in	
+english)	which	primarily	contains	data,	
+method	description	and	comments	on	
+selected	key	figures,	and	it	also	covers	the	
+financial	year	concerned.	with	the	report,	
+we	want	to	meet	the	need	of	investors	
+and	esg	rating	agencies	to	get	a	quick	
+overview	of	esg	objectives	and	indicators.
+limitations and evaluation of data
+the	csr	report	as	well	as	the	esg	
+report	cover	the	financial	year	2020.	
+the	reports	apply	to	all	subsidiaries	of	
+topdanmark.	in	the	esg	report	for	2020,	
+the	method	for	the	calculation	of	data	is	
+thoroughly	explained.
+climate report
+topdanmark	reports	to	the	cdp	(carbon	
+disclosure	project),	an	international	
+environment	reporting	initiative,	which	
+works	for	transparency	and	dialogue	
+around	co2	emissions	and	climate	
+strategies	in	businesses.	the	purpose	
+is	to	make	this	knowledge	available	to	
+investors	and	other	stakeholders.	
+a	report	is	awarded	a	score	on	the	
+following	scale:	a,	a-,	b,	b-,	c,	c-,	d,	d-	
+with	a	being	the	highest	possible	score.	in	
+2019,	topdanmark’s	report	scored	a	c.	
+in	2021,	we	also	expect	to	report	on	the	
+recommendations	from	task	force	on	
+climate-related	financial	disclosures.	
+introduction
+>  read the latest the cdp report
+>  read the esg report 2020 
+8
+materiality assessment 
+our csr actions are selected based on 
+three overall criteria. 
+• risks: areas	which	pose	a	financial	or	
+reputational	risk	to	our	business.		
+• opportunities:	areas	in	which	we	can	
+contribute	to	a	sustainable	develop-
+ment	of	society	through	our	products	
+and	services,	and	at	the	same	time	be-
+nefit	our	business.		
+	
+• responsibility:	areas	in	which	we	have	
+a	special	responsibility	to	prevent	a	
+direct	or	indirect	impact	on	people,	so-
+ciety,	climate	and	the	environment,	and	
+areas	to	which	we	contribute	positively	
+through	our	organisation.	
+the	requirements	and	expectations	from	
+a	number	of	stakeholders	are	included	in	
+the	analysis,	e.g.	employees,	customers,	
+investors,	professional	associations,	
+suppliers,	ngos,	governmental	institutions	
+and	esg	rating	agencies.	
+in	the	table	to	the	right,	the	result	of	the	
+analysis	is	illustrated	and	provides	the	
+connection	to	the	seven	overall	themes	of	
+our	strategy.	
+strategy element
+risk
+opportunity
+responsibility
+customer relations
+error	in	customer	handling	and	claims	
+handling
+	
+social	and	financial	security	all	
+through	life	
+products service – 
+social sustainability  
+increase	in	mental	health	issues,	
+including	stress
+products	that	contribute	to	
+social	sustainability,	e.g.	health	
+and	well-being
+products  – climate and 
+the environment
+climate	changes	with	potential	
+increased	expenses	for	compensation
+products	that	contribute	to	
+climate	and	environmental	
+sustainability	
+investments
+investments	in	companies	in	breach	of	
+fn	global	compact
+sustainable	investment	
+products	
+climate	changes	and	co2	
+reduction	
+corporate culture
+stress	and	dissatisfaction	among	
+employees
+	
+employee	relations	including	
+health	and	training
+society
+support	for	humanitarian	
+organisations	
+tax	payments
+corporate governance 
+personal	data	and	data	ethics
+responsible	procurement	
+	
+human	rights
+diversity	and	women	in	
+management
+climate	including	co2	
+emissions
+environment
+anti-corruption
+money	laundering
+introduction
+9
+future plans 
+it	is	our	ambition	to	fully	embed	
+and	integrate	csr	into	our	core	
+business	and	business	model,	
+and	at	the	same	time	contribute	
+positively	to	a	sustainable	
+development	of	the	society	of	
+which	we	are	part.	we	are	well	
+under	way	–	in	2020,	we	have	
+taken	several	initiatives	for	
+full	integration,	but	we	are	not	
+quite	there	yet.	in	2021,	we	
+expect	to	have	ready	a	strategy,	
+performance	objectives,	kpis	
+and	an	action	plan	for	2025.	this	
+also	includes	an	assessment	of	
+the	extent	to	which	it	is	possible	
+to	analyse	any	negative	impact	
+on	the	sustainable	development	
+goals	from	our	business	and	
+investments.	
+objectives for 2020
+our csr strategy is built around seven themes with related objectives that are defined 
+based on our materiality analysis – see page 8.
+introduction
+customer relations
+		increase	in	tnps	(transaction	net	
+promoter	score)
+		increase	in	epsi	rating,	private
+		increase	in	epsi	rating,	agriculture	
+and	commercial
+		increase	in	aalund	rating
+		as	many	as	possible	appeal	cases	in	
+our	favour
+produkter – social 
+bæredygtighed
+		actions	to	promote	health	and	
+well-being	for	our	customers		
+produkter – klima og miljø
+		increase	in	repairs	of	electronics	
+		increase	in	repairs	of	windscreens	
+		increase	in	donations	of	furniture	
+etc.		
+investments
+		investments	are	made	with	
+consideration	to	un	global	compact
+		approx.	20%	of	provisions	in	
+topdanmark	livsforsikring	to	be	
+invested	in	green	companies	by	2030
+corporate governance
+the right to equality 
+		minimum	40%	of	each	gender	in	
+management	on	average	at	all	
+managerial	levels
+		one	female	candidate	for	posted	
+manage	positions	
+		minimum	40%	of	each	gender	on	the	
+succession	list		
+		minimum	three	persons	of	each	
+gender	on	the	board	of	directors.	
+climate and the environment 
+		co2	neutral	in	2030	in	terms	of	
+operation	of	our	buildings,	company	
+travel	by	car	and	air	travel	
+		reduction	of	disposable	plastic
+corporate culture
+		increase	of	2	points	in	the	employee	
+well-being	survey	
+		absence	due	to	illness	below	
+industry	level
+		employee	turnover	on	par	with	the	
+industry	level	
+society
+		minimum	20	finance	trainees	
+annually,	in	addition	to	finance	
+interns	
+		contribute	to	humanitarian	and	
+health	activities	both	nationally	and	
+internationally	
+	achieved
+	in	progress		
+	not	achieved
+10
+indledning
+customer relations
+at topdanmark, we want to build trust and create good 
+customer relations through high-quality service and advice 
+with a focus on transparency and good communication at 
+eye level. 2020 has also been marked by covid-19.
+with	our	products	and	services,	we	want	to	help	our	
+customers	regardless	of	the	situation.	we	want	to	
+address	our	customers’	concerns	in	everyday	life	and	
+help	them	along	in	life.	with	the	sales	of	our	products	
+and	services,	we	have	a	big	responsibility	-	which	we	
+take	very	seriously.
+responsibility	is	about	i.a.	being	attentive	to	the	risks	
+relating	to	our	business	e.g.	
+•	 inappropriate	customer	advice	and	product	sales	so	
+that	the	cover	does	not	match	the	customer’s	wants	
+and	needs
+•	 lack	of	clarity	on	terms	and	conditions,	prices	and	fees
+•	 errors	in	our	claims	handling	so	that	the	customer	
+does	not	receive	the	correct	compensation.
+in	order	to	minimise	these	risks	and	to	increase	the	value	
+for	the	customer,	we	continuously	work	on	improving	
+our	customer	services,	claims	process	and	sales	process.	
+in	the	customer	relation,	we	always	strive	to:
+•	 be	easy	to	understand,	accessible,	precise	and	balan-
+ced	product	information
+•	 be	transparent	regarding	price	increases
+•	 ensure	that	the	customer	has	easy	and	fair	claims	
+handling
+•	 give	the	customer	easy	access	to	a	fair	complaints	
+process
+ 321,665
+the number of person who we have 
+helped with a claim in 2020. of these 
+41,613 were personal injuries. 
+customer relations 
+11
+12
+responsible sales 
+we want our customers to have the cover that specifically matches their needs and 
+requests. this way, they will enjoy the financial and social security that they need. we 
+are aware that this requires that customers receive good and accurate advice from 
+competent employees. 
+all	our	salespersons	are	trained	at	
+forsikringsakademiet	(the	insurance	
+academy),	and	new	employees	are	
+thoroughly	trained	in	topdanmark’s	
+business	procedures	for	what	we	consider	
+to	be	an	expedient	and	responsible	
+sales	process.	we	also	ensure	ongoing	
+improvement	of	the	skills	and	personal	
+competences	of	all	our	employees.	
+	
+directive on correct communication
+topdanmark	has	implemented	idd	
+(insurance	distribution	directive),	a	
+european	directive	on	correct	insurance	
+communication,	which	has	now	been	
+applied	to	danish	national	rules.	the	rules	
+have	been	set	up	to	ensure	increased	
+consumer	protection.	this	means,	among	
+other	things,	that	our	employees	are	
+obliged	to	clearly	state	what	coverage	is	
+provided	with	our	insurance,	so	that	the	
+customer	can	make	an	informed	choice.
+quality requirements are monitored
+we	have	central	as	well	as	several	local	
+compliance	units,	which	ensure	that	our	
+salespersons	adhere	to	our	business	
+processes	and	quality	requirements.	we	
+have	a	reporting	system	which	means	
+that	we	evaluate	inappropriate	situations	
+to	improve	customer	service	and	avoid	
+mistakes,	e.g.	in	our	claims	handling.
+easy-to-understand product 
+information 
+we	service	and	provide	advice	on	subjects	
+and	situations	that	may	be	complicated	
+for	our	customers.	for	example,	this	
+applies	when	purchasing	our	products	
+–	particularly	online	and	without	direct	
+contact	to	an	employee.	
+therefore,	we	have	prepared	information	
+on	products,	prices	and	coverage	so	that	
+it	is	easy	to	comprehend	and	find.	it	is	also	
+clearly	stated	what	is	not	covered.
+when	topdanmark	prepares	new	
+insurance	terms,	customer	feedback	is	
+included	in	addition	to	general	experience.	
+all	information	on	the	insurance	is	stated	
+in	the	terms	-	no	information	is	hidden	or	
+‘written	in	small	print’
+the price reflects the concrete risk 
+we	use	micro	tariffing	to	determine	the	
+price	on	our	insurance	products.	this	
+means	that	the	price	is	based	on	a	number	
+of	criteria	to	reflect	the	concrete	risk	as	
+well	as	the	competitive	situation	for	the	
+given	situation.	
+the	criteria	that	we	use	are	based	on	
+actual	experiences	with	our	hundred	
+thousand	of	customers.	we	use	both	
+statistical	customer	data	as	well	external	
+data	and	analyses,	e.g.	national	statistical	
+weather	data,	local	theft	statistics	etc.	
+control procedures
+we	have	strict	guidelines	and	procedures,	
+including	control	procedures,	for	the	
+calculation	of	prices	which	ensure	that	
+only	actuarial	relevant	criteria	are	used.	
+we	do	not	use	the	individual	customer’s	
+marital	status,	sexual	orientation,	religion,	
+race	or	ethnical	background	as	criteria	for	
+our	pricing.	this	also	applies	for	gender	
+for	the	individual	pricing.	note	that	for	
+individual	contracts	entered	before	the	
+change	in	legislation	in	2012,	gender	
+was	used	for	pricing.	thus,	gender	can	
+still	influence	price	and	services	for	these	
+agreements	if	the	agreements	include	
+warranted	services.	
+prices are transparent
+our	prices	are	transparent,	and	thus	it	is	
+always	clear	to	our	customers	what	they	
+should	pay.	fees	which	are	not	directly	
+related	to	the	insurance	price	are	stated	
+on	our	website,	e.g.	early	termination	fee.	
+changes	to	fees	are	notified	according	to	
+legislation.
+customer relations 
+fair and easy claims handling  
+topdanmark wants to help customers and ensure that they always receive easy and fair 
+claims handling, so that they feel comfortable with the products they have purchased from 
+us. our objective is for customers to receive compensation quickly, efficiently, with great 
+service and according to the terms of the policy.
+we	have	implemented	solutions	that	
+ensure	that	our	customers	quickly	get	an	
+understanding	of	how	they	are	covered	
+and	how	the	further	process	will	be.	we	
+continue	to	improve	these	solutions.	
+we pay attention to errors
+we	process	more	than	300,000	claims	
+a	year.	therefore,	errors	cannot	be	
+completely	avoided	in	our	claims	
+handling	–	e.g.	errors	in	data	entry	when	
+creating	a	claim.	we	aim	for	as	few	
+errors	as	possible,	as	errors	are	of	great	
+inconvenience	to	our	customers.	
+when	we	become	aware	of	an	error,	we	
+fix	it	immediately.	if	the	error	has	an	
+impact	on	the	customer’s	compensation	
+or	the	future	process	that	the	customer	
+has	to	go	through,	we	pay	any	difference	
+that	may	be	and	inform	the	customer	
+accordingly.
+in	order	to	minimise	the	number	of	errors,	
+our	claims	handling	is	continuously	
+quality	assured	through	internal	controls,	
+dialogue	with	employees	and	feedback	
+from	customers.	the	best	sparring	for	
+improvement	we	actually	get	from	the	
+customers	who	have	been	through	a	
+claims	process.
+read	more	on	how	we	handle	customer	
+complaints	in	the	section	on	page	17.	
+100% 
+the percentage of claims 
+which can be reported 
+digitally. in 2020, 59% of 
+all claims were reported 
+digitally.
+customer relations 
+13
+14
+error in the compensation for pregnant 
+women was discovered in 2020
+unfortunately,	like	other	insurance	and	
+pension	companies,	topdanmark	has	
+had,	for	a	number	of	years,	derogations	
+for	pregnant	women	as	part	of	the	
+insurance	terms	particularly	for	our	
+health	insurances,	but	also	to	a	lesser	
+extent	for	other	insurances,	e.g.	travel	
+insurance	and	accident	insurance.	
+the	reason	for	this	is	that	we	have	
+not	paid	sufficient	attention	to	the	
+special	legislation	for	equality	within	
+insurance	which	means	that	pregnant	
+women	should	be	treated	equally	to	
+non-pregnant	women.	
+therefore,	we	have	unjustified	
+dismissed	some	pregnant	women	with	
+pregnant-related	injuries/illnesses	
+which	typically	require	physiotherapy	
+and	chiropractic	treatment.	likewise,	
+there	have	been	errors	in	the	treatment	
+of	pregnant	women	in	connection	with	
+other	insurances.	
+practice has been rectified
+we	became	aware	of	the	problem	
+when	it	was	brought	up	in	the	industry	
+association	insurance	&	pension	
+denmark	(forsikring	&	pension)	in	2020.	
+we	have	rectified	our	practice,	and	we	
+comply	with	the	guidelines	from	the	
+gender	equality	board.	subsequently,	
+we	have	identified	as	many	customers	
+as	possible,	and	initiated	the	process	
+of	contacting	them.	and	we	have	
+provided	the	affected	customers	with	
+the	compensation	to	which	they	were	
+entitled	to	the	greatest	possible	extent.	
+furthermore,	we	have	asked	our	
+external	auditors	to	check	the	process	
+for	the	identification	of	the	affected	
+parties.	
+in	2021,	we	will	continue	to	investigate	
+how	the	error	could	occur.	furthermore,	
+we	have	initiated	a	due	diligence	
+process	to	ensure	that	similar	cases	of	
+discriminating	claims	handling	can	be	
+avoided.	
+417% 
+the increase in telephone enquiries regarding travel insurance 
+in march and april 2020 due to covid-19.
+activities in 2020 
+assistance to customers during 
+covid-19
+the	year	2020	has	to	a	great	extent	been	
+marked	by	covid-19.	we	have	been	very	
+busy	helping	the	customers	with	travel	
+insurance	with	us	when	e.g.	they	could	not	
+travel	as	planned	or	were	stranded	abroad.	
+in	march	and	april,	we	had	a	141%	
+increase	in	email	enquiries	compared	with	
+the	same	period	in	2019,	and	a	417%	
+increase	in	telephone	enquiries.	also,	a	far	
+greater	number	of	claims	for	the	travel	
+insurance	was	reported	compared	with	the	
+year	before	–	a	268%	increase.	
+in	record-time,	we	were	able	to	establish	
+an	emergency	task	force	to	handle	the	
+many	claims,	and	this	made	it	possible	to	
+handle	the	extra	workload	that	our	travel	
+department	faced.	
+helping danish businesses 
+we	also	wanted	to	contribute	to	the	
+danish	businesses	making	it	through	
+this	extraordinary	situation	–	and	society	
+in	general.	therefore,	we	came	up	with	
+solutions	to	help	our	different	customer,	
+e.g.	in	terms	of	liquidity.	here	is	a	number	
+of	examples:
+•	 both	business	and	private	customers	
+with	topdanmark	livsforsikring	were	
+able	to	get	a	reduction	or	periodic	stop	
+for	employers	and/or	employees’	contri-
+bution	to	pension	savings.	
+•	 commercial	and	agricultural	customers	
+could	change	to	monthly	payments	
+without	the	normal	fee.	
+•	 private	customers,	who	were	carrying	
+out	emergency	services	or	other	volun-
+tary	work	in	connection	with	covid-19,	
+kept	their	premium	on	their	accident	
+and/or	personal	accident	insurance	even	
+though	their	risk	profile	changed	with	
+the	voluntary	work.
+•	 free	counselling	was	offered	to	our	mink	
+farming	customers
+•	 businesses	that	needed	to	reorganize	
+their	operations	to	help	society	in	the	
+strained	situation,	e.g.	with	producing	
+hand	sanitizer,	we	swiftly	helped	in	get-
+ting	cover.	
+examples of other activities in 2020
+•	 customers	were	contacted	by	telephone	
+instead	of	by	post	if	we	had	complex	
+messages	to	convey	e.g.	in	connection	
+with	a	claim	–	and	thus	we	want	to	en-
+sure	that	the	customer	concerned	is	fee-
+ling	well	informed.
+•	 to	a	greater	extent	than	previously,	we	
+have	contacted	customers	by	telephone	
+to	ensure	that	they	have	the	relevant	in-
+surance	cover	for	their	wants	and	needs.
+read	about	our	health	initiatives	in	2020	
+on	pages	19-24.	
+customer relations 
+15
+objectives for our customer satisfaction 
+we follow our customers’ satisfaction with us as an 
+insurance and pension company. thus we learn from 
+both positive and negative feedback and ensure that we 
+always deliver the best possible service.
+customer surveys: objectives and results 
+objectives 
+2017
+2018
+2019
+2020
+tnps for contact by telephone 
+increase	in	points	
+(-100-+100)	1)
+49
+45
+48
+59
+tnps for digital self-service 
+increase	in	points	
+	(-100-+100)	1)
+38
+38
+44
+45
+epsi rating for private customers 
+in topdanmark non-life insurance 
+increase	in	points	
+	(0-100	points)
+76.8
+77.5
+75.3
+73.7
+epsi rating for commercial 
+customers in topdanmark non-life 
+insurance 
+increase	in	points	
+(0-100	points)	2)		
+73.5
+-
+69.1
+70.3
+aalund rating
+maintain	the	position	as	the	life	
+insurance	company	with	the	most	
+satisfied	customers.	3)
+2nd	place		
+1st	place
+1st	place
+3rd	place
+1)	tnps	is	calculated	as	the	net	result	of	the	share	of	”promotors”	(who	replied	9-10)	less	the	share	of	”detractors”		
+(who	replied	0-6)	on	the	question	to	what	extent	they	would	recommend	topdanmark	to	others.	
+2)	epsi	did	not	perform	a	survey	on	commercial	customers	in	2018.	
+3)	among	the	three	parametres	in	the	aalund	rating	-	satisfaction,	image	and	loyalty	–	we	report	on	the	result	for		
+’satisfaction’	for	companies	with	10–49	employees	which	is	topdanmark	livsforsikring’s	primary	segment.	
+we	make	targeted	efforts	to	ensure	that	
+all	our	customers	have	the	best	possible	
+experience	with	us.	our	objective	is	that	
+the	customers	should	be	so	satisfied	with	
+our	products	and	services	that	they	want	
+to	recommend	us	to	others.	therefore,	
+we	collect	knowledge	on	customer	
+experiences	through	systematic	surveys	–	
+both	internal	and	external.
+internal surveys
+• transactional net promotor score 
+(tnps),	which	tells	us	whether	our	cust-
+omers	want	to	recommend	us	to	others	
+after	they	have	been	in	contact	with	us
+• top promise:	we	are	here	to	help.	since	
+1	july	2020,	we	have	on	an	ongoing	
+basis	asked	the	customers	who	we	are	in	
+contact	with	one	question:	“think	about	
+topdanmark	in	general	–	how	helpful	do	
+you	think	we	are?”
+on	an	annual	basis,	we	get	about	130,000	
+customers’	replies	to	our	customer	
+surveys.	
+external surveys
+• epsi, which	performs	satisfaction	sur-
+veys	on	i.a.	the	insurance	industry
+• aalund, which	performs	satisfaction	sur-
+veys	on	life	insurance	companies
+• trustpilot 
+we	closely	monitor	the	results	of	all	
+surveys	with	the	aim	of	learning	and	
+improving	our	service,	and	we	have	set	up	
+ambitious	objectives	regarding	tnps,	epsi	
+and	aalund.		
+see	the	top	promise	surveys	and	read	our	
+evaluation	on	all	the	2020	survey	results	
+on	page	16.
+	
+69% 
+is the percentage of the 
+customers, who have given 
+us top-grades in our top 
+promise survey.
+customer relations 
+16
+evaluation of customer 
+satisfaction in 2020
+the	results	of	the	internal	and	external	
+surveys	point	to	different	directions.	the	
+internal	surveys	show	improvement,	e.g.	
+we	have	an	increase	in	tnps	for	customers	
+who	have	called	us.	it	is	more	than	10	
+points	higher	than	in	2019,	which	is	a	very	
+satisfactory	result.	we	see	it	as	an	indicator	
+of	us	becoming	even	better	at	assisting	our	
+customers	in	a	satisfactory	manner	both	
+before,	during	and	after	a	claim.	
+covid-19 has caused challenges
+the	results	of	the	external	surveys	are	at	
+the	same	time	satisfactory	and	giving	food	
+for	thought.	according	to	the	epsi	survey,	
+there	is	an	improvement	in	the	satisfaction	
+level	of	our	commercial	customers,	which	
+is	very	satisfactory.	however,	among	
+private	customers,	the	satisfaction	level	
+has	decreased	for	the	entire	non-life	
+insurance	industry.	this	is	also	the	case	for	
+topdanmark,	however,	less	than	for	our	
+biggest	competitors.	
+we	assess	that	the	decrease	in	the	epsi	
+rating	is	mainly	due	to	covid-19	which	has	
+challenged	our	ability	to	provide	the	service	
+that	the	customer	expected	and	needed.	
+likewise,	topdanmark	livsforsikring	drops	
+in	the	aalund	rating	which	we	ascribe	
+to	a	year	marked	by	instability	and	it	
+implementations.	
+customer satisfaction score on trustpilot: overview 
+ 
+2017
+2018
+2019 1)
+2020
+total	score	on	trustpilot	
+8.8
+8.6
+4.4
+4.4
+1)	in	2019,	trustpilot	changed	the	trustscore	to	from	a	ten-point	scale	to	a	five-point	scale.	converted	to	the	
+old	scale,	the	result	was	8.8	in	both	2019	and	2020.
+the top promise: we are here to help.1)
+question to the customer
+channel 
+unit  
+2020
+in general – how willing 
+to help do the customers 
+find topdanmark
+after	contact	by	
+telephone
+share	of	customers	that	give	us	
+top	marks	i.e.	5	(on	a	scale	of	
+1-5)
+69%
+after	digital	self-
+service
+share	of	customers	that	give	us	
+top	marks	i.e.	5	(on	a	scale	of	
+1-5)
+58%
+1)	the	result	is	based	on	a	survey	taking	place	from	1	july	2020	to	31	december	2020.	
+future plans 
+overall,	the	results	from	2020	give	
+rise	to	an	objective	of	improving	
+our	service	quality	in	order	for	
+us	to	meet	the	expectations	of	
+our	customers	to	an	even	greater	
+extent	–	both	in	terms	of	personal	
+service	and	digital	solutions.	
+we	will	focus	even	more	on	
+a	proactive	approach	to	our	
+customers	and	sharpen	our	
+advice.	we	believe	that	this	can	
+contribute	significantly	to	us	
+being	true	to	the	top	promise	and	
+customer	aspiration	–	and	thus	
+achieve	a	higher	level	of	customer	
+satisfaction	in	all	surveys.	
+customer relations 
+17
+complaints are used to 
+improve matters
+topdanmark processes approx. 300,000 claims a 
+year. therefore, it cannot be avoided that we receive 
+complaints from customers about the compensation or 
+service they have received. we use the complaints to 
+improve our communication and advice.
+insurance	and	pension	products	can	
+be	difficult	to	understand,	and	in	some	
+cases	the	compensation	or	assistance	
+in	the	claims	situation	does	not	live	up	
+to	the	customer’s	expectation.	this	may	
+for	example	be	due	to	restrictions	in	the	
+terms	of	which	the	customer	has	not	been	
+aware,	or	that	the	customer	is	unable	to	
+document	the	values	to	be	replaced.
+we	attach	great	importance	to	our	
+customers	being	clearly	informed	about	
+their	avenues	of	complaint.	for	example,	
+the	information	is	available	on	our	
+website	and	in	our	correspondence	to	the	
+customer	if	we	turn	down	compensation.	
+we	endeavour	to	ensure	an	easy	and	fair	
+complaint	process
+internally,	we	use	customer	complaints	
+to	assess	how	we	can	improve	our	
+communication	and	advice.	
+correct decision is the objective 
+if,	in	private	insurance	cases,	the	
+customer	disagrees	with	our	decision	
+on	a	claim,	the	customer	is	entitled	to	
+appeal	to	the	insurance	complaints	board	
+(ankenævnet	for	forsikring).	the	number	
+of	customer	complaints	that	are	passed	
+on	to	the	insurance	complaints	board	
+is	under	one	per	thousand	claims	we	
+receive.	
+our	objective	is	to	succeed	in	as	many	
+appeal	cases	as	possible	brought	before	
+the	insurance	complaints	board	as	this	
+demonstrates	that	our	decisions	are	
+correct.	regardless	of	the	outcome,	
+we	always	use	appeal	cases	to	assess	
+how	we	can	improve	our	customer	
+communication.	in	2020,	we	met	our	
+objectives	–	see	the	charts	to	the	right.	
+percentage of decisions in topdanmark’s favour 1)
+2017
+2018
+2019
+2020
+non-life	insurance
+77
+78
+85
+86
+life	insurance	
+82
+100
+100
+83
+1)	in	other	decisions,	it	has	been	ruled	against	or	partially	ruled	against	topdanmark	
+number of decisions before the insurance complaints board
+2017
+2018
+2019
+2020
+non-life	insurance
+131
+129
+117
+127
+life	insurance	
+11
+21
+8
+12
+under 1 ‰ 
+is how many of our customer complaints that are 
+presented before the insurance complaints board.
+customer relations 
+18
+19
+products and services - social sustainability 
+products and services 
+- social sustainability  
+not only do we want to protect our customers’ financial 
+assets but also their health. therefore, health and 
+well-being initiatives play a central role in our business. 
+illness	and	injuries	often	have	far	greater	
+consequences	than	just	the	financial	
+consequence.	this	applies	to	both	the	
+individual	customer,	to	topdanmark	and	
+to	society	in	general.	
+some	of	the	most	severe	injuries,	both	
+physical	and	mental,	involve	the	risk	of	
+losing	part	or	all	earnings	capacity,	and	
+thus	contact	with	the	labour	market.	in	
+the	last	resort,	this	can	lead	to	a	life	on	
+disability	pension.
+we	want	to	help	prevent	serious	injuries	
+and	illnesses,	and	therefore,	health	and	
+well-being	initiatives	are	such	a	central	
+part	of	our	business.	when	an	injury	or	
+illness	occurs,	we	also	have	initiatives	that	
+help	limit	the	scope	of	the	injury	or	illness	
+–	and	thus	help	the	injured	party	back	to	
+everyday	life.	
+our actions make a difference
+many	initiatives	can	come	into	play	in	
+relation	to	loss	of	earnings	capacity	
+insurance,	health	insurance,	workers’	
+compensation	and	liability	insurance.	
+we	continuously	evaluate	our	different	
+processes	and	methods,	and	evaluations	
+show	that	the	actions	do	make	a	
+difference	to	our	customers.
+contributes	to	less	absence	due	to	illness
+according	to	a	report	from	the	danish	
+employers’	confederation,	absence	due	
+to	illness	sets	back	the	danish	society	and	
+companies	dkk	46bn	on	an	annual	basis,	
+from	which	70%	are	for	business.	with	
+our	large	number	of	actions,	we	play	an	
+active	role	in	preventing	and	reducing	the	
+absence	due	to	illness	with	our	insured	
+business	customers.	this	benefits	both	
+society,	the	businesses	and	the	individual	
+person.		
+topdanmark	services	a	number	of	small	
+and	medium-sized	corporate	customers	
+that	do	not	have	an	actual	hr	department	
+which	can	initiate	health-care	initiatives	
+for	the	employees.	in	this	connection,	our	
+coordination	of	counselling	and	actions	
+can	be	a	great	help.
+on	the	following	pages,	we	describe	four	
+specific	initiatives	that	have	made	positive	
+contributions	to	health	and	well-being	in	
+2020.
+goal	3:		good	health	and	well-being.
+with	our	health	actions,	we	contribute	
+to	the	primary	goal	for	good	health	and	
+well-being.	the	underlying	targets	and	
+indicators	solely	address	global	pro-
+blems	in	developing	countries	which	we	
+find	difficult	to	contribute	to	directly	
+with	our	chosen	market.	
+70 agricultural 
+customers have received 
+free advice on prevention of 
+injuries in 2020.
+20
+receives	a	health	score	and	an	individual	
+report	with	advice	and	guidance	for	
+improving	their	health.	it	is	also	possible	
+to	contact	the	relevant	health	staff	for	
+further	guidance.	furthermore,	based	on	
+the	screening,	the	businesses	receive	an	
+anonymised	report	for	all	employees	with	
+clear	recommendations	and	preventive	
+actions.	
+the	purpose	of	the	screening	is	to	
+uncover	the	needed	actions	for	both	
+the	business	and	the	individual	emplo-
+yees.	it	is	also	possible	to	measure	the	
+effect	of	any	health	initiatives	by	a	fol-
+low	up	screening.	the	health	screening	
+can	be	combined	with	a	physical	health	
+check	and	personal	session	with	a	
+health	professional.	
+activities in 2020
+topsund	shows	good	results
+in	2020,	a	company	underwent	a	
+follow-up	health	screening	after	they	
+had	implemented	a	number	of	health	
+initiatives	in	collaboration	with	topdan-
+mark.	the	result	showed	a	significant	
+improvement	on	all	health	parametres,	
+and	in	the	same	period,	the	company	
+reduced	their	expenses	for	absence	due	
+to	illness.	
+free workplace assessment for small 
+companies 
+in	2020,	we	offered	free	health	
+screenings	and	help	to	carry	out	work-
+place	assessments	for	small	companies	
+a	pilot	project.	the	statutory	workplace	
+assessment	can	be	a	burden	on	the	
+small	companies	to	carry	out,	and	the-
+refore,	it	is	often	omitted.	
+health advice in the light of 
+covid-19
+based	on	the	covid-19	situation,	we	
+have	paid	great	attention	to	advice	
+on	physical	and	mental	well-being	at	
+the	home	office.	counselling	has	been	
+given	as	virtual	presentations	as	well	
+as	by	sending	out	various	material	on	
+health	and	well-being	targeted	at	the	
+circumstances	during	the	restrictions	
+in	force.	
+topdanmark	livsforsikring	wants	to	have	
+the	strongest	health	concept	on	the	market	
+based	on	evidence	and	valid	research	results.	
+therefore,	we	have	a	wide	range	of	health	
+and	prevention	concepts	which	can	be	applied	
+according	to	the	needs	and	challenges	of	the	
+individual	businesses,	so	that	the	actions	make	
+the	most	sense.	
+topsund is targeted prevention 
+one	of	the	specific	concepts	we	offer	our	
+business	customers	is	topsund.	
+the	core	of	the	concept	is	an	initial	online	health	
+screening	which	includes	both	physical	and	
+mental	health.	subsequently,	each	employee	
+more health to the many
+through our life insurance company, we work actively on creating physical and mental well-being with the employees 
+in the businesses insured with us. thus, we come into contact with and help many people across society with their 
+health, e.g. by health checks and screenings.
+ 
+6,948
+the number of employees with 
+our business customers who 
+have made use of the online 
+health screening in the period 
+2018-2020.
+320
+the number of business 
+customers with a health 
+insurance with us which we 
+have helped with health and 
+well-being in 2020.
+future plans 
+based	on	the	good	experience	
+with	topsund,	we	want	to	have	
+far	more	businesses	benefit	from	
+the	concept	of	preventive	actions.	
+therefore,	we	broadly	offer	
+the	concept	for	free,	including	
+workplace	assessment,	to	our	
+customers	in	2021.	
+products and services - social sustainability 
+21
+free health support through an app
+in 2020, there has been an increased focus on the danes’ health – both physical and mental health. this focus we 
+share in topdanmark, and therefore, we have launched a new health app “sundhedshjælp” (health support).
+topdanmark	wants	to	help	all	our	
+customers	with	their	health,	regardless	of	
+where	they	are.	therefore,	in	december	
+2020,	we	launched	free	access	to	quick	
+and	easy	medical	assistance	to	the	
+customers	with	at	least	two	insurance	
+policies	with	us.	we	call	the	concept	
+“sundhedshjælp”	(health	support),	and	
+in	2020	it	was	offered	to	approx.	half	a	
+million	customers	–	and	to	our	employees.	
+sundhedshjælp	includes	two	services	
+supplied	by	an	external	supplier:	
+talk to a doctor
+online	or	telephone	consultation	with	a	
+danish	speaking	doctor	who	can	assist	
+in	both	mild	and	more	severe	cases	of	
+illness.	it	is	possible	to	book	consultations	
+all	days	of	the	week	from	06	–	21	no	
+matter	where	in	the	world	you	are.	
+expert opinion
+the	possibility	of	an	extra	impartial	
+assessment	(also	called	a	second	opinion)	
+from	one	or	more	international	experts	
+if	you	have	been	diagnosed	or	are	in	a	
+course	of	an	illness.
+the	support	is	freely	available	for	all	
+registered	customers	and	employees,	
+and	it	can	be	used	as	a	supplement	to	
+the	regular	health	care	system.	with	
+sundhedshjælp,	we	want	to	supplement	
+our	focus	on	ensuring	the	danes’	assets	
+to	also	include	protecting	their	health.	
+500,000
+the number of customers who have free 
+access to sundhedshjælp.
+products and services - social sustainability 
+22
+improvement of mental 
+health
+more and more people get affected by stress and other 
+mental illnesses such as anxiety and depression. in 
+2020, topdanmark actively entered a new partnership to 
+relieve the tendency. 
+according	to	numbers	from	the	national	
+research	centre	for	the	working	
+environment	(nfa),	the	number	of	sick	
+notes	due	to	mental	illness	have	increased	
+in	recent	years	in	danish	society.	today,	
+mental	health	issues	account	for	between	
+26%	and	48%	of	the	total	absence	due	
+to	illness	and	approx.	42%	of	all	early	
+retirements	nationally.	
+increased attention on mental health 
+for	several	years,	topdanmark	has	made	
+it	a	priority	to	take	action	in	regard	
+to	mental	health,	partly	in	terms	of	
+prevention,	and	partly	when	the	damage	
+is	done.	this	focus	was	increased	in	
+2020,	when	as	the	first	commercial	
+pension	company	we	entered	into	
+collaboration	with	sammen	om	mental	
+sundhed	(together	on	mental	health)	–	a	
+multidisciplinary	partnership	initiated	by	
+the	danish	ministry	of	health.	by	doing	so,	
+we	engage	to	work	for	improvement	of	
+mental	health	in	workplaces	in	denmark.	
+this	will	be	through	actions	for	both	our	
+own	employees	and	for	the	employees	of	
+our	business	customers.	
+new knowledge for better advice
+as	part	of	the	partnership,	we	expect	
+to	have	the	latest	knowledge	in	the	
+field	and	the	possibility	of	sparring	on	
+new	evidence-based	initiatives	in	the	
+workplaces.	thus	we	can	improve	our	
+advice	and	health	products,	and	in	that	
+way	contribute	to	improved	well-being	
+and	less	absence	due	to	illness	in	society.	
+”sammen om mental sundhed” 
+(together	on	mental	health)
+facts about the partnership
+•	 the	aim	is	to	establish	binding	collaboration	with	relevant	stake-
+holders	on	mental	health	at	the	workplace.
+•	 the	target	group	is	all	workplaces	in	denmark	and	all	types	of	
+employee.
+•	 sammen	om	mental	sundhed	is	financed	via	the	budget.
+•	 so	far,	the	partnership	consists	of	46	players	across	the	private	
+and	public	sectors.	
+	
+products and services - social sustainability 
+23
+help after a severe injury or illness
+when customers or people covered by our insurances are hit by severe illness or are severely injured, we try to help 
+with individualised efforts, so that they can get back to normal everyday life. 
+we	have	many	different	health	
+programmes	which	we	apply	in	different	
+situations.	we	apply	the	concept	
+topomsorg®,	in	the	event	of	severe	and	
+long-term	course	of	disease	of	injury	
+covered	by	the	loss	of	earning	capacity	
+insurance.	
+individualised programme through 
+topomsorg®
+a	programme	with	topomsorg®	is	
+individually	adjusted	with	a	focus	on	the	
+situation	and	needs	of	the	individual.	this	
+is	intended	to	help	the	claimant	back	to	
+health	and	back	to	a	normal	everyday	life.	
+we	attach	great	importance	to	starting	
+the	efforts	as	early	as	possible	to	increase	
+the	possibility	of	recovery.	
+help where it benefits the most
+with	topomsorg®,	we	offer	help	in	
+the	areas	where	we	assess	that	help	is	
+lacking,	and	where	it	is	most	beneficial.	
+the	claimant	gets	affiliated	with	a	social	
+worker	who	helps	navigate	between	
+the	many	parties	involved	and	also	
+helps	to	plan	the	optimal	programme	
+of	treatment.	the	assistance	can	also	
+consist	of	dialogue	with	the	workplace	and	
+ultimately	help	in	finding	a	new	job.
+we	also	cooperate	with	the	local	job	
+centres,	so	that	the	sick	person	gets	
+a	holistic	programme.	there	may	be	
+situations	in	which	the	local	authorities	
+do	not	have	the	opportunity	to	make	the	
+necessary	efforts.
+individualised programme for 
+work-related injuries and third-party 
+liability 
+topdanmark	itself	employs	a	number	of	
+social	workers	and	health	professionals,	
+who	are	used	for	the	individual	
+programmes	covered	by	workers’	
+compensation	and	third-party	liability	
+insurance.	furthermore,	we	employ	
+specialists	for	specific	disease	areas.	this	
+could	e.g.	be	rehabilitation	of	people	who	
+have	been	seriously	injured	-	primarily	
+work-related	injuries.	
+an	individual	programme	is	planned,	
+which	may	include	e.g.	counselling	
+from	social	workers,	physiotherapists,	
+psychologists	or	pain	doctors.
+products and services - social sustainability 
+24
+notification of fitness to return to work after individualised efforts covered by third-party liability or 
+workers’ compensation 
+2019
+2020 1)
+the	percentage	of	claimants	who	were	fully	fit	to	return	to	
+work
+-
+56%
+the	percentage	of	claimants	who	were	partly	fit	to	return	to	
+work
+-
+10%
+1)	the	percentage	has	been	calculated	based	on	a	total	of	338	claimants	who	finished	an	individualised	programmes	in	2020	covered	by	the	custo-
+mer’s	liability	insurance	or	workers’	compensation.
+notification of fitness to return to work after topomsorg® programme covered by loss of earnings 
+capacity insurance 
+2019
+2020   1)
+the	percentage	of	claimants	who	were	fully	fit	to	return	to	
+work
+54%	
+53%
+percentage	of	people	of	the	sick	list	who	went	back	to	work,	
+either	fulltime	of	part	time	
+75%
+76%
+1)	the	percentage	has	been	calculated	based	on	a	total	of	242	claimants	who	finished	individualised	programmes	in	2020	and	who	were	covered	by	
+the	customer’s	loss	of	earnings	capacity	insurance	
+future plans
+based	on	the	positive	experiences	from	previous	
+years,	we	will	continue	to	offer	individualised	
+efforts	when	the	damage	is	done.	in	2021,	we	will	
+in	collaboration	with	the	employers	increase	our	
+focus	on	preventing	injuries	to	the	body	and	head	
+injuries.
+help in getting back to normal everyday 
+life 
+we	continuously	evaluate	the	different	
+efforts	and	concepts,	both	to	assess	
+whether	they	really	do	help	the	claimants	
+in	their	recovery	and	returning	to	a	
+normal	everyday	life,	but	also	to	develop	
+the	concepts.	our	overall	assessment	is	
+that	the	efforts	do	help	the	claimants	in	
+their	recovery	–	this	is	illustrated	in	the	
+charts	below.	
+activities in 2020  
+in	2020,	the	actions	to	help	injured	and	
+ill	customers	were	impacted	by	covid-19	
+restrictions.	in	2020,	a	substantial	part	of	
+our	work	has	thus	been	to	maintain	and	
+develop	the	efforts	which	were	already	
+initiated	before	the	covid-19	close-down,	
+and	which	were	in	danger	of	coming	to	a	
+standstill.	
+53 % 
+this is the percentae of claimants who 
+were fully fit to return to work after a 
+topomsorg programme 2020.
+products and services - social sustainability 
+25
+26
+in recent years, we have experienced more extreme 
+weather as a result of higher temperatures and general 
+climate change. we want to contribute with solutions that 
+benefit both our customers and society. 
+products and services – climate and the environment
+products and services  
+– climate and the environment 
+we	contribute	specifically	to:	
+12.5:	before	2030,	the	generation	of	
+waste	should	be	reduced	significantly	
+through	prevention,	reduction,	re-
+covery	and	recycling.
+we	also	contribute	to:
+13.1:	strengthen	resilience	and	
+adaptive	capacity	to	climate-related	
+hazards	and	natural	disasters	in	all	
+countries.	
+the	more	extreme	weather	poses	a	
+challenge	to	everybody,	also	to	us	as	an	
+insurance	company.	we	need	both	quick	
+solutions	to	how	we	adapt	to	changing	
+weather	conditions	and	long-term	solutions	
+in	which	everyone	should	be	involved	in	
+partnerships:	citizens,	public	authorities,	
+private	players,	ngos	-	and	topdanmark.
+we	support	the	paris	agreement’s	target	of	
+a	maximum	temperature	rise	of	1.5	degrees	
+by	2050,	and	we	want	to	integrate	climate	
+considerations	into	the	way	we	do	business.	
+at	the	same	time,	we	want	to	support	the	
+government’s	climate	act	and	the	goal	of	a	
+70%	co2	reduction	in	2030.	
+prevention and risk-based pricing 
+to	an	insurance	company,	climate	changes	
+pose	a	business	risk,	as	it	can	lead	to	
+increased	claims	costs.	we	mitigate	the	risk	
+e.g.	through	a	comprehensive	reinsurance	
+programme,	preventive	actions	either	as	a	
+requirement	to	the	customer	or	as	an	offer	
+possibly	in	combination	with	a	reduction	of	
+the	premium,	and	risk-based	pricing.	
+climate-friendly solutions 
+the	new	weather	challenges	also	call	for	
+us	to	continuously	develop	new	products	
+and	services	that	meet	the	customers’	new	
+needs	for	security	and	stability	in	everyday	
+life.	this	also	applies	in	situations	with	more	
+extreme	weather.	
+environmental challenges
+in	addition	to	climate	change,	society	faces	
+a	number	of	challenges	in	relation	to	our	
+environment.	for	example,	in	denmark	
+-	and	globally	-	there	is	a	reduction	of	
+biodiversity,	too	much	nitrogen	emission	in	
+maritime	areas,	and	excess	consumption	
+of	resources.	we	want	to	contribute	
+to	solutions	through	our	products	and	
+services	and	the	way	we	handle	claims.	
+27
+prevention – an innovative approach
+prevention of damage to buildings and machines does not only benefit our customers, 
+but also limits the negative impact on climate and the environment. we want to be 
+front-runners within the field. 
+prevention	of	damage	to	buildings	and	
+machines	does	not	only	benefit	businesses	
+and	farmers	as	it	provides	stable	
+operations.	it	also	has	a	positive	impact	
+on	both	climate	and	the	environment	as	it	
+e.g.	prevents	water	spillage	and	prevents	
+co2	emissions	by	limiting	the	need	for	
+repairs	and	reconstruction.	
+we	want	to	be	front-runners	within	
+prevention,	and	therefore	we	continuously	
+work	on	providing	new	solutions.	we	see	
+a	potential	in	using	new	technologies	such	
+as	iot	solutions.	
+new solutions – and challenges 
+we	have	an	experimenting	approach	
+based	on	analyses	of	our	customers’	
+needs	–	also	in	relation	to	climate	and	
+environmental	problems.	in	collaboration	
+with	relevant	partners	and	customers,	we	
+test	the	new	solutions.	
+however,	we	have	experienced	that	we	
+are	not	always	successful	in	finding	new	
+innovative	prevention	solutions	that	our	
+customers	will	adopt.	for	example,	we	
+have	offered	a	sensor	solution	for	slurry	
+tanks	which	can	prevent	both	damage	to	
+the	tank	and	limit	slurry	spillage,	while	at	
+the	same	time	provide	the	farmer	with	
+a	better	overview	of	the	capacity	of	the	
+tank.	the	solution	was	free	of	charge,	
+however,	the	interest	was	low.	
+continued learning
+we	learn	from	this	and	other	cases,	and	
+we	continue	to	explore	and	experiment	
+to	find	just	the	right	solutions	that	
+prove	to	be	relevant	for	our	private,	
+commercial	and	agricultural	customers.	
+this	also	applies	in	relation	to	the	green	
+transformation	which	occupies	many	of	
+our	customers.	
+	
+5,829 
+the number of water sensors, called leakbot, which were 
+installed free of charge in 2020 with houseowners in high 
+risk of burst waterpipes. it has been assessed that this has 
+prevented a total of approx. 8.7 million litres of unnecessary 
+water spillage.
+products and services – climate and the environment
+28
+topdanmark	processes	a	great	deal	
+of	claims	annually,	e.g.	cars,	buildings,	
+furniture,	objects	and	it	equipment	where	
+we	either	pay	out	an	amount	to	buy	a	new	
+item	or	pay	for	repair.
+we	want	to	integrate	climate	and	
+environmental	considerations	into	the	
+claims	handling	process	by	e.g.	promoting	
+recycling	and	repair	and	focus	on	co2	
+reduction	when	cleaning	damaged	
+buildings.	we	have	defined	a	number	of	
+objectives	–	see	the	chart	on	this	page.			
+activities in 2020 
+in	2020,	we	have	initiated	a	
+comprehensive	analysis	of	how	we	can	
+work	more	systematically	with	recycling,	
+repair	and	co2	reduction	in	our	claims	
+handling	for	all	types	of	claim.	as	one	of	
+the	concrete	initiatives	in	2020,	we	have	
+initiated	a	process	with	the	objective	of	
+reducing	co2	emissions	in	connection	with	
+dehumidification	after	rainwater	damage.	
+read	more	about	our	new	ambitions	for	
+climate	and	environment	on	page	46.	
+a great idea that did not work in 
+practice 
+since	2018,	we	have	worked	with	a	
+concept	of	donating	usable	furniture	
+and	objects	from	claims	to	actalliance	
+instead	of	sending	it	for	incineration.	
+the	idea	seemed	promising,	however,	it	
+turns	out	that	in	practice,	the	quality	of	
+the	furniture	is	too	low	to	be	sold	at	the	
+charity	shops.	due	to	a	too	low	amount,	
+the	project	was	terminated.	
+sustainability in claims handling
+as a non-life insurance company, we process much damage to buildings, cars and 
+objects, such as furniture, mobile phones and computers. in this process, we want to 
+focus on recycling, repair and co2 reduction. 
+furniture for recycling after damage – objective and result 
+objective 2021
+2017
+2018
+2019
+2020
+increased	number	of	furniture	and	
+objects	for	recycling
+-
+15	pieces	of	
+furniture	and	
+objects
+20	pieces	
+of	furniture	
+and	objects	
+in	addition	to	
+two	boxes	of	
+clothing
+24	pieces	of	
+furniture	and	
+objects
+after damage to cars: objective and result
+objective 2021
+2017
+2018
+2019
+2020
+increase	in	the	percentage	of	repair	
+of	car	windows
+-
+38%
+42%
+41%
+after damage to electronics: objective and result
+objective 2021
+2017
+2018
+2019
+2020
+increase	in	the	percentage	of	repair	
+of	telephones,	computers	and	
+tablets	
+57%
+66%
+70%
+69%
+the	minor	decrease	in	the	percentage	of	repairs	in	2020	compared	with	2019	is	due	to	an	increase	in	cash	indemnity	
+after	damage.	this	is	to	provide	a	quicker	claims	process	and	thus	a	better	customer	experience.
+future plans
+in	order	to	maintain	focus	on	
+recycling,	we	want	to	initiate	a	pilot	
+project	on	the	return	of	units	in	
+the	cases	where	the	customer	has	
+received	cash	indemnity.	the	aim	is	to	
+sell	spare	parts	for	recycling.	
+read	more	about	how	we	work	with	
+climate	and	the	environment	in	the	
+operation	of	our	organisation	on		
+page	43.	
+products and services – climate and the environment
+29
+help to farmers in climate changes 
+more extreme weather can cause a lower crop yield for the farmers. with a new 
+insurance, they can cover their losses caused by the weather.
+the	consequences	of	climate	change	with	
+more	extreme	and	unpredictable	weather	
+can	adversely	affect	crop	yields,	and	thus	
+hit	farmers	hard	financially.	therefore,	
+as	the	first	danish	company,	we	have	
+introduced	a	crop	insurance	that	provides	
+compensation	for	loss	of	crop	yield	
+caused	by	extreme	weather.	
+stable operation and income
+the	product	itself	does	not	directly	
+contribute	to	solving	the	climate	
+challenges,	but	it	helps	farmers	to	have	
+a	more	stable	operation	during	the	
+new	weather-related	circumstances.	
+the	insurance	covers	up	to	80%	of	the	
+farmer’s	lost	earnings.	in	the	future,	this	
+may	help	to	smooth	cyclical	fluctuations	in	
+relation	to	effects	of	the	climate	changes.
+farmers expect more unstable weather 
+prior	to	the	development	of	the	new	
+insurance	product,	we	have	researched	
+the	agricultural	sector’s	needs	and	
+concerns	in	relation	to	severe	weather	in	
+the	future,	and	how	it	will	affect	the	crop	
+yield.	of	the	responding	farmers,	59%	
+responded	that	they	expect	more	unstable	
+weather	over	the	next	10	years.	drought,	
+cloudbursts,	storms	and	hail	were	
+primarily	identified	as	the	major	adverse	
+climate	impacts	for	the	harvest.	the	same	
+proportion	of	farmers	expressed	interest	
+in	an	insurance	product.
+activities in 2020 
+after	launching	the	first	version	of	the	
+crop	insurance,	the	cover	has	now	been	
+extended,	so	we	are	now	able	to	offer	
+the	insurance	on	the	most	common	
+agricultural	crops	as	well	as	several	
+specialised	crops.
+the	product	has	been	well	received	on	the	
+market,	but	as	with	all	new	products,	the	
+customers	need	time	to	get	accustomed	
+to	it.	furthermore,	as	the	weather	in	2020	
+provided	the	farmers	with	nearly	optimum	
+conditions	for	growth,	this	has	most	likely	
+also	affected	the	interest	in	the	product.	
+	
+>read how another of our insurance 
+solutions contributes to fewer 
+chemicals in the fields
+products and services – climate and the environment
+30
+31
+investments
+we want to give our customers the best possible return that can ensure their financial 
+security when work life ends. at the same time, we make sure that the investments are 
+responsible and support the paris agreement.
+topdanmark	invests	both	the	insurance	
+reserves	and	pension	customers’	savings	
+until	the	funds	are	paid	in	the	form	of	
+compensation,	pension	payments	and	
+the	like.	topdanmark	wishes	to	attain	the	
+biggest	possible	return	on	investments	in	
+relation	to	risk,	but	we	also	wish	to	ensure	
+that	value	creation	is	responsible	and	not	
+in	contravention	of	the	internationally	
+recognised	standards	and	principles	or	
+conventions	adopted	by	denmark.
+against	this	background,	we	have	
+prepared	policies	on	responsible	
+investments	and	active	ownership	which	
+describe	the	criteria	applicable	to	our	
+investment	activities.	we	have	our	own	
+asset	management	which	invests	actively.	
+that	means	that	we	select	for	ourselves	
+which	shares,	bonds,	property	types	etc.	
+to	invest	in	and	for	how	long.
+in	2020,	we	have	strengthened	the	area	
+by	appointing	an	esg	asset	manager.
+support to the paris agreement
+in	the	investment	activities	undertaken	by	
+topdanmark	livsforsikring,	topdanmark	
+will	take	into	account	the	transformation	
+of	the	energy	supply	in	accordance	with	
+the	un	climate	convention	unfccc	-	
+which	the	paris	agreement	is	part	of.	
+against	this	background,	the	company	
+has	set	a	goal	that	green	investments	will	
+constitute	approx.	20%	of	the	provisions	
+in	topdanmark	livsforsikring	in	2030.
+new policy on responsible investments
+topdanmark’s	policy	on	responsible	
+investments	was	updated	in	2020.	based	
+on	the	un	global	compact,	the	policy	
+takes	the	identification	of	potential	
+negative	impact	as	a	starting	point.	
+we	have	a	process	for	exclusion	of	
+companies	in	the	event	of	continued	
+and	verified	breaches	of	the	un	global	
+compact,	as	well	as	exclusion	of	
+companies	producing	thermal	coal	and	
+tar	sands	(the	revenue	threshold	is	max.	
+5%),	and	exclusion	of	all	companies	that	
+produce	smoking	tobacco.	
+we	do	not	invest	in	the	production	of	
+controversial	weapons.	likewise,	we	
+have	a	limit	to	which	government	bonds	
+topdanmark	invests	in.
+the	policy	is	implemented	through	
+continuous	screening	and	evaluation	of	
+existing	and	potential	investments	in	
+order	to	identify	any	breaches	of	the	un	
+global	compact.	
+integration of esg factors
+in	2020,	we	started	to	integrate	esg	
+factors	(environment,	social	and	
+governance)	into	the	investment	process	
+with	the	aim	of	assessing	the	return	
+potential	based	on	both	conventional	
+financial	analysis	and	from	a	sustainable	
+perspective.	
+likewise,	we	have	started	to	apply	
+company-specific	esg	and	co2	analyses	
+i.a.	to	assess	the	companies’	exposure	to	
+the	green	transformation.	
+see	the	result	of	our	analyses	in	the	chart	
+on	page	33.
+investments
+32
+new policy on active 
+ownership
+in 2020, our policy on active ownership was also updated 
+with a new ambition on active ownership.  
+as	active	owners,	topdanmark	will	
+support	the	long-term	value	creation	
+of	the	companies	in	which	we	invest.	
+henceforth,	we	will	conduct	active	
+ownership	to	a	greater	extent	by	voting	
+at	the	annual	general	meetings	of	both	
+danish	and	foreign	companies.	
+henceforth,	we	will	also	to	a	greater	
+extent	than	previously	enter	into	dialogue	
+with	companies	where	we	assess	that	
+there	is	a	verified	breach	of	the	un	
+global	compact.	if	the	dialogue	does	not	
+lead	to	a	change	in	conduct,	it	can	lead	
+to	divestment.	we	will	also	enter	into	
+dialogue	with	companies	if	we	assess	that	
+there	is	an	esg	problem	needing	attention	
+–	also	if	it	is	not	yet	a	verified	breach.	in	
+both	situations,	dialogue	will	be	through	
+our	external	screening	agency.
+active	ownership	by	voting	and	dialogue	
+was	initiated	in	q4	2020.
+furthermore,	in	the	future,	we	will	have	
+increased	focus	on	transparency	as	we	
+want	it	to	be	easier	for	our	customers	to	
+see	what	their	funds	are	invested	in.	this	
+includes	information	on	
+•	 our	active	ownership
+•	 the	esg	quality	of	our	investments
+•	 the	co2	emissions	from	our	invest-
+ments
+see	the	results	of	the	year	on	page	33.
+investments
+new insurance product with 
+extended esg requirements
+in	2020,	we	have	launched	a	new	insurance	
+product	formålspension	(purpose	pension).	
+formålspension	is	a	life-cycle	product	in	
+which	customers	can	choose	between	four	
+specific	purposes	in	which	the	customer’s	
+pension	funds	must	be	invested:	green	
+transformation,	technology,	danish	
+investments,	and	global	investments.
+regardless	of	the	investment	choices	made	
+in	formålspension,	the	investments	are	
+subject	to	increased	esg	(environmental,	
+social	&	governance)	considerations,	and	
+producers	within	the	following	industries	
+are	excluded:	fossil	fuels,	extraction	of	
+raw	materials	outside	the	industrialised	
+countries,	tobacco,	adult	entertainment,	
+online	betting	and	weapons.	
+formålspension	is	off	to	a	good	start	and	
+has	been	well	received	by	the	customers.	
+by	the	end	of	2020,	dkk	1bn	was	invested	
+in	the	new	pension	scheme.	among	the	four	
+possible	purposes,	“green	transformation”	
+was	the	largest	with	40%.	
+	
+through	invest-
+ments	under	
+formålspension,	
+several	goals	are	
+supported	–	of	
+which	goal	7	and	13	
+are	the	primary.
+33
+objectives and results for 2020
+evaluation of 2020 results
+active ownership through dialogue 
+in	2020,	we	have	been	in	dialogue	with	
+two	companies	in	which	there	were	
+breaches	of	the	un	global	compact:	
+•	 danske	bank:	principle	10	
+•	 volkswagen:	principles	7-9	
+at	year	end,	after	along	positive	dialogue,	
+volkswagen	was	no	longer	considered	
+being	in	breach	of	the	un	global	compact.	
+the	company	has	been	moved	to	our	
+watch	list.	we	continue	to	have	a	positive	
+dialogue	with	danske	bank.	in	2020,	
+we	have	also	increased	focus	on	three	
+companies	in	risk	of	breaches	to	the	un	
+global	compact:	bhp	group,	dupont	and	
+sanofi.
+active ownership through voting
+in	2020,	we	have	voted	at	the	agms	
+of	chr.	hansen,	tryg,	coloplast	and	
+scalepoint	technologies.
+esg risk
+topdanmark’s	total	esg	risk	for	the	
+equity	portfolio	landed	on	21.7	against	
+our	benchmark	score	of	22.8.	our	result	
+was	mainly	driven	by	good	esg	risks	
+with,	among	others,	vesta	and	pandora,	
+whereas	our	investments	in	demant,	
+volkswagen,	steris,	danaher	and	dupont	
+de	nemours	impacted	our	esg	risk	
+negatively.	the	result	indicates	that	our	
+esg	risk	is	better	than	benchmark.
+climate and 2 degrees scenario 
+analyses
+based	on	a	2	degrees	scenario	analysis,	it	
+can	be	concluded	that	our	equity	portfolio	
+is	significantly	less	exposed	to	coal	and	
+oil	production	compared	with	benchmark,	
+and	at	the	same	time	investing	more	in	
+sustainable	energy.	also,	our	investments	
+are	23%	below	the	co2	intensity	of	our	
+benchmark	indicating	that	the	companies	
+in	which	we	invest	emit	less	co2	than	if	we	
+were	investing	passively.	
+looking	forward,	the	portfolio	will	
+continue	to	be	exposed	to	more	
+sustainable	energy	in	accordance	with	a	
+temperature	rise	less	than	1.75	degrees.	
+all	in	all,	the	analysis	has	not	given	rise	
+to	a	change	in	our	investment	strategy	in	
+relation	to	achieving	our	objective	of	20%	
+investments	in	the	green	transformation	
+in	2030.		
+> read the policies on responsible 
+investments and active ownership
+responsible investments: objectives and results for 2020
+objectives
+activities
+results
+the	investment	return	is	created	in	
+consideration	of	the	un	global	compact
+screening	and	evaluation	of	the	equity	portfolio	for	
+positions	in	breach	of	the	un	global	compact
+by	the	end	of	2020,	94.8%	of	our	equity	
+investments	was	in	compliance	with	the	un	global	
+compact,	while	4.1%	was	on	the	watch	list,	and	
+1.1%	has	a	verified	breach.	read	more	under	
+“active	ownership	through	dialogue.”
+analysis	of	co2	emissions	from	investment	
+activities
+calculation	of	co2	emissions	from	the	total	equity	
+portfolio	
+125.8	tonnes	co2/usd	million	revenue	compared	
+with	a	benchmark	of	162.5.	read	more	in	the	
+section	on	2	degrees	scenario	analyses	below.	
+investment	and	tax
+update	the	policy	on	responsible	investments	to	
+include	a	description	of	responsible	tax	practice
+compliance	with	the	policy	did	not	give	rise	to	any	
+changes	in	investments
+implementation	of	theme-based	exclusions	
+exclusion	of	tar	sands,	smoking	tobacco	and	
+thermal	coal	
+at	year-end,	there	were	no	investments	in	
+companies	in	breach	of	the	theme-based	exclusions
+through	active	ow-
+nership,	we	focus	on	
+promoting	multiple	
+sustainable	develop-
+ment	goals	including	
+goals	3,	12	and	13.
+future plans
+in	2021,	we	will	continue	to	
+implement	the	updated	policies	
+on	responsible	investments	and	
+active	ownership	with	the	initiatives	
+described	above.	
+read	the	policies	on	responsible	
+investments	and	active	ownership.
+investments
+34
+35
+business management
+responsible business management 
+trust is an important issue in every situation in life, also in the relationship between company and society. we 
+strengthen the fiduciary relationship between topdanmark and society by acting in compliance with legislation and 
+international standards. 
+topdanmark	considers	responsible	
+corporate	governance	a	prerequisite	for	
+maintaining	and	developing	long-term	
+relationships	with	all	stakeholders	that	
+contribute	to	our	business	and	the	society	
+we	are	part	of.	
+to	us,	responsible	corporate	governance	
+means	that	we	comply	with	legal	
+requirements,	recommendations	for	good	
+corporate	governance	as	well	as	rules	
+and	recommendations	from	the	danish	
+trade	association	for	insurance	companies	
+and	pension	funds	forsikring	&	pension	
+(insurance	&	pension	denmark),	and	that	
+all	is	fully	integrated	into	the	operation	of	
+our	business.	it	also	means	that	we	live	
+up	to	the	expectations	of	the	un	global	
+compact	on	the	integration	of	the	10	
+principles	in	how	we	conduct	our	business.	
+continuous assessment of risks and 
+actions
+we	continuously	assess	which	risks	
+we	have	for	negatively	affecting	the	
+principles	and	what	consequences	this	
+will	have	for	our	business.	based	on	this	
+assessment,	we	decide	how	to	deal	with	
+the	challenges	we	find.	we	divide	it	into	
+the	following	areas:	
+•	 human	rights
+•	 climate	
+•	 the	environment	
+•	 anti-corruption	
+on	the	pages	37-47,	you	will	find	
+descriptions	of	each	area	including	
+accounts	for	policy,	risk	assessment,	
+objectives,	annual	activities	and	results.	
+on	page	36,	there	is	a	description	of	two	
+of	the	actions	that	cover	all	principles.	
+> read more about our work with the 
+committee on corporate governance 
+and the recommendations on good 
+corporate governance
+> read more about topdanmark’s 
+whistle-blower scheme
+36
+two new initiatives in 2020
+as a part of our continued work with responsibility, we 
+have started two initiatives in 2020: a new csr-programme 
+for suppliers and an internal code of conduct.
+csr programme for suppliers 
+topdanmark	wants	to	help	our	customers	
+in	the	best	possible	way,	both	before,	
+during	and	after	damage.	we	do	so	
+through	a	number	of	suppliers	e.g.	after	
+damage	to	buildings	or	an	accident.	
+we	also	purchase	for	the	operation	of	
+our	business,	e.g.	office	supplies	and	
+it.	furthermore,	we	have	outsourced	a	
+number	of	tasks	to	external	consulting	
+firms.	the	vast	majority	of	this	being	
+procurement	of	deliveries	for	our	
+customer	support,	and	this	procurement	
+is	business	critical.
+regardless	of	the	type	of	procurement,	
+we	want	to	establish	a	trusting	and	
+professional	collaboration	with	the	
+supplier	with	a	focus	on	quality,	
+responsibility	and	sustainability.	
+irresponsible	conduct	in	the	supply	chain,	
+for	example	non-compliance	with	the	
+principles	of	un	global	compact,	is	not	
+only	incompatible	with	our	csr	policy,	
+but	it	can	also	damage	our	reputation	and	
+consequently	our	revenue.	in	order	to	
+counter	this	risk,	we	have	established	a	
+csr	programme	for	suppliers.	
+activities in 2020
+in	2020,	we	have	initiated	a	process	
+which	will	result	in	more	systematic	
+integration	of	csr	into	our	purchasing	
+processes	than	previously.	the	new	
+programme	will	i.a.	mean	that	moving	
+forward	a	code	of	conduct	will	be	part	
+of	the	contract	in	addition	to	specific	
+requirements	for	selected	suppliers,	
+e.g.	actions	on	co2	emissions	and	for	
+products.	csr	will	also	be	part	of	a	set	of	
+parametres	in	tender	rounds.	
+the	following	concrete	activities	in	2020	
+can	be	mentioned:
+•	 csr	was	a	parameter	in	connection	
+with	two	tender	rounds
+•	 a	3-year	collaboration	agreement	was	
+entered	into	with	a	taxi	company,	and	
+from	now	on	topdanmark’s	taxi	rides	
+will	be	primarily	by	electric	taxis.
+future plans
+in	2021,	we	will	complete	the	final	
+design	of	a	new	csr	programme	
+including	setting	concrete	objectives	
+and	kpis.
+code of conduct
+to	support	responsible	corporate	
+governance,	in	2020,	we	have	
+prepared	an	internal	code	of	conduct,	
+which	is	a	set	of	overall,	ethical	
+guidelines	for	us	as	a	company,	for	
+our	employees	and	for	our	partners.	
+it	is	based	on	i.a.	a	number	of	existing	
+policies	and	all	the	principles	under	
+the	un	global	compact.	
+the	code	of	conduct	has	been	
+approved	by	topdanmark’s	board	of	
+directors,	and	will	be	implemented	
+in	2021,	partly	through	mandatory	
+e-learning.	likewise,	we	will	implement	
+an	external	code	of	conduct	
+addressing	i.a.	suppliers.	
+business management
+37
+human rights 
+as a company, we have a significant responsibility to ensure that human rights are 
+respected in our entire value chain. we take our responsibility seriously and comply 
+with legislation and international guidelines.
+topdanmark	respects	internationally	
+recognised	human	rights,	and	our	aim	is	
+to	never	infringe	them.	
+we	only	do	business	in	denmark.	
+topdanmark	follows	and	complies	with	
+danish	legislation,	which	incorporates	
+internationally	recognised	human	rights.	
+this	means	that	e.g.	equality,	inclusion,	
+workers’	rights,	health	and	safety	are	
+integrated	into	our	values	and	policies.	
+against	this	background,	we	do	not	
+come	across	any	challenges	from	a	legal	
+perspective	in	this	area.	
+however,	in	2020,	it	became	known	that	
+we	unfortunately	–	like	other	companies	
+in	the	industry	–	have	not	complied	with	a	
+section	in	the	sex	discrimination	act	and	
+thus	have	discriminated	against	pregnant	
+women	e.g.	in	terms	of	health	insurance	
+for	a	number	of	years.	read	more	on	page	
+14.	
+responsible value chain
+externally,	we	practice	human	rights	by	
+investment	screenings	for	our	customers.	
+the	screenings	are	based	on	the	un	
+global	compact	principles.	we	also	do	this	
+within	our	supplier	management,	in	which	
+compliance	with	human	rights	is	a	central	
+benchmark.	
+we monitor development closely
+inspired	by	the	united	nations	guiding	
+principles	on	business	and	human	rights,	
+we	continuously	monitor	what	human	
+rights	topdanmark	may	find	challenging	
+both	in	relation	to	the	operation	of	our	
+business	and	our	products	and	advice	–	in	
+addition	to	what	is	legally	expected	of	us.
+	> read our policy on human rights 
+business management
+38
+diversity in management
+topdanmark wants to be a diverse workplace, i.e. a workplace where diversity is 
+accepted and used as a strength. therefore, as a company we work to maintain and 
+develop openness in our company culture to counter any form of discrimination, and for 
+all to have equal opportunities in topdanmark. 
+to	topdanmark,	diversity	means	that	
+there	is	no	difference	in	the	conditions	
+of	employment	based	on	age,	ethnic	
+background,	gender,	sexual	orientation,	
+disability,	health	and	race.	this	also	
+means	that	topdanmark	does	not	
+discriminate	based	on	this.	we	want	to	
+demonstrate	and	encourage	tolerance	
+allowing	room	for	exchange	of	views	and	
+differences.	tolerance	should	be	based	
+on	respect	for	each	employee	and	ensure	
+a	good	working	environment	for	all	
+employees.
+equal pay for equal work
+topdanmark’s	position	on	diversity	and	
+equal	opportunities	for	all	also	applies	in	
+relation	to	remuneration.	it	is	our	policy	
+that	remuneration	depends	solely	on	
+objective	criteria	such	as	experience,	
+competence,	effort,	results	and	the	
+content	of	the	position.	
+balanced gender distribution in 
+management 
+a	particular	focus	area	of	the	diversity	
+policy	is	women	in	management.	we	want	
+the	executive	team	to	be	represented	by	
+the	best-qualified	candidates,	but	we	also	
+want	a	fair	gender	distribution.	we	have	
+set	up	a	number	of	objectives	that	we	
+work	to	achieve	–	see	the	chart	on	page	
+39.
+topdanmark’s	board	of	directors	annually	
+approves	our	policy	on	diversity	and	
+its	objectives.	likewise,	the	board	of	
+directors	is	annually	informed	about	the	
+development	in	topdanmark’s	gender	
+distribution	for	executives.				
+activities in 2020
+in	order	for	us	to	live	up	to	our	policy	
+on	equal	pay,	we	have	implemented	a	
+structure	to	ensure	that	people	in	the	
+same	positions	are	employed	on	the	
+same	terms.	that	way,	we	achieve	both	
+ 
+21% women in executive management
+our executive management includes the executive  
+board (four people) and the top management team  
+(20 persons). (2019: 21%).
+ 
+41% women in management
+our objective: both genders should be represented by at least 
+40% at all management levels - on average. (2019: 41%).
+goal	5:	gender	equality
+with	our	actions	we	specifically	con-
+tribute	to	target	5.5:	ensure	women’s	
+full	and	effective	participation	and	
+equal	opportunities	for	leadership	at	
+all	levels	of	decision-making	in	politi-
+cal,	economic	and	public	life.
+consistency	and	ensure	that	terms	are	not	
+about	the	person	or	the	gender.		
+we	have	strengthened	our	focus	on	
+recruitment	processes	supporting	policies	
+on	diversity	and	the	related	objectives.	
+this	has	been	done	e.g.	by	formulating	job	
+postings	in	a	way	that	is	appealing	to	all	
+regardless	of	gender.	
+see	our	objectives	and	2020	results	for	
+diversity	in	management	on	the	following	
+page.	
+business management
+39
+percentage of women in management
+2017
+2018
+2019
+2020
+42%
+40%
+41%
+41	%
+diversity on the board of directors
+topdanmark’s	board	of	directors	
+comprises	six	agm-elected	members	and	
+three	employee-elected	members.	we	
+want	a	board	of	directors	consisting	of	
+the	best-qualified	candidates,	and	we	have	
+an	objective	of	the	board	of	directors	
+having	at	least	three	of	each	gender	(both	
+agm-elected	and	employee-elected).	see	
+the	result	of	year	below.	since	2014,	
+topdanmark	has	complied	with	the	
+legislative	definition	of	an	even	gender	
+distribution	on	its	board	of	directors.
+the percentage of women in topdanmark’s board of directors 
+2017
+2018
+2019
+2020
+56%
+44%
+44%
+44%
+women on the board of directors: objectives and results
+objective
+unit 
+2017
+2018
+2019
+2020
+a	minimum	of	three	
+of	each	gender	on	the	
+board	of	directors	
+(both	agm-elected	and	
+employee-elected)
+number	of	women	(agm-
+elected)		
+2
+2
+2
+2
+number	of	women	
+(employee-elected)	
+3
+2
+2
+2
+total	number	of	women
+5
+4
+4
+4
+> read topdanmark’s policy on diversity at board level
+ 
+future plans
+for	a	number	of	years,	we	have	set	a	minimum	of	40%	women	on	average	for	all	
+management	levels,	which	is	satisfactory.	on	the	other	hand,	there	is	a	low	gender	
+diversity	at	the	two	highest	management	levels.	as	we	want	gender	diversity	
+and	a	balance	between	male	and	female	values	at	all	managerial	levels,	we	will	
+sharpen	our	focus	on	increasing	the	number	of	female	managers	in	our	executive	
+management	in	2021	and	in	the	future.	more	specifically,	we	will	look	into	how	we	
+can	motivate	more	women	to	apply	for	positions	in	executive	management,	and	
+how	we	can	work	with	differentiated	terms	or	the	like.	
+women in management: objective and results for 2020
+objective 
+result
+evaluation 
+on	average,	minimum	40%	of	
+each	gender	at	all	management	
+levels	
+41%	
+(2019:	41%)
+the	objective	has	been	
+achieved
+minimum	40%	of	both	genders	
+in	relation	to	the	succession	
+planning	of	top	management	1)
+29%	
+(2019:	54%	women)
+from	year	to	year,	there	will	
+always	be	fluctuations	in	the	
+gender	distribution	on	the	
+succession	list,	and	thus	also	
+in	2020.	however,	the	result	
+for	this	year	is	far	from	the	
+objective,	and	therefore	we	
+will	increase	our	focus	in	2021	
+and	get	more	women	on	the	
+list.
+percentage	of	employment	
+interviews	for	posted	
+managerial	positions	with	at	
+least	one	female	candidate	2)	
+52%
+(2019:	46%)		
+the	objective	has	not	been	
+achieved	which	is	primarily	due	
+to	either	no	female	applicants	
+or	female	applicants	who	were	
+not	professionally	on	par	with	
+the	male	applicants.
+1)	succession	planning	is,	among	other	things,	to	ensure	a	food	chain	of	qualified	and	potential	employees	for	level	1	(the	
+executive	board)	and	level	2	(managers	reporting	to	the	executive	board).	
+2)	the	figure	shows	the	percentage	of	the	total	number	of	interviews	for	vacant	management	positions	in	which	a	female	
+candidate	was	called	for	an	interview.
+business management
+40
+protection of personal data
+customers and other persons covered by our insurances should trust that we handle their personal data in a 
+responsible manner. therefore, we have great focus on data and it security. 
+as	an	insurance	and	pension	company,	
+we	collect	and	process	a	large	volume	of	
+customer	information,	including	personal	
+data	such	as	health	information	on	our	
+customers,	claimants	etc.	
+personal data collection with a purpose 
+topdanmark	processes	personal	data	
+with	the	purpose	of	facilitating	and	
+administrating	insurance	and	pension	
+schemes.	we	also	process	data	in	
+connection	with	human	resource	
+management	for	our	employees.	we	do	
+not	sell	personal	data,	and	on	our	website	
+we	state	how	we	process	personal	data.	
+the right to the protection of personal 
+data  
+in	topdanmark,	it	is	our	responsibility	to	
+ensure	that	personal	data	is	processed	
+in	a	way	so	that	we	always	protect	
+the	fundamental	rights	and	civil	rights	
+of	people,	namely	their	right	to	the	
+protection	of	personal	data	–	and	thus	the	
+right	to	privacy.
+correct handling of data
+to	ensure	that	the	customers	can	
+trust	that	we	protect	their	data,	we	
+have	implemented	a	comprehensive	
+management	system	for	data	protection,	
+including	procedures	and	a	policy	on	how	
+to	handle	personal	data.	
+furthermore,	we	focus	on	compliance	
+with	the	legislation	in	force	on	processing	
+of	personal	data,	i.a.	the	general	data	
+protection	regulation	(the	gdpr).	thus	
+we	process	all	personal	data	of	all	
+stakeholders	in	a	legitimate,	fair	and	
+transparent	manner.	this	is	ensured	i.a.	
+by	continuous	training	of	our	employees	
+and	pointing	out	how	they	can	contribute	
+to	protecting	privacy.	
+responsibility
+topdanmark’s	management	is	generally	
+responsible	for	compliance	with	the	
+gdpr	rules.	in	2020,	topdanmark	has	
+appointed	a	dpo	(data	protection	officer)	
+who	advises	management	and	
+employees	on	legislation	as	well	as	
+ensuring	compliance.	
+how we prevent data breaches
+we	want	as	few	data	breaches	as	possible.	
+but	even	though	we	have	great	focus	
+on	data	security	and	a	comprehensive	
+management	system,	errors	leading	to	
+data	breaches	cannot	be	avoided.
+we	endeavour	to	have	an	open	and	
+learning	approach	to	handling	data	
+breaches	in	order	for	us	to	prevent	
+them	from	happening	again.	we	report	
+breaches	to	the	danish	data	protection	
+agency	if	we	cannot	exclude	that	there	is	
+a	risk	for	the	aggrieved	parties.	we	also	
+notify	the	aggrieved	parties	if	there	is	a	
+high	risk	that	their	rights	or	civil	rights	
+may	be	infringed.	
+we	implement	corrective	action	where	
+necessary,	and	employees	and	managers	
+are	continuously	informed	about	the	
+importance	of	protecting	the	privacy	of	
+the	data	subjects.	
+ 
+ 473 employees 
+have completed mandatory 
+e-learning on gdpr in 2020.
+ 
+ 
+business management
+41
+it security against cybercrime  
+topdanmark	has	strict	requirements	as	
+regards	data	security.	the	requirements	
+should	ensure	that	information	is	stored	
+and	processed	in	a	way	that	the	right	to	
+privacy	is	not	challenged	by	e.g.	it	and	
+cybercrime,	which	is	a	real	threat	to	our	
+business.	
+this	is	done	through	our	it	systems	which	
+ensures	that	personal	data
+•	 is	up-to-date
+•	 is	not	distorted
+•	 is	deleted	when	no	longer	relevant
+•	 is	not	accessed	by	unauthorised	per-
+sons
+in	2020,	it	was	mandatory	for	1,664	
+employees	to	complete	e-learning	on	data	
+security.	
+the right to access and to be forgotten
+we	continuously	work	on	improving	our	
+procedures,	so	that	it	gets	easier	for	the	
+data	subjects	to	make	use	of	their	right	to	
+access,	to	be	forgotten,	to	object	etc.	and	
+ensure	that	it	is	done	in	due	time.	
+future plans
+we	continuously	work	to	
+improve	our	processes	and	it	
+security,	and	this	will	also	be	the	
+case	in	2021.
+>  read more about how we prevent it 
+and cybercrime 
+ 
+>  read more about how we process 
+personal data 
+activities in 2020
+we	have	updated	our	mapping	of	where,	
+how	and	why	processing	of	personal	data	
+is	carried	out.	this	has	been	done	through	
+interviews	with	employees	which	has	
+given	increased	awareness	on	the	need	
+for	protecting	personal	data	broadly	in	the	
+organisation.	
+to	strengthen	the	meaning	of	the	area,	
+we	have	supplied	further	resources	to	the	
+areas	which	in	particular	provide	advice	on	
+the	protection	of	personal	data,	including	
+the	dpo	function.	
+ 
+ 1,664 employees 
+have completed mandatory 
+e-learning on data security 
+in 2020.
+ 
+business management
+42
+data ethics
+as a non-life and life insurance company, we use data to assess the concrete insurance 
+risk of the customers. with digitalisation, the possibilities for the application of data is 
+nearly endless. we comply with the ethical principles of the industry. 
+in	january	2020,	the	board	of	directors	
+of	forsikring	&	pension,	of	which	
+topdanmark	is	a	member,	adopted	a	set	
+of	joint	data	ethical	principles.	they	are	
+on	transparency,	personalisation	and	
+prevention,	and	data	security.	we	have	
+chosen	to	make	the	joint	data	ethics	
+of	the	industry	our	own,	and	since	the	
+launch	of	the	principles	we	have	worked	to	
+implement	the	principles	into	our	business.	
+as	from	the	financial	year	2021,	we	will	
+report	thereof	in	the	annual	report.	
+artificial	intelligence	with	responsibility
+at	topdanmark,	we	use	artificial	
+intelligence	to	support	the	daily	work,	for	
+example,	to	assess	risks	and	to	give	our	
+customers	a	good	and	efficient	customer	
+experience.	to	ensure	responsible	use	of	
+artificial	intelligence,	we	have	defined	five	
+ethical	principles.	the	principles	have	been	
+approved	by	our	executive	board,	and	our	
+compliance	department	is	responsible	for	
+the	principles	being	observed	in	practice.	
+> read the data ethic principles of 
+forsikring & pension (in danish)
+1.	 thoughtfulness.	artificial	intelligence	must	be	
+developed	and	used	with	care	and	respect.
+2.	 professional	security.	artificial	intelligence	
+must	be	used	within	a	fixed	framework	and	
+be	built	on	the	latest	technological	knowledge	
+and	thorough	tests.	
+3. reliability.	artificial	intelligence	must	be	
+reliable,	based	on	facts	and	free	of	biases.
+4. transparency.	we	must	understand	how	
+artificial	intelligence	works,	so	that	the	
+models	function	safely	and	only	for	the	
+purposes	for	which	they	were	created.
+	5.	data	security.	artificial	intelligence	must	live	
+up	to	the	requirements	of	the	data	protection	
+legislation	and	be	protected	against	
+cybercrime.
+our ethical principles for use of 
+artificial intelligence
+> read more about the principles
+business management
+43
+co2 neutral in 2030
+we support society’s goal of limiting climate changes. 
+the more unpredictable and extreme weather also has an 
+impact on our own business. therefore, we have defined 
+an ambitious objective of becoming co2 neutral in 2030. 
+as	an	insurance	company,	we	feel	the	
+consequences	of	climate	changes	in	the	
+form	of	more	unpredictable	and	extreme	
+weather,	e.g.	cloudbursts,	drought	and	
+more	rain	than	usual.	this	has	an	impact	
+on	our	business,	both	in	terms	of	increased	
+risk	but	also	as	business	opportunities,	
+described	in	the	section	on	responsible	
+products	on	page	26.	
+in	2019,	we	made	a	decision	to	become	
+co2	neutral	in	2030	in	terms	of	buildings,	
+company	driving	and	air	travel.	this	
+decision	has	also	been	the	beginning	of	
+a	process	in	which	we	have	analysed	the	
+possible	co2	reductions	in	our	entire	value	
+chain-	read	more	on	page	46.		
+scope of the project
+our	objective	of	becoming	co2	neutral	in	2030	has	2019	as	the	baseline	with	
+7,082	tonnes	co2	emission.	it	includes	three	areas
+operation of buildings
+•	 co2	emission	from	consumption	of	natural	gas	(scope	1)
+•	 co2	emission	from	district	heating	and	power	consumption	(scope	2)
+company driving
+•	 co2	emission	from	company	driving	in	topdanmark	cars	(scope	1)
+•	 co2	emission	from	company	driving	in	privately	owned	cars	(scope	3)
+air travel
+•	 co2	emission	from	air	travel	(scope	3)
+the	objective	has	been	approved	by	topdanmark’s	board	of	directors,	but	the	
+responsibility	for	the	actual	implementation	is	with	the	csr	steering	committee. 
+activities in 2020
+how we will reach our goal
+in	2020,	we	have	continued	the	work	on	
+finding	concrete	solutions	to	how	we	can	
+become	co2	neutral	in	2030:
+operation of buildings
+a	step-by-step	plan	for	2021	to	2025	has	
+been	made,	and	it	includes	i.a.	phasing	
+out	natural	gas,	concrete	optimisation	
+actions	and	a	shift	to	co2	neutral	power.	
+furthermore,	all	light	bulbs	will	be	
+changed	to	led	bulbs	on	an	ongoing	basis	
+towards	2029.	
+business travel in topdanmark cars
+approx.	100	cars	are	leased	by	
+topdanmark.	we	are	working	on	the	
+following	plan:
+• reduction of driving: based	on	the	po-
+sitive	experiences	from	covid-19,	a	de-
+cision	has	been	made	to	continue	using	
+digital	collaboration	tools.		
+• change to low emission cars: a	gradu-
+al	transition	to	hybrid	or	electric	cars	is	
+expected	to	be	initiated	and	completed	
+before	2030.	
+business travel in privately owned cars 
+this	is	primarily	company	driving	in	
+privately	owned	cars	by	our	salespeople	
+and	claims	adjusters.	this	is	the	majority	
+of	our	indirect	co2	emissions,	but	is	
+unfortunately	also	the	most	difficult	part	
+to	change	since	we	have	little	influence	on	
+the	choice	of	cars.
+• reduction of driving: we	will	continue	
+to	use	digital	customer	meetings.	when	
+it	comes	to	inspection	of	property	and	
+buildings	in	connection	with	preparing	
+an	insurance	contract	or	after	a	claim,	
+we	will	also	introduce	digitalisation	to	
+reduce	driving.	
+• change to low emission cars: we	are	
+yet	to	find	a	model	for	the	transition	to	
+low	emission	cars	for	privately	owned	
+cars,	but	the	work	continues	in	the	
+years	to	come.	
+air travel
+the	majority	of	air	travel	is	by	external	
+it	developers	employed	by	topdanmark	
+in	connection	with	different	projects.	
+furthermore,	air	travel	is	connected	to	
+investor	meetings	and	other	business	
+meetings	as	well	as	participation	in	
+conferences	etc.	
+• reduction of air travel: continued	use	
+of	digital	platforms.	
+in general
+for	the	co2	emissions	that	remain	
+after	the	implementation	of	all	actions,	
+we	will	look	into	procurement	of	co2	
+compensation.	
+business management
+44
+co2e-reduction: objective and result
+objective 
+2020 
+evaluation 
+co2	neutral	in	2030	(baseline	
+2019)	
+6,024	tonnes	co2	emission,	which	is	a	reduction	of	
+15%	compared	with	2019
+the	reduction	is	primarily	achieved	by	a	reduction	in	
+driving	and	air	travel	caused	by	covid-19	restrictions.
+carbon footprint report 2017–2020: tonnes co2e emission
+2018 
+2019
+2020
+scope 1
+1,449
+1,426
+1,352
+scope 2
+2,391
+2,322
+2,123
+scope 3
+3,325
+3,388
+2,549
+total
+7,165
+7,136		1)
+6,024
+1)	in	the	csr	report	2019,	the	number	was	stated	as	7,082	tonnes	which	was	an	error.
+future plans
+in	2021,	we	will	continue	with	
+the	plans	described	on	page	
+43.	in	terms	of	the	internal	
+operations	of	buildings,	we	
+will	implement	optimisation	
+of	our	cooling	system	which	
+is	expected	to	give	a	co2	
+reduction	of	about	110	
+tonnes.	in	contrast,	emissions	
+from	company	driving	and	
+air	travel	are	expected	to	
+increase	slightly	compared	
+with	the	level	of	2020	which	
+was	very	low	due	to	covid-19	
+restrictions.	therefore,	the	
+total	co	emissions	of	2021	are	
+expected	to	increase	to	approx.	
+6,500	tonnes.	
+ 
+ 26% 
+of topdanmark’s total power 
+consumption was produced by 
+our own solar cells in 2020. 
+ 
+ 
+>find more details on our co2e 
+emission, power consumption and data 
+method in our esg report 2020 
+ 
+ 15% 
+co2-reduction compared to 
+2019. 
+ 
+ 
+ 
+business management
+45
+environment is also less plastic
+topdanmark wants to contribute to a better environment through responsible and 
+sustainable operations of our offices and canteens. a special focus area is the reduction 
+of disposable materials.
+topdanmark	focuses	on	climate	and	
+the	environment	in	connection	with	
+procurement	for	the	operation	of	the	
+business.	for	example,	we	aim	to	buy	
+office	supplies	which	are	labelled	with	the	
+nordic	ecolabel	(cleaning	agents,	paper	
+and	printed	matter),	fsc	(paper	and	
+wood),	eu	ecolabel	(paper	and	toner)	or	
+are	organic.	furthermore,	we	have	a	goal	
+of	reducing	the	use	of	disposable	plastic	
+towards	2021	-	see	the	chart	on	this	page.
+activities in 2020
+we	have	launched	a	number	of	initiatives,	
+among	other	things:		
+• reduction of disposable cups:	in	
+2020,	all	employees	could	choose	an	
+individual	cup	designed	by	danish	ce-
+ramists.	all	employees	were	also	given	
+a	water	bottle.	moving	forward,	all	new	
+employees	will	receive	a	cup	and	a	wa-
+ter	bottle	instead	of	flowers	which	has	
+been	custom	up	to	now.
+disposable plastic:	objective og resultat
+objective 2021
+unit 
+2018
+2019
+ 2020
+reduction	in	disposable	
+plactic	materials	1)
+number	of	purchased	
+disposable	plastic	units			
+office	operations:	794,350
+canteen:	21,469
+office	operations:	507,365	
+canteen:	12,200	
+office	operations:	292,161	
+canteen:	103,000	2)			
+total: 815,819
+total: 519,565
+total: 395,161 
+1)	it	has	been	reported	that	both	office	operations	and	the	canteen	at	topdanmark’s	head	office	have	purchased	cups,	bottles,	gloves,	various	buckets,	bags	and	pens	made	of	plastic.
+2)	the	increase	is	due	to	increase	in	procurement	of	plastic	gloves	in	connection	with	covid-19.
+ 
+ 64% 
+the reduction in the number 
+of disposable cups in 2020. 
+ 
+ 
+ 
+ 48%   
+of all waste was recycled.
+ 
+ 
+ 
+ 
+ 45%   
+we have reduced purchased 
+paper and paper products 
+with this much compared 
+with 2019. 
+ 
+ 
+with	our	actions	we	contribute	to	
+target	12.5:	by	2030,	substantially	
+reduce	waste	generation	through	pre-
+vention,	reduction,	recycling	and	reuse.
+• two-page print in black and white: 
+new	printers	with	a	default	set	up	for	
+two-page	print	in	black	and	white	have	
+been	put	up.				
+evaluation
+since	2018,	there	has	been	a	52%	
+reduction	in	disposable	plactic	materials.	
+this	is	i.a.	due	to	phasing	out	disposable	
+plastic	cups	and	partly	phasing	out	
+disposable	plastic	buckets	and	cutlery.	in	
+2020,	there	was	a	24%	reduction	which	
+is	partly	due	to	the	increased	level	in	
+working	from	home.	
+business management
+46
+new level of ambition 
+for climate and the 
+environment 
+in 2020, a task force has been looking into how we can 
+integrate climate and the environment into the entire 
+value chain. here is an overview of the plans so far. 
+build knowledge internally 
+we	consider	building	knowledge	across	
+the	organisation	as	being	essential	for	
+implementing	our	ambitions	for	the	
+area.	therefore,	we	want	to	look	into	the	
+possibilities	of	a	training	programme	on	
+climate	and	the	environment	for	selected	
+employees,	and	let	sustainability	be	an	
+active	element	in	the	recruitment	for	
+relevant	positions.	
+future plans
+in the first half of 2021, we expect to 
+prepare an action plan with concrete 
+objectives and kpis for 2025.25. 
+reduction of customers’ climate and 
+environmental footprint
+we	want	to	integrate	climate	and	
+the	environment	into	our	product	
+development	with	the	aim	of	developing	
+products	and	services	that	help	the	
+customers	reduce	their	climate	and	
+environmental	footprint.	
+reduction of employees’ climate and 
+environmental footprint
+we	want	to	look	into	the	possibility	of	
+establishing	an	internal	community	
+with	the	aim	of	finding	initiatives	
+that	can	promote	further	climate	and	
+environmentally	friendly	solutions	and	
+behaviour	at	our	workplace	and	provide	
+inspiration	outside	working	hours.	
+reduction of partners’ climate and 
+environmental footprint
+we	want	to	introduce	a	new	csr	
+programme	for	the	procurement	policy	
+and	the	supply	chain	with	a	focus	
+on	climate,	the	environment	and	co	
+reduction	–	read	more	on	page	36.	
+we	want	to	integrate	climate	and	the	
+environment	into	our	partnership	
+strategy.	this	means	that	climate	and	the	
+environment	will	be	permanent	elements	
+in	the	dialogue	with	all	strategic	partners	
+with	the	aim	of	collaboration.	
+reduction of climate and environmental 
+footprint from investments
+in	2030,	green	investments	will	make	up	
+approx.	20%	of	our	investments.	as	from	
+2020,	we	conduct	analysis	of	the	co2	
+emissions	from	the	equity	portfolio,	and	
+we	have	excluded	thermal	coal	and	tar	
+sands.	read	more	on	page	31.
+business management
+47
+anti-corruption and 
+anti-bribery 
+we do not tolerate any form of corruption and bribery. 
+we have clear guidelines for presents and entertainment 
+which we consider the area to pose the biggest risk 
+topdanmark	wants	to	be	part	of	a	
+professional,	orderly	and	trustworthy	
+business	environment.	we	therefore	
+do	not	tolerate	corruption	and	bribery	
+neither	from	our	employees,	suppliers	nor	
+from	other	partners.	
+it	is	our	assessment	that	the	biggest	risk	
+of	corruption	and	bribery	is	related	to	
+presents	and	entertainment	in	relation	to	
+customers,	suppliers	and	other	business	
+partners.	however,	we	also	assess	the	risk	
+to	be	generally	low.	
+internal guidelines
+we	are	confident	that	our	employees	use	
+their	common	sense	and	good	judgment	
+when	it	comes	to	gifts	and	entertainment	
+in	relation	to	customers,	suppliers	and	
+other	partners.	
+to	support	this,	we	have	drawn	
+up	guidelines	which	state	when	
+topdanmark’s	employees	may	give	and	
+receive	gifts	and	when	they	are	allowed	
+to	hold	or	participate	in	events	and	
+arrangements.	the	purpose	of	the	policy	
+is,	among	other	things,	to	prevent	and	
+avoid	business	decisions	being	influenced	
+by	personal	or	non-business-related	
+considerations	and	interests.	
+activities in 2020 
+in	2020,	we	continued	the	work	on	
+preventing	and	avoiding	business	
+decisions	being	influenced	by	personal	
+or	non-business-related	considerations	
+and	interests.	we	do	this	by	i.a.	
+communicating	our	guidelines	to	all	new	
+employees.	it	is	our	assessment	that	there	
+have	been	no	situations	that	have	been	in	
+conflict	with	our	guidelines.	
+furthermore,	we	have	started	to	draw	
+up	a	formal	anti-corruption	policy	as	
+we	consider	it	relevant	with	a	further	
+clarification	of	our	position	and	expected	
+behaviour	in	this	area.	in	that	connection,	
+we	have	revised	our	internal	guidelines	
+for	presents	and	entertainment.
+future plans 
+the policy on anti-corruption 
+will be completed and 
+implemented in 2021.   
+money laundering and 
+financing of terrorism 
+the	risk	of	money	laundering	
+and	financing	of	terrorism	is	
+more	significant	in	topdanmark	
+livsforsikring	than	in	the	topdanmark	
+non-life	insurance	business.	however,	
+generally	the	risk	is	low.	we	meet	the	
+requirements	of	the	danish	anti-money	
+laundering	act,	which	means,	for	
+example,	that	e-learning	is	obligatory.
+		
+business management
+48
+49
+corporate culture
+corporate culture  
+we want to provide the best customer service in all situations. competent and 
+motivated employees are a critical factor in this respect, and therefore, we strive to 
+have a high level of employee job satisfaction and well-being and a workplace where 
+you can be yourself. 
+we	have	formulated	an	ambition	that	we	
+want	to	have	a	bolder	workplace,	a	healthier	
+working	life	and	a	fun	working	day.	we	want	
+to	provide	a	working	community	which	is	
+accommodating	for	all	types	of	person.	a	
+workplace	at	which	you	can	be	yourself.	
+we	believe	that	it	increases	both	well-being	
+and	commitment	as	well	as	contributes	to	
+attracting	and	retaining	the	highly	skilled	
+manpower	we	need.	therefore,	well-being	
+and	commitment	are	central	elements	of	
+topdanmark’s	business	strategy.
+close dialogue is the foundation 
+a	close	dialogue	between	the	executive	
+board	and	the	employees	is	important	to	us,	
+among	other	things	through	a	cooperation	
+committee	with	employee	representatives.	
+the	committee’s	task	is	to	take	on	and	discuss	
+work	related	and	organisational	issues	and	find	
+solutions	to	these	problems.	furthermore,	we	
+have	a	competence	committee	that	specifically	
+considers	training	and	development,	as	well	
+as	a	job	satisfaction	committee	discussing	job	
+satisfaction,	well-being	and	health.	
+with	our	actions	we	contribute	to	
+target	8.5:	by	2030,	achieve	full	and	
+productive	employment	and	decent	
+work	for	all	women	and	men,	including	
+for	young	people	and	persons	with	
+disabilities,	and	equal	pay	for	work	of	
+an	equal	nature
+50
+well-being and commitment 
+focus this year has been on ensuring employee well-being in a completely new situation 
+with working from home being prevalent without any physical contact with managers 
+and colleagues. it also points towards what we call the future workplace. 
+to	ensure	a	continuous	dialogue	between	
+employees	and	managers	on	any	
+challenges,	we	i.a.	make	use	of	locally	
+embedded	well-being	dialogues	which	
+should	support	the	continuous	work	on	
+well-being,	commitment	and	motivation.	
+based	on	the	replies,	we	plan	the	required	
+actions	for	the	coming	year.
+we	also	conduct	an	annual	group	survey	
+on	well-being	and	commitment	at	group	
+level.	we	use	the	result	as	an	indication	
+of	the	general	level	of	well-being	in	
+topdanmark.	
+activities in 2020  
+comprehensive well-being assessment 
+at	the	beginning	of	2020,	we	conducted	
+a	comprehensive	assessment	of	the	
+employees’	well-being	based	on	both	the	
+result	of	the	annual	survey	on	well-being	
+as	well	as	the	workplace	assessment	in	
+addition	to	anonymized	data	from	health	
+checks	in	2019.	
+the	assessment	gave	rise	to	a	number	of	
+observations,	i.a.	a	widespread	opinion	of	
+having	too	great	a	workload	at	too	high	a	
+pace	with	the	risk	of	stress.
+however,	the	continued	work	on	defining	
+relevant	solutions	to	the	challenges	
+was	put	on	hold	when	covid-19	hit	the	
+country	at	the	end	of	february.	after	
+this,	all	focus	was	targeted	at	managing	
+the	completely	extraordinary	situation	
+to	avoid	dissemination	among	our	
+employees.	
+management of covid-19
+topdanmark	has	complied	with	all	
+official	recommendations	set	for	private	
+businesses	e.g.	working	from	home	to	
+limit	infection.	thus,	in	march	2020,	more	
+than	2,000	remote	workstations	were	
+established	in	14	days.	
+•	 all	year,	we	have	worked	to	ensure	the	
+health	security	and	general	well-being	
+of	our	employees.	for	example,	we	
+established	a	hotline	responsible	for	
+advising	our	employees.	we	have	intro-
+duced	the	use	of	face	masks	in	the	can-
+teen,	and	all	employees	have	received	
+fabric	face	masks.
+•	 we	have	focused	on	establishing	digital	
+tools	for	collaboration	and	distance	
+management	to	ensure	continued	close	
+contact	to	our	employees	-	professio-
+nally	and	socially.
+•	 it	was	–	and	still	is	–	possible	to	borrow	
+an	ergonomic	seat	pad	or	office	chair	
+and	to	get	advice	on	ergonomics	when	
+working	from	home.	we	have	also	made	
+a	number	of	short	training	videos	to	get	
+our	employees	moving	when	working	
+from	home.	
+•	 we	have	organised	social	online	events	
+for	the	group,	e.g.	a	digital	christmas	
+event	to	gather	and	get	the	feeling	of	
+being	together.	
+well-being assessment: objective and result
+objective 
+result in 2020
+evaluation 
+a	2	point	increase	in	the	annual	well-being	
+assessment	at	group	level
+78	point	compared	with	76	points	in	
+2019	1)
+the	result	is	satisfactory	and	is	an	indicator	that	our	
+employees,	in	general,	are	well	and	thrive.
+1)	the	scale	is	0	-	100	points.	the	figure	is	an	index	figure	calculated	as	an	average	of	points	for	a	total	of	three	questions.		the	objective	for	2021	is	to	maintain	the	same	result	as	in	2020,	
+i.e.	78	points.
+corporate culture
+51
+future plans
+the future workplace 
+the	experiences	with	working	from	
+home	during	covid-19	have	overall	
+been	positive.	among	other	things,	
+we	have	seen	that	tasks	are	solved	
+satisfactorily,	sometimes	even	more	
+efficiently	when	working	from	home	
+and	attending	online	meetings	instead	
+of	physical	meetings.	at	the	same	time,	
+we	also	see	that	working	from	home	
+gives	our	employees	more	flexibility	
+in	their	everyday	lives.	this	has	given	
+inspiration	to	how	we	organise	our	
+workplace	and	working	life	in	the	best	
+possible	way	in	the	future.	
+in	2020,	we	have	launched	a	pilot	
+project	in	which	a	maximum	of	75%	
+employees	are	physically	present	at	the	
+workplace	–	also	after	the	covid-19	
+restrictions	are	lifted.	we	call	it	the	
+future	workplace.
+the balance is crucial
+we	are	aware	that	increased	work	
+from	home	also	poses	dilemmas,	e.g.	
+in	relation	to	social	and	professional	
+cohesion.	but	we	believe	that	the	right	
+balance	between	working	from	home	
+and	working	from	our	locations	can	
+contribute	to	an	increase	in	employee	
+well-being,	reduce	stress	and	absence	
+due	to	illness	as	well	as	increase	
+flexibility	for	certain	types	of	task.	
+the	individual	employee’s	need	
+for	physical	meetings	and	contact	
+with	colleagues	and	the	tasks	of	the	
+individual	will	be	the	point	of	departure.	
+at	the	same	time,	we	will	look	into	
+how	our	employees	can	maintain	a	
+close	connection	with	their	team,	their	
+manager	and	with	topdanmark	as	a	
+company	when	there	is	an	alternation	
+between	working	from	home	and	
+working	from	the	locations.	
+the	future	workplace	will	also	influence	
+how	we	approach	the	development	of	
+managers	–	read	more	on	page	53.	
+collaboration with future work lab
+the	pilot	project	is	carried	out	in	
+collaboration	with	future	work	lab,	
+which	is	a	research	and	development	
+project	that	over	the	next	two	years	
+will	look	into	how	you	get	the	digital	
+working	partnerships	of	the	future	to	
+function	in	a	way	that	creates	increased	
+well-being.
+objective 
+result in 2020
+evaluation 
+employee	turnover	at	
+industry	level		1)
+topdanmark:	11,1%	(2019:	
+13.9%)	2)	
+the	insurance	industry:	12.4%		3)
+there	has	been	a	reduction	in	
+employee	turnover	since	2019,	
+and	it	is	also	below	industry	level	
+which	is	satisfactory.	we	see	
+it	as	a	result	of	our	increased	
+attention	to	employee	well-being	
+and	commitment	and	that	we	
+have	succeeded	in	our	efforts.
+1)	finanssektorens	arbejdsgiverforening’s	(the	danish	employers’	association	for	the	financial	sector)	calculation	for	the	
+entire	insurance	industry
+2)	of	which	4.7%	was	involuntary
+3)	the	figure	is	from	2019	as	the	industry	figure	for	2020	was	not	published	on	the	completion	of	this	report.	
+survey on sexism in the wake of the metoo campaign
+the	year	2020	has	been	marked	by	an	increased	attention	to	sexism	at	the	
+workplace	and	in	society	in	general.	we	have	chosen	to	address	the	issue	and	
+conducted	a	survey	among	all	our	employees	in	order	for	us	to	learn	the	scope	in	
+our	own	organisation.	from	the	survey,	it	is	evident	that	we	have	isolated	cases	with	
+abusive,	insulting	and	sexist	behaviour,	which	is	completely	unacceptable.	
+therefore,	in	2021,	different	activities	will	be	launched	to	ensure	understanding	
+of	our	different	boundaries.	we	will	also	emphasize	in	our	internal	communication	
+that	employees	can	trust	that	cases	will	be	handled	consistently	and	professionally.	
+among	other	things,	we	will	use	dialogue	questions	to	support	an	open	dialogue	on	
+the	tone	and	culture	in	the	individual	departments.	
+the future workplace will give less driving. thus it can contribute to 
+our goal of reducing co2 emissions in our entire value chain.
+employee turnover
+we	monitor	our	employee	turnover,	and	we	have	an	objective	of	being	at	industry	level.	
+read	more	about	employee	turnover	for	the	period	2017-2020	in	the	chart	on	page	53.	
+corporate culture
+52
+with	our	health	policy,	we	want	to	inspire	
+the	employees	to	healthy	habits	that	can	
+prevent	lifestyle	diseases	and	stress	as	
+well	as	provide	a	working	day	and	leisure	
+time	with	more	energy.	we	provide	a	
+number	of	health	activities	just	as	we	
+offer	help	in	preventing	pain	and	minor	
+ailments	of	the	body	through	a	massage	
+scheme.	we	also	offer	help	on	larger	
+lifestyle	changes.	
+anonymous stress counselling 
+we	offer	anonymous	stress	counselling	
+from	experienced	psychologists.	the	
+service	can	be	used	as	the	first	step	if	
+you	–	or	a	colleague	–	experience	stress	
+symptoms.	in	doing	so,	you	get	swift	
+aid	without	the	need	of	a	referral	from	
+your	doctor.	in	the	event	of	severe	
+and	long-term	stress,	we	can	offer	a	
+personalised	course	of	treatment	as	part	
+of	the	employee’s	health	insurance.	
+better health
+all	topdanmark	employees	are	offered	
+a	health	screening	during	working	hours	
+every	second	year	–	most	recently	in	
+2019.	a	health	screening	can	simply	be	
+a	digital	health	screening,	or	it	can	be	
+expanded	to	include	a	physical	health	
+check.	
+my health – individual health 
+programme  
+since	2016,	annually,	approx.	30	
+employees	who	are	at	risk	of	getting	
+lifestyle	diseases	have	been	offered	
+an	individual	health	programme,	my	
+health,	against	a	minor	charge.	each	
+programme	has	a	duration	of	3-4	
+months	and	they	have	provided	unique	
+results	within	long-term	and	sustainable	
+lifestyle	changes.	in	2020,	28	employees	
+successfully	participated	in	a	my	
+health	programme	despite	covid-19	
+restrictions.	
+we bike during working hours
+research	show	that	long	periods	of	
+sedentary	behaviour	can	impact	the	
+risk	of	developing	lifestyle	diseases.	
+therefore,	in	2020,	we	have	introduced	
+the	possibility	of	even	more	exercise	by	
+setting	up	23	office	bikes	which	can	be	
+used	instead	of	office	chairs.	
+also	read	about	free	online	medical	advice	
+on	page	21	–	which	is	also	available	to	our	
+employees.		
+absence due to illness 
+we	keep	an	eye	on	our	employees’	
+absence	due	to	illness,	because	we	
+consider	it	to	be	an	indicator	of	both	the	
+physical	and	mental	well-being	of	our	
+employees.
+evaluation of health initiatives
+we	continuously	evaluate	the	many	
+initiatives,	i.a.	in	a	job	satisfaction	
+committee	in	which	it	is	discussed	
+whether	the	initiatives	positively	
+contribute	to	a	healthier	working	day	
+and	a	high	level	of	well-being.	the	total	
+evaluation	of	2020	has	been	special	
+due	to	covid-19.	the	initiatives	have	
+been	well	received	by	our	employees,	
+and	they	have	contributed	to	increased	
+health	and	well-being,	and	also	in	making	
+topdanmark	an	attractive	workplace.	
+health in everyday life  
+we want to give our employees the opportunity of a 
+healthier working life by offering a number of initiatives, 
+from the near to the broad which can give energy both 
+during the working day and at leisure. 
+absence due to illness: objective and result
+objective 
+result in 2020
+evaluation 
+level	of	absence	
+due	to	illness	below	
+industry	level		1)
+topdanmark:		
+2,4%		(2019:	2.7%)	2)
+insurance	industry:	
+3.1%	3)
+the	year	has	been	marked	by	covid-10.	
+we	have	seen	periods	of	illness	longer	than	
+normal,	but	at	the	same	time,	we	have	
+also	seen	a	decrease	in	the	number	of	sick	
+employees.	all	in	all,	there	has	been	a	decline	
+in	absence	due	to	illness	compared	with	
+2019,	and	also	below	industry	level.	the	
+objective	has	been	met.
+1)	finanssektorens	arbejdsgiverforening’s	(the	danish	employers’	association	for	the	financial	sector)	calculation	for	the	
+entire	insurance	industry
+2)	this	figure	indicates	that,	on	average,	every	employee	was	sick	2.4%	of	the	total	number	of	working	hours	in	2020.	
+the	figure	covers	all	employees.	
+3)	the	figure	is	from	2019	as	the	industry	figure	for	2020	was	not	published	on	the	completion	of	this	report
+we	contribute	to	goal	3:	good	he-
+alth	and	well-being
+corporate culture
+53
+our	need	for	competencies	in	the	
+organisation	is	continuously	evaluated	
+through	dialogue	with	the	individual	
+departments,	management	and	the	
+executive	board.	against	this	background,	
+a	strategy	for	training	and	development	is	
+prepared	for	the	individual	employee.	
+we	have	several	training	programmes	
+depending	on	which	part	of	the	
+organisation	you	are	working	in.	there	
+is	a	number	of	mandatory	courses	
+that	all	employees	must	complete,	e.g.	
+data	protection,	it	security	and	money	
+laundering.	furthermore,	we	continuously	
+offer	internal	training	courses	appealing	to	
+all	employees.	
+leadership training
+we	have	a	target	of	completing	a	
+comprehensive	managerial	training	
+programme	for	a	total	of	approx.	250	
+managers	on	four	levels.	the	programme	
+is	carried	out	over	2-3	years	in	which	
+all	managers	are	trained	in	a	number	
+of	subjects	e.g.	strategy	development,	
+understanding	transformation	and	
+management	skills.	furthermore,	the	
+programme	includes	tactical	toolbox	
+courses	such	as	conflict	management,	
+situational	leadership,	distance	
+management	etc.	customised	training	
+courses	may	also	be	included	if	needed.	
+activities in 2020
+impacted	by	covid-19	and	the	widespread	
+use	of	working	from	home,	there	has	
+been	an	increased	focus	on	developing	
+the	digital	competences	of	the	employees	
+and	managers	in	2020.	for	the	managers,	
+there	has	been	an	increased	focus	on	
+distance	management.
+the competencies of the future
+targeted competence development for the individual employee is important so that everyone can 
+contribute towards carrying out the tasks in the organisation in the short and long term. therefore, we 
+have a comprehensive training and development programme. 
+hr key figures
+unit
+2017
+2018
+2019
+2020
+fulltime	employees	(fte)
+number	
+2,473
+2,343
+2,318
+2,460
+employees	in	flexible	jobs	1)
+number	
+13
+11
+10
+8
+employees	on	temporary	contracts	2)
+%	
+1.7
+2.3
+1.9
+2.0
+employees	covered	by	collective	agreements		
+%
+96.9
+97.2
+96.5
+96.6
+absence	due	to	illness	3)
+%
+3.0
+3.0
+2.7
+2,4
+absence	due	to	illness	in	the	finance		
+industry	4)
+%
+2.9
+3.1
+3.1
+-
+employee	turnover	5)	
+%
+14.3
+14.0
+13.9
+11.1
+employee	turnover	in	the	finance	industry	4)
+%
+12.0
+13.3
+12.4
+-
+cases	of	discrimination	6)
+number	
+0
+0
+0
+0
+competence	development	of	employees	7)
+million
+28.5
+27.0
+33.1
+24.7	8
+the	employee	numbers	do	not	include	hourly-paid	employees,	such	as	student	assistants.
+1)	flexible	jobs	are	offered	primarily	to	internal	employees	who	need	other	duties	than	those	they	have	had	previously.	in	
+2020,	all	employees	in	flexible	jobs	are	internal	employees.
+2)	the	number	of	employees	who	are	bound	by	a	specific	resignation	date	(exclusive	of	trainees	and	maternity	cover)
+3)	this	figure	indicates	that,	on	average,	every	employee	was	sick	2.4%	of	the	total	number	of	working	hours	in	2020.	the	
+figure	covers	all	employees.	
+4)	the	industry	figure	for	2020	was	not	available	when	this	report	was	completed.	
+5)	the	figure	covers	employees	who	left	the	company	voluntarily,	were	dismissed,	retired	or	left	the	company	for	other	rea-
+sons.	the	number	also	includes	terminated	temps.	
+6)	cases	of	discrimination	refer	to	cases	which	have	been	reported	to	hr	or	brought	to	an	employee	organisation.
+7)	the	amount	does	not	include	payroll	costs,	but	solely	payment	of	external	training	activities.	
+8)the	lesser	amount	spent	on	competence	development	in	2020	compared	with	2019	is	caused	by	limitations	in	education	
+options	due	to	covid-19	restrictions.
+>read more about topdanmark 
+as a workplace and our career 
+opportunities 
+future plans
+in	order	to	equip	managers	and	
+employees	to	continue	using	
+digital	tools,	we	will	initiate	a	
+project	in	2021	to	ensure	that	
+we	strengthen	our	total	digital	
+competences,	so	that	they	match	
+the	future	workplace.
+corporate culture
+54
+ansvarlighed i samfund
+55
+responsibility in society
+as a non-life and life insurance company, we help many customers every year when 
+they become ill or suffer an injury. we also want to help more broadly and globally 
+when people are in difficult situations. that is why we collaborate with humanitarian 
+organisations. 
+topdanmark’s	programme	for	charity	is	
+based	on	initiatives	that	contribute	to	
+humanitarian	relief	and	humanitarian	
+assistance	both	in	denmark	and	
+internationally,	and	which	are	related	
+to	our	core	business.	this	could	e.g.	be	
+health	and	exercise	activities	with	a	
+preventive	perspective	which	also	provide	
+the	possibility	of	employee	participation,	
+either	in	the	form	of	financial	
+contributions	and/or	participation	in	
+events.	
+more	specifically,	we	have	chosen	to	
+collaborate	with	three	humanitarian	
+organisations:	kræftens	bekæmpelse	(the	
+danish	cancer	society),	doctors	without	
+borders	and	the	blood	bank.	
+activities in 2020
+exercise for the knæk cancer 
+through	particitation	in	the	knæk	cancer	
+campaign	(cancer	fundraising)	under	the	
+danish	cancer	society,	we	are	given	the	
+opportunity	to	focus	on	several	issues	
+that	are	central	to	our	business:	health,	
+exercise	and	prevention.	furthermore,	we	
+can	contribute	to	an	important	healthcare	
+project,	and	at	the	same	time	create	great	
+internal	togetherness.	
+money for calories
+we	collect	contributions	to	the	campaign	
+in	different	ways.	the	employees	pay	a	
+participation	fee,	and	topdanmark	pays	
+for	the	calories	burned	through	cycling,	
+dancing,	running,	and	other	activities.	
+there	is	also	a	raffle	with	prizes	donated	
+by	our	collaboration	partners.	
+covid-19-friendly event
+in	2020,	we	participated	in	the	knæk	
+cancer	campaign	for	the	seventh	time.	
+the	campaign	has	become	part	of	our	
+corporate	culture,	but	in	2020,	it	was	
+a	new	edition	adapted	to	the	covid-19	
+situation	and	with	many	restrictions.	
+new	ideas	saw	the	light	of	day,	and	
+e.g.	exercise	from	the	home	office	was	
+also	an	option.	all	in	all,	it	was	a	really	
+nice	campaign	with	great	and	positive	
+commitment	from	the	employees,	and	it	
+created	joy	and	togetherness.	
+	
+humanitarian relief across borders
+we	have	been	cooperating	with	doctors	
+without	borders	since	1996.	we	have	
+chosen	doctors	without	borders	as	we	
+trust	that	our	contribution	is	spent	in	
+a	responsible	manner	in	the	world’s	
+hotspots.	
+on	a	voluntary	basis,	employees	can	
+contribute	to	doctors	without	borders	
+via	their	salary,	and	topdanmark	will	
+contribute	an	equivalent	amount.		
+furthermore,	in	connection	with	the	
+christmas	present	for	the	employees	in	
+2020,	the	organisation	received	dkk	100	
+per	christmas	present,	and	the	employees	
+could	also	donate	their	christmas	present	
+amount	to	the	organisation.	
+blood gives new life 
+every	day,	the	danish	hospitals	rely	
+heavily	on	donor	blood	to	treat	patients.	
+as	a	blood	donor,	you	help	ensure	the	
+necessary	blood	supply	and	thus	make	
+a	huge	difference	to	many	people.	we	
+would	like	to	contribute	to	this	effort.	
+therefore,	since	2005,	the	employees	at	
+topdanmark’s	head	office	have	been	able	
+to	donate	blood	to	the	blood	bank	during	
+working	hours.	topdanmark	is	among	the	
+companies	that	donate	the	most	blood	per	
+number	of	visits	by	the	blood	bank.
+responsibility in society
+future plans 
+topdanmark’s	programme	for	charity	
+is	reviewed	annually.	in	2020,	it	
+was	found	that	a	more	thorough	
+evaluation	of	the	programme	is	
+needed	–	a	process	that	will	be	
+initiated	in	2021.
+ 
+dkk770.884 
+was donated to humanitarian
+organisations by topdanmark 
+and employees in 2020.
+ 
+56
+humanitarian assistance: overview 2020
+activity
+donations in dkk 1)
+number of employees 
+participating 
+expenses for administration in 
+dkk 
+doctors	without	borders
+employees:	93,705
+topdanmark:	337.305	2)
+72	(2019	:	84)
+	0
+knæk	cancer	campaign
+employees:	261,900
+topdanmark:	78,000
+690	(2019	:	815)	
+100,000		3)
+blood	bank	4)
+no	available	data
+0
+1)	topdanmark	has	not	made	donations	in	the	form	of	gifts	
+2)	of	which	dkk	251,100	was	a	donation	in	connection	with	the	christmas	present	for	the	employees	
+3)	procurement	costs	of	campaign	t-shirts	for	the	participants		
+4)	159	batches	of	blood	were	collected	(2019:	388).	the	decrease	is	due	to		covid-19.	
+goal	3:	good	health	and	well-being.
+we	contribute	directly	to	the	main	
+goal,	and	with	our	support	to	doctors	
+without	borders	we	contribute	indirec-
+tly	to	several	targets,	i.a.	target	3.1	on	
+reducing	the	global	maternal	mortality	
+ratio	and	target	3.3	on	ending	the	epi-
+demics	of	aids,	tuberculosis,	malaria	
+and	neglected	tropical	diseases.
+responsibility in society
+57
+education in the industry
+we see it as part of our social responsibility to contribute 
+to education in the insurance industry. therefore, we 
+employ a number of finance trainees as well as offer 
+internships every year. we attach great importance to 
+well-being and personal development.
+education in the insurance industry: objective and result
+objective  
+result for  2020 
+evaluation of 2020
+contribute	to	the	education	in	the	insurance	
+industry	employing	a	minimum	of	20	finance	
+trainees	annually	–	in	addition	to	finance	
+internships
+finance	trainees:	23	(2019:	15)			
+financial	economists:	29	(2019:	21)
+finance	bachelors	in	internships:	8	(2019:	7)
+the	number	of	finance	trainees	and	
+internships	is	satisfactory,	and	we	have	had	
+some	good	educational	programmes.	
+out	of	the	14	finance	trainees	that	completed	their	education	with	topdanmark	in	2020,	13	were	permanently	employed	on	completion	of	their	education.
+as	one	of	denmark’s	largest	insurance	
+and	pension	companies	and	as	co-owner	
+of	forsikringsakademiet	(the	insurance	
+academy)	–	the	insurance	industry’s	own	
+educational	institution	–	we	see	it	as	a	
+social	responsibility	to	contribute	to	the	
+education	of	the	young	people	in	our	
+industry.	therefore,	we	annually	employ	
+finance	trainees	in	a	2-year	education,	
+and	we	also	offer	internships	for	financial	
+economists	and	finance	bachelors.	
+trainees get well equipped for the 
+industry 
+we	have	a	long	tradition	of	trainee	
+education,	and	many	of	our	current	
+employees	and	managers	have	been	
+trainees.	according	to	legislation,	we	
+are	obliged	to	employ	finance	trainees,	
+but	as	a	company	we	want	to	contribute	
+more	than	just	what	legislation	requires	
+us	to	do.	therefore,	we	strive	to	employ	a	
+minimum	of	20	trainees	annually.	
+it	is	important	to	us	to	ensure	that	all	
+trainees	complete	the	education	with	good	
+results,	so	that	they	are	well	equipped	
+for	the	requirements	in	the	industry.	
+therefore,	they	receive	a	structured	
+education	programme	with	interplay	
+between	theory	and	practice.	we	organise	
+special	events	focusing	on	the	well-being	
+and	personal	development	of	the	
+trainees	in	order	to	support	them	in	their	
+education.	
+responsibility in society
+58
+tax contributions are also 
+social contributions
+topdanmark contributes to danish society through both 
+direct corporate taxes and indirect taxes. more than 
+99% of our income is taxed in denmark. in our opinion, 
+we contribute to society as a responsible employer and 
+through tax payments. 
+by	operating	a	profitable	business,	
+topdanmark	contributes	significant	
+annual	amounts	to	the	danish	state	
+through	direct	corporate	taxes	and	
+indirect	taxes.	
+more	than	99%	of	our	income	is	taxed	in	
+denmark	which,	taking	the	organisation’s	
+size	into	account,	is	unusual	since	other	
+big	danish	companies	pay	a	large	part	
+of	their	corporate	tax	abroad	due	to	the	
+activities	in	the	international	market.	in	
+this	way,	topdanmark,	relatively	speaking,	
+pays	more	to	the	danish	state	than	many	
+other	big	companies.	
+in	the	most	recent	public	statement	on	
+tax	payments	from	2018,	topdanmark	
+was	the	17th	largest	contributor	of	
+corporate	tax	in	denmark.	among	
+insurance	companies,	we	were	the	largest	
+contributor	of	corporate	tax.
+topdanmark’s payment of direct tax: an overview
+2017
+2018
+2019
+2020
+corporate	tax	(dkkm)		
+502
+371
+441
+329
+income	tax	(dkkm)	
+897
+995
+882
+921
+topdanmark group – taxes and duties 2020 (dkkm)
+topdanmark cost
+topdanmark as tax collector
+direct taxes:
+income	tax
+921
+payroll	tax
+329
+labour-market	contribution
+406
+1,327
+selected indirect taxes
+pension	return
+617
+liability	duty
+258
+indirect taxes:
+property	tax	
+36
+payroll	tax
+274
+flood
+50
+government	tax	
+303
+vat
+19
+non-life	insurance	duty
+90
+1,373
+total dkkm
+603
+total dkkm
+2,700
+responsibility in society
+59
+contact
+if	you	have	questions	or	comments	to	the	
+report,	you	are	always	welcome	to	contact	
+csr	manager	pernille	fogh	christensen.
+likewise,	please	feel	free	to	contact	us	for	
+a	dialogue	on	our	csr	actions.
+telephone:	+45	44	74	40	89	(direct)
+email:	pfi@topdanmark.dk
+topdanmark a/s
+borupvang	4	
+2750	ballerup	
+tel.	+45	44	68	33	11	
+cvr-no.	78040017	
+

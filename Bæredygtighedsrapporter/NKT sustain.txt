@@ -1,0 +1,3364 @@
+company reg: 6272 5214
+sustainability report 
+2020 we connect  
+a greener world
+page 05 
+nkt
+as a leading player in the 
+power cable industry, nkt 
+has contiued its sustainability 
+journey to reduce the 
+environmental impact of 
+its products, solutions and 
+operations.
+5% 
+annually
+page 35 
+nkt photonics
+manufactures a wide range 
+of products used in solutions
+that have a long-term
+perspective of supporting
+the transition to renewable
+energy and improving
+human health and safety.
+page 47 
+group
+nkt a/s is listed on nasdaq 
+copenhagen and consist of the 
+two standalone companies  
+nkt and nkt photonics.
+this report describes the compliance of nkt a/s with section 99a (csr), section 99b and 107d 
+(diversity) of the danish financial statements act in 2020. it also includes the progress made on 
+compliance with the principles of the un global compact. nkt a/s consists of two standalone 
+companies; nkt (power cables) and nkt photonics (photonics equipment) which have separate 
+sections in this report. all nkt a/s entities are covered by this report unless otherwise stated. 
+see more at page 50.
+nkt
+04 letter of commitment
+05  sustainability  
+– we connect a greener world 
+06 description of business model
+07 sustainability governance
+08  materiality assessment defining 
+sustainability priorities
+09 covid-19 preventive measures
+10 sustainable development goals
+11 target overview
+12 business ethics 
+16 social – people
+18 social – health and safety
+20  environment – becoming a net-zero 
+emissions company
+27  procurement  
+– responsible supply chain 
+28 nkt datasheets
+29 introduction to the esg scorecard
+30 responsible business
+31 environment
+33 social
+34 safety
+nkt photonics
+36 letter of commitment
+37 description of business model
+38 governance – business ethics
+40 environment – energy and climate
+41 social – people and safety
+44  procurement  
+– vendors and business partners
+45 nkt photonics datasheets
+46 datasheet
+group 
+48  group compliance and  
+reporting principles
+contents
+nkt commits to reduce its 
+greenhouse gas emissions 
+with an average of 
+ 
+sustainability report 2020 | nkt a/s | 2
+contents
+sustainability  
+in nkt
+04 letter of commitment
+05 sustainability – we connect a greener world
+06 description of business model
+07 sustainability governance
+08  materiality assessment defining sustainability priorities
+09 covid-19 preventive measures 
+10 sustainable development goals 
+11 target overview
+12 business ethics 
+16 social – people
+18 social – health and safety
+20 environment – becoming a net-zero emissions company
+27 procurement – responsible supply chain 
+28 nkt datasheets
+nkt victoria is one of the 
+world’s most energy efficient 
+cable-laying vessels, and 
+she plays a key part in nkt's 
+ambition to consistently 
+minimize the environmental 
+impact arising from its 
+offshore operations.
+ 
+sustainability report 2020 | nkt a/s | 3
+sustainability in nkt
+letter of commitment
+we connect a greener world 
+as the world moves towards 
+green energy, we are proud 
+to take center stage. our 
+power cable technology is 
+key to a future based on 
+clean and renewable energy.
+in nkt, we have made it our purpose to  
+connect a greener world by delivering  
+the power cable technology essential for 
+the green transformation. this journey 
+continued in 2020. 
+as the first major power cable  
+manufacturer we committed to the  
+science based target initiative to  
+become a net-zero emissions company 
+no later than 2050. this commitment 
+further accelerates our sustainability 
+journey and in 2020, we have taken steps 
+to reduce the environmental impact of 
+our operations. here, a key one was to 
+power all our power cable production 
+with electricity generated from renewable 
+energy leading to a 72% reduction in our 
+greenhouse gas emissions (ghg) from 
+electricity compared to 2019*.
+in 2020, we have also continued to con-
+nect the power grids of europe ensuring 
+the infrastructure needed to efficiently  
+exchange renewable energy.  further-
+more, we are a key partner in connecting 
+solar farms, on- and offshore wind parks 
+as well as in upgrading and developing 
+the global power grids. here, a highlight 
+was our significant order wins for the ger-
+man corridor projects which are essential 
+to the green transition in germany.
+in a year shaped by the covid-19 
+pandemic, our primary focus has been 
+and still is to safeguard the health and 
+safety of our employees. we have 
+instituted a number of initiatives across 
+the organization, while complying with 
+recommendation of the authorities in the 
+markets we operate in. throughout 2020, 
+we have managed to keep our production 
+running without significant impact. 
+we promote diversity and equality across 
+our organization, and we are committed 
+to connect a greener world based on 
+responsible and ethical behaviour defined 
+in our code of conduct. furthermore, we 
+conduct our business in accordance with 
+the relevant un sustainable development 
+goals (sdgs) expressing the most impor-
+tant global challenges.
+alexander kara
+president and ceo, nkt
+“ we are mitigating climate change by 
+reducing the environmental impact 
+from both our supply chain, solutions, 
+products and operations.”
+all power cable 
+factories run on green 
+electricity reducing the 
+corporate greenhouse 
+gas emissions from 
+electricty with   
+72%
+ 
+compared to 2019.   
+* reporting year is october 2019-october 2020.
+ 
+sustainability report 2020 | nkt a/s | 4
+letter of commitment
+2019 2020
+0.73
+0.41
+2020
+5%
+annually
+sustainability – we connect a greener world 
+our power cable technology is essential to the transition to renewable energy and we are committed to 
+mitigate climate change by reducing the environmental impact arising from our operations, products and 
+solutions. in 2020, we have continued the journey to become a net-zero emissions company.
+the onboard technologies 
+ensure up to 
+80%
+reduction of nox* emissions 
+compared to similar vessels.
+nkt victoria is one of the world´s 
+most advanced and fuel efficient 
+cable-laying vessels.
+we are primarily 
+contributing to 
+the following 
+sustainability 
+development goals:  
+our lost time injury 
+rate decreased 
+compared to 2019.
+our employee engagement 
+index increased to 
+73 
+from 65 in 2019.
+we commit to reduce our 
+greenhouse gas emission by 
+an average of
+we have signed up 
+for the science based 
+target initiative to 
+become a net-zero 
+emissions company 
+no later than 2050. in 
+2021, we will define 
+a climate action 
+programme addressing 
+scope 1, 2 and 3 
+emsissions.
+* nox = nitrogen oxide
+ 
+sustainability report 2020 | nkt a/s | 5
+sustainability
+high-voltage offshore
+high-voltage  onshore
+medium-voltage
+medium-voltage
+low-voltage
+solutions
+specializes in high-voltage power cable solutions. nkt 
+provides a broad range of solutions for off- and onshore 
+power transmission systems, and supplies both ac and 
+dc power cables. further, nkt offers complete and 
+customized end-to-end turnkey solutions, including full 
+installation services.
+nkt has two high-voltage production facilities in germa-
+ny and sweden. centrally situated in the north european 
+market, these sites have sea and river access. this 
+enables convenient and efficient logistics for offshore 
+solutions around the world as well as ideal access to 
+onshore opportunities in europe. these production sites, 
+combined with nkt’s installation expertise and dedicat-
+ed cable-laying vessel, make nkt a leading company in 
+the high-voltage interconnector, offshore wind, and oil & 
+gas segments. 
+applications
+offers a broad range of low- and medium-voltage power 
+cable solutions. nkt markets high-quality products that 
+conform to regulatory requirements and high customer 
+expectations and has developed ergonomic solutions 
+that are easy to install. these solutions are important 
+contributors to the ongoing electrification of societies. 
+telecom power cables are also developed and marketed 
+with a view to addressing future opportunities in the roll-
+out of 5g mobile networks.
+applications has five main production sites located in the 
+czech republic, denmark, poland and sweden. nkt 
+holds strong positions in these markets. further, nkt is 
+relatively well placed in other european markets, such as 
+germany and norway. the proximity of the production 
+sites to the markets are important to ensure fast delivery 
+and cost-efficient solutions.
+service & accessories 
+supplies off- and onshore power cable services and 
+offers a full portfolio of power cable accessories across 
+the medium- and high-voltage categories.
+the service business focuses on servicing high-voltage 
+power cables. these generally require limited mainte-
+nance, but unfortunate events will occur due to external 
+damage caused by anchor drag, excavation works, etc. 
+this can lead to power cable failures. to avoid such 
+events and to shorten potential downtime, monitor-
+ing solutions and rapid response are in demand. nkt 
+provides these services from teams based in denmark, 
+germany and sweden.
+accessories are critical components in any power cable 
+system. in the high-voltage market, nkt’s technological 
+competence is key as only a few suppliers can match 
+the requirements that accessories must deliver. nkt 
+provides market support for accessories from three 
+production sites in germany and sweden. 
+description of business model
+ 
+sustainability report 2020 | nkt a/s | 6
+description of business model
+endorser
+ 
+■ the board of directors endorses the sustainability 
+strategy and the sustainability report annually
+ 
+■ sustainability is part of the agenda quarterly
+approver
+ 
+■ ceo approves the sustainability strategy and 
+sustainability report, oversees performance and 
+progress 
+ 
+■ sustainability is addressed at least once a quarter
+formulator
+ 
+■ glt and the sustainability steering group decide 
+on the sustainability strategy and its implementation 
+ 
+■ formal meetings at least every quarter
+advisor
+ 
+■ councils and functions ensure sustainability trends 
+are captured, planned and prioritized. provide 
+guidance to sustainability council and ensure 
+actions from the sustainability steering group and 
+the sustainability council are addressed
+ 
+■ councils have monthly meetings or as needed
+implementer
+ 
+■ ensures that processes are implemented in 
+the organization, captures ideas and collects 
+performance data
+ 
+■ meetings as needed
+group sustainability
+sustainability council
+environmental council
+board of directors
+ceo 
+group leadership team (glt)
+sustainability steering group
+business work streams – organized according to sustainability priorities
+executive level
+business level
+organization
+group hse
+hse council
+group level
+ethics and  
+compliance board
+sustainability governance
+nkt recognizes the 
+importance of having clear 
+governance to ensure the 
+corporate integration of 
+sustainability.
+clear governance helps to ensure that 
+decisions are taken at an appropriate 
+level, that sustainability is prioritized and 
+aligned with the business agenda and 
+that the commitment to sustainability is 
+addressed across the organization.
+ 
+sustainability report 2020 | nkt a/s | 7
+sustainability governance
+0.0
+ environment   
+ safety   
+ responsible business   
+ social 
+4.0
+medium materiality,  
+limited disclosure
+high materiality,  
+detailed disclosure
+very high materiality,  
+detailed disclosure
+local community engagement
+export controls and sanctions laws
+competency development
+corporate governance
+employee wellbeing
+energy efﬁciency
+biodiversity
+diversity and inclusion
+product quality
+competition/anit-trust laws
+waste management
+data management and cybersecurity
+water scarcity
+labour standards
+incident prevention 
+and response
+personal safety
+danger zone protection
+compliance to 
+bribery laws
+eco-design and innovation
+climate change
+crisis management
+product safety
+customer satisfaction
+responsible supply chain
+human rights 
+circularity
+talent managegement
+product compliance
+4.0
+the materiality assessment 
+enables the identification 
+and prioritization of social 
+and environmental issues 
+presenting risks and 
+opportunities for nkt and 
+stakeholders. 
+the assessment furthermore supports the 
+visualization of global changes and trends 
+and their potential effect on the business. it 
+also helps reporting on the issues of greatest 
+importance to relevant stakeholders.
+interactions with stakeholders associated with 
+sustainability related matters are conducted 
+through several channels, utilizing methods 
+such as interviews, surveys and informal 
+dialogues. the feedback collected has been 
+included in this year’s materiality assessment 
+and in the general sustainability processes of 
+nkt.
+sustainability aspects are evaluated on the ba-
+sis of risks, opportunities and trends in relevant 
+industries and in political agendas. changes in 
+legislation, technology and general develop-
+ments in the sustainability agenda have also 
+been assessed. 
+the identified issues and opportunities have 
+been processed in an impact valuation based 
+on the nkt enterprise risk management 
+framework using multiple criteria to identify their 
+significance for relevant stakeholder groups.
+materiality assessment
+materiality assessment defining sustainability priorities
+importance to stakeholders
+importance to business
+ 
+sustainability report 2020 | nkt a/s | 8
+materiality assesment defining sustainability priorities
+as the pandemic evolves, 
+nkt monitors the situation 
+closely and implements 
+preventive measures 
+to safeguard the health 
+and safety of employees, 
+partners and to ensure 
+business continuity. 
+the world has changed dramatically since 
+the covid-19 pandemic spread globally. 
+throughout the outbreak, the primary 
+focus of nkt has been to ensure the 
+health and safety of its employees while 
+continuing its operations. this has led to a 
+number of initiatives following the recom- 
+mendations and requirements from the 
+authorities in the markets, nkt operates. 
+these preventive measures implemented 
+have so far ensured business continuity 
+without significant impact.
+nkt has registered 139 confirmed cases 
+in the total workforce of 3,469 employees 
+in 2020. all infected employees have fully 
+recovered.
+in 2021, the development of covid-19 
+continues to be closely monitored, and the 
+necessary measures are maintained and 
+will be evaluated as the situation develops.
+covid-19 preventive measures
+nkt has registered
+139
+ 
+employee cases of  
+covid-19 in 2020.
+ 
+sustainability report 2020 | nkt a/s | 9
+covid-19 preventive measures
+very  
+high impact
+moderate impact
+high
+impact
+sustainable development goals
+the un sustainable development goals (sdgs) define the greatest sustainability challenges globally 
+and provide guidelines for the necessary actions. nkt is committed to conduct business supporting the 
+goals and underlying targets and primarily contributes to: 
+7. affordable and clean energy 
+power cable technology is key in powering modern life 
+and global society with clean and renewable energy. the 
+integration of affordable and clean energy is essential for 
+mitigating climate change and supports most global goals 
+on co2ereduction. nkt has committed to the science based 
+target initiative to become a net-zero emissions company no 
+later than 2050.
+12. responsible consumption and production 
+nkt minimizes the environmental impact of its activities
+and all power cable production sites run on 100% green
+electricity. nkt has a high utilization, work towards zero waste 
+and increases transparency in minerals used in the supply chain 
+with the conflict minerals reporting template. all production 
+sites are certified according to iso 14001, specifying  
+requirements for effective environmental management. 
+8. decent work and economic growth
+safety is a core area for nkt, and work to 
+strengthen the safety culture is constantly 
+ongoing. nkt participates in industry  
+initiatives, operate within international  
+standards,respect and comply with local 
+labour laws, and support freedom of  
+association.
+5. gender equality
+nkt is committed to providing equal 
+opportunities to its employees and will 
+not tolerate discrimination or harassment 
+based on gender race, religion, or any 
+other factor.
+ 
+14. life below water
+nkt has extensive experience operating in the 
+offshore industry and protects aquatic  
+biodiversity and wildlife when installing and  
+laying power cables. the seabed is safeguard-
+ed during trenching and cable burial, safe 
+distance to wildlife is kept during offshore op-
+erations and nkt has experience from several 
+operations in high-risk marine environments.
+15. life on land
+nkt is preserving the environment and 
+minimizing impact on nature and wildlife 
+when executing onshore operations.
+processes are in place to monitor the 
+environmental footprint and mitigate 
+the risks of environmental incidents at 
+installation sites.
+16. peace, justice and strong institutions
+nkt is committed to responsible business 
+practices and refrains from all forms of bribery, 
+fraud or corruption. this is described in the 
+code of conduct establishing the fundamental 
+principles and rules of behaviour for all  
+employees. a compliance programme is also 
+in place, including a corporate whistleblower 
+hotline.
+9. industry, innovation and infrastructure
+nkt actively supports the development of the infrastructure needed 
+to bring power to industries, cities and societies. the innovation and 
+expertise of nkt are constantly paving the way for efficient integra-
+tion of renewable energy. with extensive experience in areas such as 
+high-voltage direct current (hvdc) cable technology, superconducting 
+cable systems and dry-termination technology, nkt is enabling  
+efficient and safe power transmission.
+.
+13. climate action
+nkt maintains and builds the infrastructure 
+needed to integrate and distribute the renewable 
+energy mitigating climate change. part of the 
+company’s climate action is to constantly  
+minimize the environmental impact of its  
+operations
+ 
+sustainability report 2020 | nkt a/s | 10
+sustainability development goals
+incomplete
+partly completed
+completed
+in 2020, progress was made in all defined  
+sustainability focus areas.
+target overview
+goals and actions 2020
+outcome
+status
+sdg
+responsible business
+develop and implement improved risk assessment process 
+covering all areas within the ethics & compliance programme and 
+targeting all key functions within nkt
+ 
+16.6
+develop new code of conduct 
+16.5
+environment
+all manufacturing sites to run on green electricity
+transition made at all power cable factories. process  
+ongoing at factories manufacturing accessories
+12.6
+complete and evaluate pilot project on energy monitoring and set 
+high level implementation plan
+12.6
+no environmental impact incidents* 
+4 incidents registered (gas leakages)
+12.5
+social
+increase employee engagement index for 2020 (>65)
+73
+8.5
+implement safety culture ladder level 3 certification
+8.8
+full implementation of ia system on all manufacturing sites
+8.8
+complete transition from ohsas 18001 to iso 45001
+8.8
+reduce the lost time injury rate (≤ 0.50)
+0.41
+8.8
+procurement
+qualify all a and a+ suppliers
+16.6
+implement supplier relationship management programme for all  
+a and a+ suppliers 
+16.6
+*  discharge or release of hazardous substances into the environment, or negative impact on stakeholders, have occurred. from 2020, nkt includes climate impact  
+incidents in the this definition.
+ 
+sustainability report 2020 | nkt a/s | 11
+target overview
+responsible business
+business ethics 
+responsible business sets 
+the foundation for global 
+sustainable development 
+and is a key priority for nkt. 
+ 
+corporate governance within nkt is  
+managed by the ethics & compliance 
+board overseeing the initiatives contained 
+in the ethics & compliance programme 
+which is ultimately supervised by the 
+audit committee on behalf of the board 
+of directors. in 2020, a new ethics & 
+compliance strategy was implemented 
+setting the direction for the compliance 
+programme, and the process for internal 
+controls were strengthened. 
+ethics and compliance
+nkt is committed to promoting ethical 
+behaviour across the company, and  
+ensuring ethical compliance across all 
+segments, markets and entities is funda-
+mental to commercial success.  
+the approach in this area is  
+continuously improved via a broad- 
+reaching compliance programme. nkt 
+complies with applicable laws, regulations 
+and international standards, and strive to 
+meet stakeholder expectations.
+code of conduct
+the code continues to define the funda-
+mental principles of conduct in nkt in  
+relation to employees, vendors, business 
+partners and the public. it includes policies 
+governing the approach to business 
+responsibility and covers the expectations 
+placed by nkt on its customers and 
+external partners.
+improved risk management
+nkt is committed to the management of 
+risks in accordance with good corporate 
+governance and to the application of best 
+practice to internal risk processes. 
+a risk management framework has been 
+developed in 20201. 
+as shown on page 8, a detailed  
+materiality assessment dedicated to 
+sustainability has been completed.
+anti-bribery and anti-corruption
+nkt tolerates no form of bribery or 
+corruption as described in the code of 
+conduct and related training and aware-
+ness initiatives are regularly provided to all 
+relevant employees. strict guidelines and 
+requirements governing gifts, entertain-
+ment and hospitality are also in place.
+corruption and bribery risks
+the exposure in relation to corruption and 
+bribery risks arises principally through 
+interactions with external suppliers and 
+business partners in connection with ten-
+ders and business agreements. initiatives 
+minimizing this exposure are constantly 
+ongoing including targeted training and 
+awareness campaigns. with an enhanced 
+third-party compliance process respon-
+sibility and transparency throughout the 
+value chain has increased. during 2020, 
+an improved risk assessment process 
+was developed to help further identify key 
+compliance risks.
+ethics & compliance board
+ceo (chairman)
+ethics & compliance officer 
+(support to e&c board)
+chro
+cio
+general counsel
+head of risk 
+management, insurance 
+and compliance 
+(ad-hoc member)
+business line 
+representative 
+find the nkt 
+code of conduct
+1  read more in the nkt annual report 2020 on page 40.
+ 
+sustainability report 2020 | nkt a/s | 12
+business ethics
+great team work  
+across  the entire 
+organization led to 
+a high-voltage order 
+backlog of 
+eur  
+3.07 bn 
+year-end setting a new 
+company record
+export controls and sanctions law
+as a global company, nkt complies with 
+international and national trade controls, 
+including economic sanctions and export 
+controls. to ensure compliance, nkt 
+operates a robust compliance program 
+according to which all relevant business 
+partners are screened to ensure they are 
+not subject to any applicable sanctions or 
+other relevant restrictions and all business 
+transactions will immediately be terminat-
+ed if that is the case. while nkt primarily 
+operates in low-risk countries in relation 
+to sanction and trade controls, the area is 
+reviewed on a continuous basis. 
+data privacy
+nkt remains committed to maintaining 
+strict privacy in respect of all personal 
+information relating to employees and third 
+parties, and the focus will continue in 2021. 
+third-party compliance 
+in 2020, the global due diligence process 
+in respect of agents and distributors were 
+enhanced to strengthen responsibility and 
+transparency in the value chain. the im-
+plementation of the process will continue 
+in 2021. 
+responsible tax 
+nkt is a responsible taxpayer which 
+bases its tax reporting on openness and 
+transparency in all aspects of tax-related 
+reporting and compliance in the countries 
+where nkt operates. the business is 
+structured in accordance with the com-
+mercial and economic activities and do 
+not operate in tax havens. tax is paid in 
+the countries where value is created, and 
+nkt aims at benefiting from tax incen-
+tives in the countries where the company 
+has substance. nkt is committed to 
+responsible tax through adherence to 
+international double taxation treaties, eu 
+regulations and relevant domestic and 
+oecd guidelines.
+compliance training 
+throughout 2020 the level of compli-
+ance training across the organization 
+were enhanced, focusing specifically on 
+governance and compliance 
+are prerequisites for large 
+power cable projects such as 
+nordlink enabling exchange 
+of renewable energy between 
+norway and germany. 
+e-learning module 
+ completion rate achieved 2020 
+target
+ 
+business code of conduct  
+ 
+ 
+ 
+91% 
+ 
+90%
+data privacy   
+ 
+ 
+ 
+ 
+75%* 
+ 
+90%
+competition law  
+ 
+ 
+ 
+ 
+96% 
+ 
+90%
+trade sanctions 
+ 
+ 
+ 
+ 
+97% 
+ 
+90%
+ 
+* the re-certification campaign was launched in october and is still running, thereby impacting the completion rate
+ 
+sustainability report 2020 | nkt a/s | 13
+91%
+ 
+was the corporate completion 
+rate of training in the updated 
+code of conduct.
+employees working in high risk areas. 
+the training involved both face-to-face 
+sessions and e-learning modules and 
+covered the code of conduct, data 
+privacy, competition law, trade sanctions 
+and the corporate whistleblower hotline. 
+training in competition law 
+during 2020, a dedicated focus to 
+strengthen the training and awareness 
+activities relating to anti-trust and com-
+petition law was initiated. this was part 
+of the strategic initiatives in the awake of 
+the alleged price-fixing described below, 
+along with an unannounced inspection 
+conducted in 2019 by the authorities 
+at the polish facility in warsowice. the 
+inspection arised out of concerns of unfair 
+competition in the market for low- and 
+medium-voltage power cables. nkt 
+cooperated fully with the polish authori-
+ties and the matter was dismissed by the 
+authorities after a short investigation.
+in may 2020, the appeal against the 
+fine imposed by the european general 
+court following investigation into alleged 
+price-fixing on high-voltage power cable 
+projects was partially upheld by the  
+european court of justice. the fine and 
+scope of nkt’s alleged conduct was 
+reduced. nkt has lodged objections 
+against the judgement which is currently 
+being considered by the european court 
+of justice1. 
+read more in the 
+annual report
+1  more information in the nkt annual  
+report 2020 on page 32.
+ 
+sustainability report 2020 | nkt a/s | 14
+7
+2018
+2019
+2020
+1
+12
+3
+11
+1
+whistleblower reports
+reports substantiated
+incomplete
+partly completed
+completed
+whistleblower hotline
+nkt takes full responsibility for its  
+actions and is committed to a culture of 
+openness and honesty. employees and 
+business partners are urged to report any 
+concerns arising from their daily work or 
+the collaboration with nkt.
+nkt operates a whistleblower hotline for 
+the use of both employees and exter-
+nal stakeholders to report unethical or 
+alleged unlawful behavior. awareness of 
+the hotline is raised on an ongoing basis 
+and nkt has a strict policy whereby no 
+employee will suffer retaliation for raising 
+a concern or reporting suspected  
+misconduct in good faith.
+the reports received in 2020 primarily 
+related to concerns or allegations about 
+mishandling of confidential information, 
+conflicts of interest, misuse of company 
+funds, and impact of trade restrictions.  
+all relevant cases were investigated 
+thoroughly, and appropriate corrective 
+and disciplinary actions were taken where 
+relevant.
+the whistleblower hotline complies with 
+the new eu whistleblower protection 
+directive.1 
+number of whistleblower reports
+goals and actions 2020
+outcome
+status
+sdg
+responsible business
+develop and implement an improved risk assessment process 
+covering all areas within the ethics & compliance program and 
+targeting all key functions within nkt
+ 
+16.6
+develop new code of conduct
+16.5
+future plans, goals and actions 
+target 2021
+sdg's
+increase awareness on anti-bribery and anti-corruption
+achieve 90% completion rate of anti-bribery and 
+anti-corruption e-training 
+16.5
+strengthen compliance approach for agents and distributors 
+implement new agents and distributor compliance 
+instruction
+16.5
+strengthen risk assessment
+develop enhanced risk assessment process for 
+ethics and compliance
+16.5
+1  eu directive 2019/1937 of 23 october 2019 on the protection of persons who report breaches of eu law.
+ 
+sustainability report 2020 | nkt a/s | 15
+16%
+2018
+2019
+2020
+84%
+15%
+85%
+18%
+82%
+female
+male
+18%
+2018
+2019
+2020
+82%
+19%
+81%
+20%
+80%
+female
+male
+social
+people
+nkt believes a safe and  
+diverse working environ-
+ment is fundamental to 
+the continued growth of 
+both the company and its 
+employees.
+for nkt, the principal exposure in the 
+area of human and labour rights relates to 
+threats to employee safety in the form of 
+occupational injuries and accidents and 
+to vioaltions in the supply chain. 
+to mitigate these risks nkt promotes 
+a continous focus on health and safety 
+and an improved, digitized procurement 
+process for vendors and business part-
+ners have been established to strengthen 
+supplier assessments in sustainability 
+related areas. while mainly operating in 
+low-risk countries, exposure in relation to 
+forced and child labour is not considered 
+a material risk for nkt, but it is subject to 
+continuous review. 
+diversity in senior leadership*
+ 
+ 
+ 
+no. of 
+ 
+age profile 
+gender 
+nationalities
+ 
+total 
+<40 
+40-54 
+>54 
+female 
+male 
+ 
+2020 
+80** 
+14 
+44 
+22 
+14 (18%)  66 (82%)  
+12
+2019 
+53 
+10 
+32 
+11 
+8 (15%) 
+45 (85%) 
+10
+2018 
+58 
+13 
+38 
+7 
+9 (16%) 
+49 (84%) 
+8
+*  senior leadership consists of the extended leadership team, including members of the group leadership team.
+**  the number of members in the extended leadership team has been increased to strengthen representation  
+from all parts of the business.
+gender diversity  
+senior leadership
+all employees
+human and labour rights
+as a signatory to the un global compact, 
+nkt is committed to conforming to all 
+aspects of the universal declaration of 
+human rights. nkt respects and abides 
+by local labour law, and supports free-
+dom of association, and all employees 
+have contracts complying with local laws 
+and regulations.
+conflict minerals
+nkt uses the conflict minerals reporting 
+template (cmrt) provided by the 
+responsible minerals initiative to increase 
+transparency in respect of the smelters 
+and refiners used in the supply chain to 
+ensure the smelters and refiners used are 
+conformant. 
+diversity and equality 
+nkt is committed to promoting diversity 
+and inclusion across the company and 
+firmly believe that a diverse organization 
+provides the best foundation for driving 
+both employee engagement and com-
+pany performance. as a first step this 
+comprises a target of 30% female leaders 
+in the board of directors1, the group 
+leadership team and the extended 
+leadership team by 2024. 
+in 2021, nkt will update the diversity & 
+inclusion policy and develop a dedicat-
+ed strategy to strengthen the focus on 
+diversity and inclusion through initiatives 
+and programs fostering a diverse and 
+inclusive organization. planned initiatives 
+include partnerships to locate and attract 
+female talents, increase focus on diversity 
+and inclusion in recruitment and talent 
+processes to ensure a diverse field of 
+candidates and continue to cover the 
+importance of diversity and inclusion in 
+the mandatory leadership development 
+programs.
+1  members elected at the annual general meeting.
+ 
+sustainability report 2020 | nkt a/s | 16
+social – people
+engaged, committed employees 
+nkt considers a culture driven by high 
+engagement to be a key enabler, and  
+delivering this is a long-term focus. to 
+track the progress in this regard, an 
+annual survey measured by an employee 
+engagement index is conducted. here, 
+the company ambition is to have an  
+employee engagement index in the top 
+quartile compared to the global bench-
+mark. the positive index trend recorded 
+in 2019 continued in 2020, with leaders at 
+all levels continuing to initiate actions that 
+foster engagement.
+to further strengthen the focus on  
+engagement in the leadership domain, 
+two new programmes were launched 
+in 2020; one for project managers and 
+one for first line leaders in production. 
+furthermore, a follow-up initiative was im-
+plemented to cement the nkt leadership 
+model after completed training.
+new pipeline of engineering talents
+as a leading company in the power 
+cable industry, nkt has high demands 
+for technical competencies to continue 
+building the necessary infrastructure for 
+the transition to renewable energy. this 
+programme, which will run for 12 months, 
+will operate from the high-voltage  
+engineering centre and manufacturing 
+site in karlskrona, sweden. 
+after completing the programme, the 
+participants are expected to continue in 
+relevant positions throughout the nkt 
+organization.
+community engagement
+across the nkt organization, employees 
+engage and make a difference to their 
+local communities. some examples of the 
+voluntary community service from 2020 
+are presented below.
+people in the accessories business line 
+continued their work with local organi-
+zations to support children in the local 
+communities. this collaboration, which 
+began in 2017 at the site in nordenham, 
+germany, has since widened to include 
+other german and swedish locations, fo-
+cuses on giving underprivileged children 
+a merry christmas in the form of gifts and 
+social activities. 
+in alingsås, sweden, employees helped 
+provide a fun christmas for 30 families 
+and 116 children through collaboration 
+with the local lions club. in berlin and 
+cologne, germany, nkt employees are in 
+touch with local help organizations such as 
+elisabethstift, one of the oldest children's 
+homes in berlin. in addition to making their 
+annual cash donation, the employees or-
+ganized an event in which they responded 
+to a 'wish list' submitted by 30 children 
+and young people.
+dedicated employees from 
+the shared service center in 
+kaunas, lithuania, are getting 
+ready to support local chil-
+dren in need with equipment 
+supporting a life of wellbeing.
+as in 2019, employees in kaunas,  
+lithuania, continued their partnership 
+with the local order of malta organiza-
+tion which provides financial and other 
+support to elderly, families and children in 
+need. in 2020, employees dedicated their  
+efforts towards helping the children visit-
+ing locally run day centres where they can 
+do their homework, play and interact in a 
+safe and supportive environment. to help 
+give the children a foundation for a good 
+education, a variety of school equip-
+ment as well as sports and recreational 
+supplies for after-school activities were 
+provided.
+in asnaes, denmark, the long-term 
+collaboration with the local red cross 
+continued to engage people with special 
+needs in meaningful work. the local 
+workforce is converting old wooden cable 
+drums into fashionable furniture being 
+sold locally. the money generated is 
+being spent on special activities in their 
+protected accommodation.
+ 
+sustainability report 2020 | nkt a/s | 17
+social
+health and safety
+the safety of employees, 
+suppliers, customers and 
+partners is paramount to 
+nkt. the corporate safety 
+culture is continuously 
+strengthened by mitigating 
+risks and supporting the 
+necessary behaviour for 
+ongoing improvements.
+throughout 2020, steps were taken at 
+corporate level to continue to build a 
+strong safety culture. a key initiative was 
+the implementation of the centralized  
+ia system1 at all manufacturing sites.  
+this will strengthen data collection, anal-
+ysis and reporting on a global scale and 
+enable improvements and risk mitiga-
+tions within health and safety.
+another central development in 2020 
+was the transition from ohsas 18001 to 
+the new health and safety management 
+standard iso 45001, which will improve 
+processes, help monitor progress and 
+support building a strong safety culture. 
+with iso 45001 in place, health and 
+safety will be more extensively  
+integrated into the general processes, 
+driving an overall focus on safety across 
+the nkt organization.
+furthermore, the hv solutions land-
+based operations of nkt was accred-
+ited according to level 3 of the safety 
+culture ladder certification standard. 
+this helps drive engagement, develop 
+risk awareness and build a safety-fo-
+cused mindset. the certification stand-
+ard  provides a framework for working 
+safely in various sectors and for promot-
+ing a robust safety culture throughout 
+the  entire value chain of products and 
+services. in 2021, the safety culture 
+ladder certification standard will be 
+expanded to nkt's hv solutions  
+offshore operations to further advance 
+the corporate safety culture. 
+positive development
+progress from the initiated safety initiatives 
+was reflected in the primary kpi, lost time 
+injury rate2 (ltir), which decreased from 
+0.73 in 2019 to 0.41 in 2020.  
+safety week 2020 in 
+karlskrona 
+nkt’s corporate life saving principles, 
+cpr procedures and safety on the 
+road were all part of the agenda for the 
+safety week 2020, a local initiative at the 
+high-voltage engineering and manufactur-
+ing site in karlskrona, sweden. the event 
+is a great example of how local initiatives 
+support the corporate focus to constant-
+ly strengthen the safety culture. due to 
+covid-19 restrictions the safety week was 
+held online. the event will be repeated in 
+2021 and has the potential to become a 
+company-wide initiative.
+1 informationssystem om arbejdsmiljö (information system for working environment).
+2 the ltir is defined as the number of lost time injuries, multiplied with 200.000 and divided by the sum of worked hours.
+3  the trir is defined as the combined number of fatal injuries, lost time injuries, medical treatment injuries and restricted 
+work cases, multiplied with 200.000 and divided by the sum of worked hours.
+4  the lwdr is defined as the sum of lost workdays due to lost time injuries (lti), multiplied with 200.000 and divided 
+by the sum of worked hours. 
+the positive development was pri-
+marily driven by focused efforts by the 
+hse-organization in the form of initiatives 
+to mitigate identified unsafe acts and 
+conditions, implement lessons learned 
+from previous workplace incidents and 
+mobilize local campaigns promoting safe 
+behaviour. the decrease in ltir can 
+also partly be attributed to the covid-19 
+pandemic, which led to extra safety 
+measures, an increase in the general fo-
+cus on safe behaviour, and to employees 
+periodically working from home. 
+it has been decided to update the cor-
+porate health and safety kpi framework 
+with a view to continued transparency, 
+improved data collection and enhanced 
+monitoring. from 2021, the corporate 
+progress will be measured based on 
+three main kpis: lost time injury rate 
+(ltir), total recordable injury rate3 
+(trir), and lost work day rate4 (lwdr). 
+all three are normalized over the total 
+number of hours worked, which enables 
+faster identification of trends and helps 
+decrease statistical fluctuation. 
+jan perslof played 
+an active part 
+in the planning 
+and execution of 
+the successful 
+safety week in 
+karlskrona.
+ 
+sustainability report 2020 | nkt a/s | 18
+social – health and safety
+incomplete
+partly completed
+completed
+local mental health focus 
+psychological and social stressors in the workplace have been 
+identified as a safety risk, especially at predominantly  
+white-collar locations. at the danish headquarters, the working 
+environment committee is currently executing a three-year action 
+plan on mental health. in 2020, as part of this initiative, the  
+committee hosted two workshops with an organizational  
+psychologist and stress prevention coach. one workshop was for 
+the danish organization and one for managers. the workshops 
+were recorded and can be watched on the local intranet.
+“ these sessions were prominent building 
+blocks in our mental health action plan. 
+they supplement a dedicated stress policy, 
+our mental health guidance documents and 
+our external support hotline. due to the 
+pandemic we also had to widen our outreach 
+to homeworking and isolation. we had very 
+high participation rates, showing that our 
+colleagues and leaders treat this as a priority.” 
+akos frank, lead legal operations and working environment representative
+future plans, goals and actions
+target 2021
+sdg
+employee engagement index 
+>73
+8.5
+initiate training of hr business partners and selected leaders  
+to minimize biases in recruitment processes
+5.5
+stabilize the lost time injury rate
+≤ 0.50
+8.8
+expand safety culture ladder level 3 certification  to  
+hv solutions offshore operations
+8.8
+conduct hse management training for the top 200 leaders
+100% completion rate
+8.8
+goals and actions 2020
+outcome
+status
+sdg
+social 
+increase employee engagement index >65
+73
+8.5
+implement safety culture ladder level 3 certification
+8.8
+reduce the lost time injury rate ≤ 0.50
+0.41
+8.8
+full implementation of ia system on all manufacturing sites
+8.8
+complete transition from ohsas 18001 to iso 45001
+8.8
+ 
+sustainability report 2020 | nkt a/s | 19
+environment 
+becoming a net-zero emissions company
+as a central player in the 
+global transition towards 
+renewable energy, nkt is 
+continuously minimizing the 
+environmental impact of its  
+activities.
+ 
+the sustainability journey of nkt contin-
+ued through 2020 with several initiatives 
+significantly reducing the corporate carbon 
+footprint. a key step was the commitment 
+to become a net-zero emissions company 
+by 2050. to fully focus on reaching this tar-
+get nkt committed to the science based 
+target initiative providing a scientifically 
+based method to validate the climate strat-
+egy. while the pathway towards net-zero 
+emissions is being validated, the journey 
+continues, and corporate targets have 
+been set to cut greenhouse gas emissions 
+(ghg) with an average of 5% annually. 
+to take steps reaching this target all 
+power cable factories switched to using 
+electricity based on renewable energy 
+leading to a 72% reduction in ghg  
+emissions from electricity consumption
+climate action programme
+nkt is currently developing a climate ac-
+tion program which will address the jour-
+ney towards reducing fossil dependency 
+in all emissions scopes both related to 
+production and operation (scope 1 and 2) 
+as well as from the value chain (scope 3). 
+the programme will include requirements 
+and goals for all steps of the process.
+decarbonization of supply chain
+as nkt is a major player in the power 
+cable industry, an important element of 
+the journey towards net-zero emissions is 
+to decarbonize the supply chain, which 
+accounts for a significant part of the 
+corporate ghg emissions. a suppli-
+er engagement programme has been 
+launched to drive the decarbonization 
+process. close supplier collaboration is 
+considered essential to succeed in driving 
+reduction of supply chain emissions. to 
+initiate this dialogue and assess the level 
+of maturity within the main critical suppli-
+ers, 21 strategic suppliers in high-impact 
+areas have been asked to disclose their 
+emissions. all suppliers have committed 
+to the programme, and the focus to build 
+a sustainable supply chain to decrease 
+the corporate scope 3 emissions will 
+continue in 2021.
+climate impact reductions
+the focus on climate and energy efficiency 
+in is directed by the corporate environmen-
+tal council, ensuring a systematic approach 
+to energy efficiency at all factories. to 
+ensure progress in this regard energy 
+performance is closely monitored to enable 
+rapid response to anomalies and provide 
+the necessary data for projects increasing 
+energy efficiency.
+green power cable production
+in 2020, all power cable factories switched to  
+using electricity based on renewable energy 
+reducing the ghg emissions with more than 
+38,000 tonnes of co2e in a single year from  
+production and the cable-laying vessel  
+nkt victoria. the change in energy supply is 
+documented by eu guarantees of origin,  
+market-based instruments which are certified by 
+an auditor and provide proof that electricity  
+consumption is based on renewable energy for 
+the power cable production in germany, denmark, 
+sweden, norway, poland and czech republic. 
+driving energy efficiency
+during the year, local initiatives included 
+installing energy meters on machinery at 
+the plant in warzowice, poland, which pro-
+vided  increased transparency and over-
+view of energy consumption. in alingsås, 
+sweden, an extensive mapping of energy 
+consumption has been completed to iden-
+tify energy efficiency projects leading to a 
+reduction in energy used for cooling. 
+energy programmes at the high-voltage 
+factories in karlskrona and cologne have 
+yielded impressive results generating 
+2,485 mwh in energy savings. the work 
+was performed on various equipment 
+throughout the factories by working with 
+lighting, ventilation and isolation. 
+ 
+sustainability report 2020 | nkt a/s | 20
+environment – becoming a net zero emissions company
+scope 1
+scope 2
+scope 3
+scope 3
+comparative overview of the carbon emissions trend 
+employee commuting  
+(75 kt)
+overview of carbon emission scopes
+kilotonnes (kt) 
+upstream (indirect) activities
+purchased heat and electricity  
+(13 kt)
+purchased goods and services 
+(17,000 kt)
+transportation and distribution  
+(7 kt)
+end-of-life: 100% recyclable  
+products and solutions
+(avoided co2e at end-of-life of power  
+cables produced in 2020 161 kt)
+3rd party waste recycling 
+(1 kt, avoided co2e emissions 23 kt)
+transportation and distribution 
+(240 kt)
+business travel etc. 
+(0.500 kt) 
+emissions produced at nkt sites 
+(7 kt)  
+forklifts, gas for heating of cable tracks, handling of fluorinated 
+gases, production emissions, company cars etc. 
+nkt victoria  
+(5 kt)
+fuel consumption and use of electricity when 
+connected to shore
+nkt services and installations
+(currently not included)
+nkt direct activities
+downstream (indirect) activities
+13 kt
+12 kt
+20,308kt*
+kilotonnes of co2e 
+2020 
+2019 
+2018
+scope 1 
+12.1 
+16.3 
+14.8
+scope 2* 
+13.2 
+47.1 
+48.2
+scope 3 
+20,308 
+8.2** 
+9.0**
+outside of scope 1 reporting*** 
+5.9 
+- 
+-
+* market-based method.
+** limited scope: transport, distribution and business travel.
+*** emissions from the use of renewable fuels.
+*  previously the data collection regarding scope 3 emissions have included 
+business travel and logistics. in 2020, an overall evaluation of scope 3 emis-
+sions was made to create a baseline for the corporate climate programme 
+using quantis scope 3 evaluator tool. this will improve future data collection 
+and utilizing supply chain decarbonization as well.
+other 
+(3,000 kt)
+ 
+sustainability report 2020 | nkt a/s | 21
+reducing fuel consumption 
+switching to certified renewable electricity 
+along with additional reduction of fossil 
+fuels have been key drivers in reducing 
+the scope 1 and 2 emissions by 60% 
+compared to 2019. in 2020, fuel for 
+stationary and non-stationary equipment 
+accounted for 47% of the corporate 
+greenhouse gas emissions (ghg emis-
+sions) making reduction in fuel consump-
+tion central to the ambition to become a 
+net-zero emissions company. the work to 
+convert processes and  
+machinery to renewable energy sources 
+has been initiated with a dedicated focus 
+on the transition of the company fleet to  
+electrical/hybrid vehicles (ev). to support 
+this change, electric chargers will be 
+installed at several sites during 2021. 
+at the high-voltage cable factory in 
+karlskrona, sweden, forklifts have been 
+upgraded to run on alternative fuel. this 
+project will be evaluated on an ongoing 
+basis with a view to implementation 
+company-wide.
+in poland, a local initiative aimed at 
+optimizing truckloads has produced 
+positive results in the form of reduced fuel 
+consumption as fewer trucks are needed 
+to transport goods. it is currently being 
+investigated to implement the initiative at 
+other sites. 
+the cable-laying vessel nkt victoria  
+accounts for a significant part of the 
+corporate fuel consumption, contributing 
+to 19% of the overall scope 1 and 2 emis-
+sions in the reporting period. accordingly, 
+she has a central role in the ambition 
+to consistently reduce the offshore 
+environmental impact, and is constantly 
+the focus of initiatives to reduce fuel 
+consumption and ghg emissions and to 
+increase onboard energy efficiency.  
+fuel consumption is significantly lower for 
+nkt victoria than for equivalent vessels 
+due to a unique combination of technol-
+ogies, including azipod propulsion units, 
+energy storage for marine applications, 
+and a specially designed onboard grid. 
+last but not least, nkt victoria is also 
+equipped to be powered by electricity 
+when in port significantly reducing her 
+fuel consumption.
+“ we were motivated to do small but important 
+contributions to become more sustainable 
+by reducing the emissions caused by our 
+transportation. several departments engaged 
+to make the project a reality and it has positive 
+impact on both our work environment, cost 
+efficiency and of course the environment. on 
+top of that our customers were satisfied as 
+they could receive their orders sooner.”
+grzegorz chłopczyk 
+warehouse foreman  
+warszowice, poland
+nkt has committed to 
+reduce its greenhouse 
+gas emissions by an 
+average of 
+5%
+ 
+annually.
+risks
+for nkt, the principal environmental 
+exposure relates to the handling and use 
+of chemicals, the consumption of energy 
+arising from manufacture of power cables 
+and accessories, and the consumption 
+of fuel for power cable installations and 
+transport of goods. 
+to mitigate this exposure, a dedicated 
+qhse policy is in place as well as proce-
+dures for ensuring compliance with inter-
+nal guidelines and external regulations. 
+to continuously track and minimize the 
+environmental footprint, nkt has a kpi 
+framework including monthly follow-up 
+procedures for data analysis. during 
+2020, four gas leakages were detected 
+which were quickly neutralized using 
+established procedures. the root causes 
+are being investigated so that mitigating 
+actions can be implemented.
+ 
+sustainability report 2020 | nkt a/s | 22
+2018
+2019
+2020
+96.9%
+95.8%
+95.5%
+taking recycling to a new level 
+in 1960, nkt developed the first methods of recycling cable scrap at the dedi-
+cated facility in stenlille, denmark. since then, the methods for recycling power 
+cables have been innovated while reprocessing tonnes of cable scrap every 
+year. the stenlille facility has now entered a new era with the acquisition by the 
+norwegian recycling specialist kabel metall & trafo gjenvinning as (kmt). it is 
+a transaction which opens a new chapter for the facility itself and further drives 
+the recycling commitment of nkt. the divestment of the facility supports the 
+corporate ambitions to take full product responsibility and contribute to the 
+circular economy by increasing the recycling rate from the power cable  
+production. this will include increasing recycling and reuse of metals and 
+plastics and reducing waste. nkt continues to be a long-term partner at the 
+recycling facility in stenlille.
+circularity
+journey to zero waste
+nkt is committed to eliminating waste, 
+and progress is based on a long-term 
+focus on the reuse and recycling of 
+cable scrap and other materials. in 2020, 
+several local initiatives supporting the 
+zero-waste objective were launched.  
+teams at all factories are reducing the 
+use of the landfill and current state is that 
+use of landfill constitutes only 4% of the 
+total waste treatment processes of nkt. 
+when it comes to waste reduction,  
+production processes play an important 
+role and efficient material utilization has 
+been a long-term focus area. 
+part of the ambition is to become free of 
+single-use plastics, and in 2021 efforts to 
+realize the ambition will continue across 
+the organization.
+material utilization
+ 
+sustainability report 2020 | nkt a/s | 23
+mechanical recycled xlpe 
+material is now being reused 
+in cable drums by axjo 
+plastic.
+local recycling initiatives
+cologne,  
+germany
+asnaes,  
+denmark
+warszowice,  
+poland
+kladno,  
+czech republic
+ 
+■
+replacing single-use 
+fabrics for oil-absorp-
+tion with reusable pads 
+made of high- 
+absorbent textile. 
+ 
+■
+reducing the amount 
+of incineration by  
+reusing yarn from 
+spools in production. 
+reusing the plastic top 
+on the qaddy® - the low 
+voltage accessory - by 
+exchanging a sticker with 
+the new cable type  
+mounted. the task is  
+providing paid work for 
+people with special needs.
+reusing packaging  
+materials from wood pal-
+lets and plastic big bags.
+recycling pvc material 
+from production by  
+collecting and reprocess-
+ing for reuse in the  
+production process.
+innovative xlpe recycling
+in 2020, nkt presented the results of an 
+innovative project to develop methods for 
+the mechanical recycling of cross-linked 
+polyethylene (xlpe). in close collabora-
+tion with the swedish research institute 
+rise ivf, axjo plastic and materials  
+specialist borealis, nkt succeeded in 
+recycling xlpe material, an important 
+step in driving sustainability in the entire 
+life cycle of the product portfolio.  
+with the successful industrialization of 
+this process, axjo plastic is now  
+manufacturing robust cable drums from 
+recycled xlpe with clear benefits; the 
+material costs are significantly reduced 
+compared to new raw materials and  
+approximately two tonnes of co2e are 
+saved for every tonne of recycled xlpe.
+ 
+sustainability report 2020 | nkt a/s | 24
+eco-design and innovation
+nkt is continuously developing new 
+technologies to enable more efficient,  
+reliable and sustainable power transmis-
+sion based on environmentally friendly 
+materials. the need for new technology 
+is essential for a low carbon future as 
+the global power grids are constantly 
+expanding, driven by megatrends such as 
+urbanization, decentralization and a  
+growing demand for electricity produced 
+from renewable energy sources. 
+as a technology leader in the power 
+cable industry, nkt has a long-term 
+strategy to be an key player in develop-
+ing the next generation of power cables 
+and accessories to deliver the solutions 
+needed to drive the transition to renewa-
+ble energy. 
+superconducting technology 
+during 2020, nkt began developing the 
+prototype technology for the world’s long-
+est superconducting power cable system. 
+this system, which is being developed in 
+close collaboration with five other part-
+ners and will be specially designed for the 
+city of munich, germany, is a milestone 
+project that will take superconducting 
+technology to a new level.  
+superconducting power cables have 
+massive potential for creating the infra-
+structure needed to meet the growing 
+demand for clean energy in large cities 
+as it is extremely compact compared to 
+conventional power cable technology and 
+can be installed with less construction 
+work. 
+materials development
+in nkt, environmental impact and carbon 
+footprint are core considerations in the 
+development of new products and solu-
+tions. a key focus in this development is 
+to design for sustainable manufacturing 
+processes, efficient material usage, long 
+product lifespan and potential for decom-
+missioning and recycling. nkt investi-
+gates, develop and test new materials on 
+an ongoing basis with constant focus on 
+minimizing the environmental impact of its 
+products and solutions. 
+the development of new and 
+more environmental friendly 
+materials is key to become a 
+net-zero emissions company. 
+ 
+sustainability report 2020 | nkt a/s | 25
+incomplete
+partly completed
+completed
+goals and actions 2020
+outcome
+status
+sdg
+environment 
+all manufacturing sites to run on green electricity
+transition made at all power cable factories. process  
+ongoing at factories manufacturing accessories
+12.6
+complete and evaluate pilot project on energy monitoring and set 
+high level implementation plan
+12.6
+no environmental impact incidents* 
+4 incidents registered (gas leakages)
+12.5
+“ it is rewarding to see how driving sustainability 
+is transforming our business and uniting people 
+across the company. every day they contribute 
+with new ideas for energy savings, fuel reduction 
+and ways to optimize the daily work to reduce 
+our climate and environmental impacts.”
+natalia lykova, head of sustainability
+future plans, goals and actions
+target 2021
+sdg
+minimize climate impact of production and from nkt victoria
+reduce co2e emissions by 5% 
+12.6
+drive transition to alternative fuel
+ 
+■
+create and implement electrical vehicle 
+ strategy and install charging stations at 
+ relevant sites
+ 
+■
+complete and review pilot-project with  
+alternative fueled forklifts
+12.6
+prevent environmental impact incidents*
+complete preventive maintenance of cooling 
+equipment and systems at all factories
+12.6
+reduce environmental impact
+reduce total amount of waste by 3% 
+12.5
+* discharge or release of hazardous substances into the environment, or negative impact on stakeholders, have occurred. nkt includes climate impact incidents in the this definition.
+ 
+sustainability report 2020 | nkt a/s | 26
+procurement
+responsible supply chain
+nkt expects and requires 
+business partners to fully 
+comply with all applicable 
+laws, statutes and inter-
+national regulations, as well 
+as with the corporate code 
+of conduct.
+2020 was a year in which nkt prioritized 
+building long-term relations with key 
+partners as a part of our supplier relation 
+management programme. in addition, 
+work began on creating a strong founda-
+tion for a sustainable supply chain, notably 
+with a programme to drive decarboniza-
+tion for the supplier base in high-impact 
+categories. 
+nkt has a supplier qualification process 
+in place to ensure due diligence and trans-
+parency in the supply chain: the process 
+includes confirmation of compliance with 
+the code of conduct, including specific 
+elements relating to quality, health, safety, 
+environment and iso-certifications.  
+during the year, all strategic suppliers 
+were qualified covering up to 80% of 
+annual spend.
+digital procurement processes
+in 2019, nkt market place, an automated 
+ordering platform which facilitates compli-
+ant ordering from approved and qualified 
+vendors, was introduced.  
+the primary benefits of the platform 
+are optimal operational efficiency and 
+increased transparency as all actions 
+are digitalized. furthermore, nkt market 
+place is linked directly to corporate 
+policies and the code of conduct, 
+strengthening the overview of supplier 
+compliance. 
+nkt market place processed more than 
+5,500 purchase orders in 2020 pertaining 
+to the high-voltage manufacturing sites.  
+in 2021, the implementation continues to 
+the remaining manufacturing sites,  
+targeting 80% automation in ordering 
+when fully implemented in 2022. 
+goals and actions 2020
+outcome
+status
+sdg
+procurement
+all strategic vendors (defined as a+ and a) 
+to be qualified according to process
+16.6
+develop and implement supplier relationship management 
+programme covering our strategic vendors (a+ and a)
+16.6
+future plans, goals and actions
+target 2021
+sdg
+strengthen focus on supply chain sustainability
+review and update supplier qualification process 
+within quality, environment and health and safety
+12.6
+globalization of nkt market place
+implementation at remaining manufacturing sites
+12.6
+nkt market place  
+will cover 
+80%
+ 
+of all service purchases when 
+fully implemented in 2022.
+incomplete
+partly completed
+completed
+ 
+sustainability report 2020 | nkt a/s | 27
+procurement – responsible supply chain
+nkt 
+datasheets
+29 introduction to the esg scorecard 
+30 responsible business
+32 environment
+35 social
+ 
+sustainability report 2020 | nkt a/s | 28
+nkt datasheets
+introduction to the esg scorecard
+reporting structure and principles
+scope: nkt uses operational scope for data collection for 
+nkt cables group a/s and its subsidiaries.
+esg data collection and data quality:  
+nkt continuously strives to improve data quality and  
+increase data transparensy and granularity. this year  
+non-production sites have been included into the carbon 
+reporting. 
+reporting period:  q4 2019 - q3 2020 for all environmental 
+data and full year for social and governance data. 
+new esg indicators:
+ 
+■
+ waste: hazardous waste split by type of treatment (tonnes).
+ 
+■
+ waste: non- hazardous waste split by type of treatment 
+(tonnes).
+ 
+■
+aprentices and students (%/number).
+ 
+■
+new set of indicators on customer satisfaction.
+changes in the business structure affecting
+esg performance: new facilities in sweden and germany.
+ 
+sustainability report 2020 | nkt a/s | 29
+introduction to the esg scorecard
+responsible business
+sustainability scorecard and indicators
+unit of 
+measure
+2018
+2019
+2020
+ethics
+whistleblower cases, total
+number
+7
+12
+11
+whistleblower cases concluded as substantiated
+number
+1
+3
+1
+ethics 
+training
+completion rate for anti-bribery and anti-corruption 
+e-learning module
+%
+-
+-
+91
+completion rate for data privacy e-learning module
+%
+-
+-
+75*
+completion rate for competition law compliance 
+e-learning module
+%
+-
+-
+96
+completion rate for trade sanctions e-learning module
+%
+-
+-
+97
+supplier due 
+diligence
+supplier due diligence questionnaires
+number
+10
+349
+78**
+supplier due diligence audits
+number
+30
+23
+3***
+supplier audit action plans closing status 
+%
+87
+83
+0****
+quality
+iso 9001 certification
+%
+100
+100
+100
+customer 
+experience
+cx pro performance
+number
+-
+-
+80
+satisfaction
+number
+-
+-
+83
+nps
+number
+-
+-
+57
+environmentally responsible
+number
+-
+-
+81
+involvement in 
+renewables/
+eu taxonomy
+revenues from green activities
+%
+50*****
+ 
+*  
+the re-certification campaign was launched in october 2020 and is still running, thereby impacting the completion rate.
+** 
+qualification process updated in 2020 ensuring more in-depth supplier qualifications.
+*** reduced number of audits due to impacts of covid-19 related travel restrictions.
+**** negative impact of covid-19, suppliers are still executing on action plans.
+***** projects (services and solutions) that ensure the reduction of environmental impacts to the marine and local environment were also included.
+accounting method and comments
+whistleblower cases: the corporate whistleblower 
+hotline is in place for both internal and external use. all cases 
+are assessed by the ethics & compliance board which also 
+determines whether a case is violating the code of conduct 
+or relevant legislation. only cases that are reported and fully 
+substantiated in the reporting year are included. 
+supplier due diligence questionnaires: total number of 
+assessments conducted in the reporting year.
+supplier due diligence audits: total number of audits  
+conducted in the reporting year.
+customer satisfaction: numbers are based on the results of 
+the yearly relationship survey conducted in october 2020.  
+customers were asked to evaluate different statements on a 
+scale from 1 to 10. all other scores are measured from 0 to 
+100.
+cx pro performance: main customer experience identifi-
+cation, contains 4 dimensions: satisfaction, value for money, 
+willingness to recommend and excitement. 
+satisfaction: shows the overall customer satisfaction 
+net promoter score (nps): shows the level of customers 
+loyalty.
+environmentally responsible: the view of the customers to 
+which extend nkt is environmentally responsible.
+historical data is not available due to changes in the method-
+ology.
+involvement in green activities: revenues generated from 
+activities under the eu taxonomy regulation. type of activity; 
+manufacturing of low-carbon technology where cables were 
+manufactured for the renewable sector.
+ 
+sustainability report 2020 | nkt a/s | 30
+responsible business
+sustainability scorecard and indicators
+unit of 
+measure
+2018
+2019
+2020
+energy consumption
+fuel
+fuel for transportation of personnel and goods
+non-stationary sources: diesel and fuel oil
+mwh
+ 36,415 
+ 36,306 
+ 22,997 
+non-stationary sources: petrol (gasoline)
+mwh
+ 108 
+ 489 
+ 794 
+non-stationary sources: lpg
+mwh
+ - 
+ 255 
+ - 
+non-stationary sources: renewable fuels
+mwh
+ - 
+ - 
+ 130 
+fuel
+fuel for own stationary equipment
+non-renewable: natural gas
+mwh
+21,615
+28,878
+25,695
+stationary equipment: diesel
+mwh
+1340
+930
+613
+electricity
+electricity and district heating
+electricity
+mwh
+150,377
+142,294
+154,333*
+heat/cooling
+district heat
+mwh
+12,607
+11,915
+11,978
+resource consumption
+water 
+consumption
+water
+m3
+106,428
+102,508
+130,105**
+waste and 
+material 
+utilization 
+material utilisation rate
+%
+96.9
+95.8
+95.5***
+hazardous 
+waste:
+reuse, recycling and composting
+tonnes
+-
+-
+477
+recovery, including incineration with energy recovery
+tonnes
+-
+-
+532
+landfill and incineration (no energy recovery) 
+tonnes
+-
+-
+387
+non-hazardous 
+waste:
+reuse, recycling and composting
+tonnes
+-
+-
+13,362
+recovery, including incineration with energy recovery
+tonnes
+-
+-
+4,600
+landfill and incineration (no energy recovery) 
+tonnes
+-
+-
+412
+total amount 
+of waste per 
+treatment type:
+total material recycling and energy recycling
+%
+-
+-
+70
+total waste recovered (incl. energy)
+%
+-
+-
+26
+total waste to landfill
+%
+-
+-
+4****
+* data impacted by two new sites included and increased production volumes. 
+***  one site excluded from calculation.   
+** increase due to added sites and improved data collection.   
+**** two sites excluded from the reporting scope.
+accounting method and comments
+energy consumption: includes all energy consumptions 
+leading to generation of greenhouse gasses according to 
+scope 1 emissions from all production facilities including 
+the nkt owned cable-laying vessel. currently excluded 
+processes; service and installation consumption (mapping in 
+progress).
+electricity and district heat: include all heat and power 
+purchased for own consumption both for production and 
+non-production sites. production sites use accounting meth-
+ods based on financial documentation and non-production 
+sites are estimated based on the use per m2.
+material utilization: calculated based on production  
+volumes as a factor to the scrap generated in relation to  
+the product produced.
+water consumption: data collected based on invoices  
+received from utility companies, supplemented with site  
+specific measuring methods where applicable.
+waste by type and disposal method: data on waste is 
+collected based on invoices received from waste recipients, 
+supplemented with site specific measuring methods.
+continues on next page
+environment
+ 
+sustainability report 2020 | nkt a/s | 31
+environment
+greenhouse gas emissions:
+scope 1: reporting is conducted based on the greenhouse 
+gas protocol (ghg protocol) and covers direct nkt emissions 
+included in the scope of reporting. emissions are calculated 
+based on the emission factors applicable to the type of fuel. 
+emissions from the biofuels are excluded from the scope 1 
+emissions and are reported separately as per ghg protocol.
+scope 2: reporting is conducted based on the ghg protocol 
+and covers indirect greenhouse gas emissions from the gen-
+eration of power, heat and steam purchased and consumed 
+by nkt. the calculation is conducted based on the volumes 
+purchased and average emission factors based on the site 
+location. within the method is based on emission factors. 
+market based calculation is based on the guarantees of origin 
+certification as well as other calculations.
+scope 3: reporting is based on the ghg protocol using the 
+quantis scope 3 evaluator tool which divides the scope 3 in-
+ventory into 15 subcategories. c5 are calculated based on ac-
+tual waste data multiplied by relevant emission factors. c6 are 
+calculated based on ghg emissions from airplane travel provid-
+ed by our travel agent. c9 are calculated based on volumes of 
+residual products, estimated distances transported and relevant 
+ghg emission factors for transportation. the subcategories 
+c10 and c12-c15 are not relevant for nkt operations. 
+carbon intensity: calculated based on the total scope 1 and 
+2 (market based) of emissions divided by the revenue.
+environmental incidents: reported based on the hse 
+reporting principles.
+an environmental impact incident is defined as discharge or 
+release of hazardous substances into the environment, or 
+negative impact on stakeholders, have occurred. discharges 
+or releases that have been decontaminated before causing 
+harm to the environment is not classified as an environmental 
+impact incident but reported as an environmental incident.
+green electricity share: calculated based on the share of 
+verified green electricity subtracting the entities where  
+non-renewable electricity are used.
+sustainability scorecard and indicators
+unit of 
+measure
+2018
+2019
+2020
+greenhouse gas emissions 
+scope 1
+direct emissions from own energy consumption and 
+production process
+tonnes  co2e
+14,799
+16,247
+12,053
+scope 2
+emissions and purchased electricity (market based)
+tonnes  co2e
+48,177
+47,138
+13,147
+emissions and purchased electricity (location based)
+tonnes  co2e
+43,177
+42,774
+44,385
+emissions and purchased heat  (market based)
+tonnes  co2e
+247
+199
+296*
+emissions and purchased heat  (location based)
+tonnes  co2e
+247
+199
+296**
+scope 3
+total scope 3 emissions
+kilotonnes  co2e
+9.012*
+8.220*
+20,308***
+other 
+emissions
+emissions related to biofuel usage
+tonnes  co2e
+-
+-
+5.9
+relative 
+targets
+carbon intensity
+tonnes  co2e/eur
+0.000044
+0.000050
+0.000018
+green electricity, share in cable production facilities  
+(full year)
+%
+-
+-
+100****
+incidents and cerfications
+incidents
+environmental impact incidents
+number
+2
+1
+4*****
+certification
+iso 14001 certification
+%
+100
+100
+100
+* 
+scope prior to 2020 included only production facilities.
+** 
+scope prior to 2020 included only production facilities.
+*** 
+2018 and 2019 included business travel and downstream transport emissions.
+**** verified by guarantees of origin.
+***** new definition of environmental impact incidents implemented including climate incidents.
+environment continued
+ 
+sustainability report 2020 | nkt a/s | 32
+social
+* includes the group leadership team (glt) and the extended leadership team (elt).
+sustainability scorecard and indicators
+unit of 
+measure
+2018
+2019
+2020
+people
+diversity
+diversity in senior leadership*: age profile (average age)
+number
+-
+48
+49
+diversity in senior leadership: gender (male/female)
+number
+49/9
+45/8
+66/14
+gender with lowest representation (female)
+%
+16
+15
+18
+diversity in senior leadership: nationalities
+number
+8
+10
+12
+diversity: male/female
+number
+2,804/615
+2,673/630
+2,779/690
+gender with lowest representation (female)
+%
+18
+19
+20
+talent
+apprentices and students 
+%/number
+-
+-
+0.48/18.7
+engagement
+employee engagement index
+61
+58
+73
+accounting method and comments
+group leadership team: consists of executive vice presi-
+dents, ceo and cfo.
+extended leadership team: consists of senior vice 
+presidents, vice presidents and senior directors as well as 
+selected subject matter experts.
+all employees: all employees by gender represent the gen-
+der split of the total workforce of nkt.
+ 
+sustainability report 2020 | nkt a/s | 33
+social
+safety
+sustainability scorecard and indicators
+unit of 
+measure
+2018
+2019
+2020
+people
+statisics
+lost time injury rate
+per 200 000 
+hours worked
+0.53
+0.73
+0.41
+total recordable injury rate
+per 200 000 
+hours worked
+-
+-
+1.20
+lost work day rate
+per 200 000 
+hours worked
+-
+21.34
+11.66
+fatal injuries
+number
+0
+0
+0
+reported near misses
+number
+-
+259
+532
+reported unsafe acts and conditions
+number
+1,620
+1,922
+2,723
+implement safety culture ladder level 3 certification
+number
+-
+-
+1
+din 91020 / ohsas 18001 certification at all  
+manufacturing sites  
+%
+100
+100
+iso 45001 certification at all manufacturing sites
+%
+100
+accounting method and comments 
+ 
+fatal injuries (fi): a fatality as a consequence of a work-
+related injury. 
+medical treatment injury (mti): a work-related injury that 
+is treated by a paramedic or doctor (either on site or at a 
+medical facility) not resulting in lost time beyond the day of 
+occurrence.
+restricted work case (rwc): a work-related injury with 
+the consequences of temporary assignment to more suitable 
+tasks and/or reduction in working hours beyond the day of 
+occurrence.
+lost time injury (lti): a work-related injury with conse-
+quences of lost time beyond the day of occurrence.
+lost time injury rate (ltir): the number of lost-time 
+injuries (lti) of nkt employees, multiplied with 200.000 and 
+divided by the sum of worked hours. 
+total recordable injury rate (trir): the combined 
+number of fatal injuries, lost time injuries, medical treatment 
+injuries and restricted work cases, multiplied with 200.000 
+and divided by the sum of worked hours. 
+lost work day rate (lwdr:) the sum of lost workdays due 
+to lost time injuries (lti) multiplied with 200.000 and divided 
+by the sum of worked hours.
+near miss (nm): an incident which did not lead to any 
+injury or illness but had the potential given a slight shift in 
+time or position. 
+unsafe acts and conditions: observed unsafe situations 
+and behaviors that if not corrected can cause harm and could 
+result in injuries, illness, and/or damage to material, property 
+and/or environment. 
+ 
+sustainability report 2020 | nkt a/s | 34
+safety
+sustainability  
+in nkt photonics
+36 letter of commitment
+37 description of business model 
+38 governance – business ethics 
+40 environment – energy and climate 
+41 social – people and safety
+44 procurement – vendors and business partners 
+45 nkt photonics datasheets
+ 
+sustainability report 2020 | nkt a/s | 35
+sustainability in nkt photonics
+letter of commitment
+change through innovation
+nkt photonics 
+manufactures a wide range 
+of products used in solutions 
+that have a long-term 
+perspective of supporting 
+the transition to renewable 
+energy and improving 
+human health and safety. 
+ 
+examples include cable monitoring sys-
+tems to extract more power from offshore 
+wind farms, lasers used in manufacturing 
+semiconductors and solar cells, and light 
+sources used in equipment for eye surgery 
+and disease detection.
+we operate in a global industry character-
+ized by increasing focus on sustainability. 
+the entire supply chain, from the suppliers 
+of our product materials and components 
+to the end-users of solutions supplied 
+by our customers, is geared to delivering 
+environment-friendlier products and to 
+ensuring they are manufactured safely and 
+responsibly. 
+products from nkt photonics are mar-
+keted and sold with a reputation for high 
+quality and they rely upon significant in-
+vestment and r&d. it is, therefore, crucially 
+important for us that players in our industry 
+compete on fair terms, and we will tolerate 
+no form of bribery or other acts contribut-
+ing to unfair competition.
+as a company at the cutting edge of 
+photonics technology it is vital that we can 
+attract highly committed, top-qualified 
+people and provide them with incentive to 
+do their best. consequently, we strive to 
+offer a good, stimulating, and challenging 
+work environment with ongoing dialogue 
+on both job- and non-job-related develop-
+ment, goals, and performance. 
+we believe that our strong focus on 
+sustainability and our adherence to the 
+principles of the un global compact will 
+support our business opportunities and at 
+the same time contribute to improved living 
+conditions for future generations.
+basil garabet
+president and ceo, nkt photonics
+“ we are a technological leader in a 
+global industry characterized by 
+increasing focus on sustainability”
+ 
+sustainability report 2020 | nkt a/s | 36
+letter of commitment photonics
+description of business model
+nkt photonics is a leading 
+supplier of fiber lasers, 
+photonic crystal fibers and 
+distributed temperature 
+systems as well as having a 
+strong foothold in ultrafast 
+lasers. 
+the company’s products are sold into three 
+main markets: medical & life science, indus-
+trial, and aerospace & defence. in 2020, the 
+industrial market was the biggest, accounting 
+for more than 60% of revenue. the company 
+presides over a strong patent portfolio and 
+employs many highly skilled specialists driving 
+technology development and deployment in 
+the field.
+nkt photonics is headquartered in denmark 
+and has additional manufacturing sites in 
+germany, switzerland, uk, us, and sweden. 
+including worldwide sales and service opera-
+tions, nkt photonics employed approximate-
+ly 420 people at end-2020. 
+the company's business model is  
+based on developing and marketing  
+technology-intensive products in the  
+photonics industry that enable customers to 
+improve their offering and gain advantages in 
+terms of energy efficiency, safety, or operating 
+costs. nkt photonics goes to market both 
+directly and through partnerships with oem 
+customers.
+nkt photonics 
+primarily contributes 
+to the following 
+un sustainable 
+development goals : 
+revenue distribution 2020
+15%
+aerospace & defence
+63%
+industrial
+21%
+medical & life science
+23%
+americas
+56%
+emea
+21%
+apac
+three business segments
+revenue distribution 2020 (eurm)*
+1980
+founded
++11
+nationalities
+417
+employees
+ 
+sustainability report 2020 | nkt a/s | 37
+description of business model photonics
+nkt photonics is an active 
+corporate citizen with 
+a global mindset and is 
+committed to responsible 
+and ethical business 
+conduct.  
+developing and fostering long-lasting 
+relationships with stakeholders is integral 
+to the business philosophy of nkt  
+photonics, and this is achieved through  
+a compliance regime. 
+compliance landscape
+in 2016, nkt photonics adopted an 
+updated compliance landscape cover-
+ing the period to 2020. the vision is to 
+maintain and further develop a strong 
+ethos of compliance within the compa-
+ny, and the purpose of the compliance 
+landscape is to ensure conformance with 
+laws, regulations, international stand-
+ards and stakeholder expectations. the 
+compliance landscape is anchored in the  
+business code of conduct, which applies 
+to all employees, and representatives of 
+the company.
+developing a strong compliance mindset 
+across the company demands proper 
+training. accordingly, training in line with 
+the established compliance landscape 
+continued in the organization in 2020. 
+business code of conduct
+the nkt photonics business code of 
+conduct applies to all employees and 
+defines the fundamental principles gov-
+erning the behaviour internally as well as 
+externally in relation to vendors, partners, 
+the supply chain and the general public. 
+the principles set out in the code are de-
+signed to guide and ensure the right de-
+cisions are taking in all business actions. 
+the code identifies how business must 
+be conducted across the organization 
+and includes policies relating to business 
+integrity, anti-corruption, environment, fair 
+competition, human and labour rights, 
+information security, product compliance 
+and quality, compliance management, 
+and misconduct reporting.
+training and awareness  
+as part of an extensive onboarding 
+processes, all new employees in nkt 
+photonics are introduced to the business 
+code of conduct and trained and tested 
+in its use by means of e-learning courses. 
+a video presentation by the ceo explains 
+the importance of correct business 
+conduct and what the code of conduct 
+means to the company. 
+the focus and emphasis on proper busi-
+ness conduct was maintained in 2020. 
+strong focus is placed on minimizing this 
+exposure both internally and externally, 
+and anti-corruption is also an integral part 
+of the corporate training agenda, which 
+also includes the code of conduct.
+since 2016, nkt photonics has extended 
+the availability of the whistleblower hotline 
+to external stakeholders for reporting 
+instances of unethical behaviour.
+sustainability focus areas
+to ensure commitment at senior level and 
+support at local level, the managements 
+of all nkt photonics’ entities have signed 
+a statement of representation based 
+on the principles of the business code 
+of conduct for the reporting of potential 
+violations. the contents of the individ-
+ual statements of representation are 
+subsequently consolidated and potential 
+actions are taken accordingly. policies, 
+actions, goals, and plans are presented 
+in the sections below for the following 
+topics:
+ 
+■
+business ethics
+ 
+■
+energy and climate
+ 
+■
+people and safety
+ 
+■
+vendors and business partners
+governance 
+business ethics 
+sustainability report 2020 | nkt a/s | 38
+governance business ethics photonics
+incomplete
+partly complete
+complete
+goals and actions 2020
+outcome
+status
+governance
+enrol new employees in awareness programme
+provide training for employees exposed to above-average 
+levels of corruption
+future plans, goals and actions for 2021
+target 2021
+strengthen corporate compliance programme
+review the business code of conduct and associated 
+awareness training program
+increase awareness of anti-corruption policy
+ 
+■
+enrol new employees in awareness programme
+ 
+■
+provide training for employees exposed to above-average
+levels of corruption
+anti-corruption 
+participation in corruption and bribery is 
+contrary to the business values of nkt 
+photonics, and the company refrains from 
+such activities.
+the company has a clear anti- 
+corruption policy; no officer, employee, 
+or representative may directly or indirect-
+ly offer, give, or accept money or  
+anything else of value as part of business 
+dealings in order to obtain an improper 
+advantage. 
+key risks in regard to corruption and 
+bribery are primarily linked to the interac-
+tion with external vendors, suppliers, and 
+business partners. 
+nkt photonics works to minimize these 
+risks both internally and externally: 
+anti-corruption is an integral part of the  
+corporate training program covering 
+among others the business code of 
+conduct in which all employees receive 
+appropriate training. 
+sustainability report 2020 | nkt a/s | 39
+nkt photonics is committed 
+to working for a sound 
+environment through 
+sustainable business 
+practices.
+nkt photonics has implemented an  
+environment, energy and climate policy 
+company-wide through campaigns and 
+training to ensure a high level of aware-
+ness throughout the organization.
+product manufacture at nkt photonics 
+entails little environmental footprint and 
+relatively small amounts of raw materials 
+are used. no material environmental 
+exposure is deemed to exist. the majority 
+of the products are manufactured in 
+compliance with regulations such as the 
+rohs directive, which restricts the use of 
+hazardous substances in electronic and 
+electrical equipment.
+the corporate operations have very 
+limited environmental impact compared 
+with conventional industry. the total 
+energy consumption is also determined 
+more by current product mix – e.g. the 
+ratio of high-power lasers to lower-power 
+lasers – than by the energy economies 
+introduced. it is therefore difficult to define 
+relevant kpis for consistent and long-term 
+measurement, and no such kpis have 
+therefore been introduced.
+supporting wind power 
+environment 
+energy and climate
+the latest generation of wind 
+lidar from nkt photonics 
+enables continuous optimiza-
+tion of the turbine, resulting 
+in up to 5% higher turbine 
+efficiency.
+as electricity generation 
+becomes more distributed 
+with the increase in 
+renewable energy sources 
+like wind and solar, and 
+as demand becomes more 
+complex, cable operators 
+are facing higher demands 
+for up-time and for 
+sophisticated balancing of 
+grid load. 
+nkt photonics produces sensing 
+systems that monitor the power cables 
+used in the energy grid using an optical 
+fiber embedded in the power cable. this 
+enables the system to monitor and predict 
+cable conditions, ensuring more efficient 
+utilization of the power grid, fewer disrup-
+tions and enhanced load balancing from 
+the distributed renewable energy sources.
+increasing wind turbine efficiency
+efficiency and reliability of modern wind 
+turbines rely on accurate measurement 
+and prediction of wind speed and direc-
+tion, so that turbine orientation and blade 
+angle can be continuously adjusted to 
+changing wind conditions. nkt photon-
+ics’ koheras fiber lasers are used in wind 
+lidar equipment that is capable of meas-
+uring 3d wind speed and direction in real 
+time. these systems are traditionally used 
+to determine the ideal location for new 
+wind farm installations, ensuring optimum 
+placement and high efficiency.
+the latest generation of wind lidar from 
+nkt photonics is designed to be mount-
+ed directly on each wind turbine, where 
+it constantly measures the wind speed 
+before it hits the turbine blades. this 
+enables continuous optimization of the 
+turbine, resulting in up to 5% higher tur-
+bine efficiency and reduced component 
+wear. combined, nkt photonics’ lasers 
+enable both more reliable and efficient 
+wind energy production. combined, nkt 
+photonics’ lasers enable both more relia-
+ble wind power and higher efficiency.
+fiber laser solutions 
+from nkt photonics 
+makes wind turbines 
+up to
+5%
+ 
+more efficient.
+sustainability report 2020 | nkt a/s | 40
+environment – energy and climate photonics
+incomplete
+partly complete
+complete
+ensuring a healthy, safe and 
+secure working environment 
+is fundamental to the 
+continued growth of nkt 
+photonics and is therefore an 
+intrinsic part of the everyday 
+activities.
+nkt photonics values all employees and 
+consider them key to company success. 
+hence, diversity in the workplace is per-
+ceived as a key asset and the company 
+does not tolerate any form of harassment 
+or discrimination and is firmly committed 
+to equality of opportunity for all employ-
+ees.
+at nkt photonics, the principal expo-
+sure in terms of human and labour rights 
+relates to safety and employment, and 
+clear processes and policies are therefore 
+in place to mitigate these risks.  
+all employees are employed on contracts 
+that comply with local labour laws and 
+their safety is closely monitored.
+goals and actions 2020
+outcome
+status
+people and safety
+no employee accidents
+6 accidents reported; 5 first aid cases and 
+1 medical treatment case
+no eye injury by high-intensity lights
+conduct employee engament survey including employees 
+from newly acquired businesses
+rescheduled for 2021 due to covid-19
+future plans, goals and actions for 2021
+target 2021
+strengthen corporate safety culture
+■
+revised incident reporting program established
+■
+new hse policy to be implemented globally
+■
+no eye injury by high-intensity light
+■
+no employee accidents
+drive employee engagement
+conduct employee survey      
+exposure in regard to forced labour and 
+child labour is not considered material 
+as nkt photonics mainly operates in 
+low-risk countries. a key element in risk 
+prevention is the whistleblower hotline.
+reporting according to the uk 
+modern slavery act 
+as stated in the policy on human and 
+labour rights, nkt photonics rejects any 
+form of forced labour, including bonded 
+labour, indentured labour, slave labour 
+and human trafficking. furthermore, the 
+company does not condone the hiring 
+of child labour. in view of the countries in 
+which it mainly operates and the nature of 
+the production, nkt photonics does not 
+deem to be materially at risk in this  
+regard. however, employees are com-
+mitted to continuously identifying and 
+mitigating potential violations. 
+the company’s business partners are 
+expected to comply with the principles 
+set the in the business code of conduct, 
+and relevant due diligence processes is 
+pursued in conjunction with mergers and 
+acquisitions. 
+social
+people and safety
+sustainability report 2020 | nkt a/s | 41
+social – people and safety photonics
+no eye injuries detected
+nationalities in senior management
+% of nationalities 
+ danish
+ german
+ british
+ us
+ italian
+23
+8
+8
+46
+15
+22%
+2018
+2019
+2020
+78%
+23%
+77%
+24%
+76%
+female
+male
+10%
+2018
+2019
+2020
+90%
+18%
+82%
+15%
+85%
+women accounted for 
+15%
+ 
+of the members of senior 
+management ultimo 2020. 
+diversity
+diversity is encouraged in the organiza-
+tion of nkt photonics, as it is believed 
+to enrich the corporate culture as well 
+as the long-term competitiveness. nkt 
+photonics is committed to promoting 
+gender equality without compromising on 
+qualifications in terms of professional skills 
+and personal competencies. the industry 
+– especially in r&d departments – typical-
+ly has a relatively high over-representation 
+of males.
+all employees
+gender diversity in nkt photonics
+senior management*     
+ 
+ 
+ 
+no. of 
+ 
+age profile 
+gender 
+nationalities
+ 
+total 
+<40 
+40-54 
+>54 
+female 
+male 
+ 
+2020 
+13 
+0 
+ 
+9 
+4 
+2 
+11 
+5
+2019 
+11 
+0 
+ 
+8 
+3 
+2 
+9 
+5
+2018 
+10 
+0 
+ 
+8 
+2 
+1 
+9 
+4
+*defined as the global management team.
+diversity in senior management*
+ 
+sustainability report 2020 | nkt a/s | 42
+driving healthcare innovation
+nkt photonics produces 
+several products targeted 
+at the medical and life 
+science markets with the 
+aim of improving health and 
+wellbeing globally.
+nkt photonics’ unique supercontinuum 
+white light lasers are incorporated in all 
+high-end confocal microscopes from 
+leica microsystems. used in medical 
+research around the globe, these micro-
+scopes deliver unprecedented resolution 
+and ability to distinguish between differ-
+ent kinds of cells in a sample. in a recent 
+example, leica’s microscopes were used 
+in covid-19 research, helping to detect 
+antibodies important in vaccine devel-
+opment. in 2020, leica also launched an 
+all-new mid-range microscope equipped 
+with nkt photonics’ technology, thereby 
+bringing high-end performance to labora-
+tories that could otherwise not afford it.
+driving healthcare with ultrafast 
+lasers 
+in addition to its supercontinuum white 
+light lasers, which are used in a wide 
+array of bio-imaging applications, nkt 
+photonics produces ultrafast lasers. 
+these lasers also have several medical 
+applications, the most important being for 
+ophthalmology and marking of medical 
+devices. 
+in ophthalmology, nkt photonics’ ultra-
+fast lasers are used for eye surgery, the 
+very short and clean pulses from these 
+lasers replacing traditional methods using 
+scalpels. consequently, the cuts are more 
+precise, and the risk of complications and 
+recovery time are reduced. moreover, au-
+tomated surgery with lasers requires only 
+weeks of training to perform, whereas it 
+typically takes years to train a skilled eye 
+surgeon. with this technology, life-chang-
+ing surgery can therefore be delivered 
+both at lower cost and in areas where 
+skilled surgeons are not available. 
+finally, ultrafast lasers are used for mark-
+ing of medical equipment, such as sur-
+gical tools or vials containing medicine. 
+this marking is critical to ensure tracing 
+and authentication of both equipment and 
+medicine. furthermore, the marking must 
+be inert and able to withstand autoclave 
+sterilization without changing, something 
+that is beyond most traditional marking 
+techniques. this is because the high tem-
+peratures and humidity of the autoclaves 
+quickly erase the marking, or result in rust 
+if the surface has been removed by the 
+marking technique. using ultrafast lasers, 
+hospitals can reliably track all equipment 
+and its state of sterilization.
+in the case of vials containing medicine, 
+authenticity and trackability are a major 
+concern. as some medicaments can 
+cost enormous sums per dose, counter-
+feit medicine is a significant problem in 
+certain parts of the world. ultrafast lasers 
+can be used to embed barcodes and 
+serial numbers directly inside the glass 
+vial, which cannot be changed or copied, 
+thereby ensuring that the vial content is 
+authentic.
+nkt photonics’ unique super-
+continuum white light lasers 
+are incorporated in all high-
+end confocal microscopes 
+from leica microsystems. 
+recently used to detect an-
+tibodies important in vaccine 
+development for covid-19.
+ 
+sustainability report 2020 | nkt a/s | 43
+incomplete
+partly complete
+complete
+in 2020, a new global erp 
+system achieved stability and 
+has demonstrated a strong 
+platform for supply chain 
+management across the 
+global business.
+the impact of covid-19, and nkt 
+photonics’ policy of discouraging all 
+unnecessary travel throughout 2020 has 
+increased the focus on ensuring minimal 
+business disruption.
+goals and actions 2020
+outcome
+status
+procurement
+develop inspection plan to monitor the extent of  
+supplier compliance
+supplier evaluation is in place and integrated into 
+iso9001 management review
+80% of our procurement (above eur 50,000 in value to be supplied 
+by partners adopting the un global compact principles
+substantial progress has been made in 
+implementing the principles in the purchasing 
+terms & conditions. audit and evaluation have 
+been suspended in 2020 due to travel restrictions 
+and will recommence when the global travel 
+situation eases
+future plans, goals and actions for 2021
+target 2021
+goals maintained for 2021  
+ 
+■
+develop inspection plan to monitor the extent of  
+supplier compliance
+ 
+■
+80% of our procurement (above eur 50,000 in  
+value) to be supplied by partners adopting the  
+un global compact principles
+procurement 
+vendors and business partners
+whistleblower hotline
+in 2016, nkt photonics extended the whistleblower 
+scheme to enable instances of unethical behaviour 
+also to be reported by external stakeholders. the 
+whistleblower policy has also been incorporated in the business 
+code of conduct, which has been implemented through awareness 
+campaigns and e-learning courses mandatory to all employees 
+worldwide. in 2020, no reports were filed which necessitated 
+material adjustments in business procedures.
+ 
+sustainability report 2020 | nkt a/s | 44
+procurement – vendors and business partners photonics
+nkt photonics
+datasheets
+ 
+sustainability report 2020 | nkt a/s | 45
+nkt photonics datasheet
+datasheet
+unit of 
+measure
+2018
+2019
+2020
+accounting method and comments
+business ethics
+whistleblower cases, total
+number
+0
+1
+0
+iso 9001 certification
+%
+100
+100
+100
+information security/cybersecurity
+see section on risk management section in the annual report on page 63
+environment
+emissions from purchased electricity (market based)
+tonnes of co2e
+-
+-
+400
+social
+diversity in senior leadership: gender (male/female)
+number
+9/1
+9/2
+11/2
+gender with lowest representation (female)
+%
+10
+18
+15
+diversity in senior leadership: nationalities
+number
+4
+5
+5
+diversity: male/female (all employees)
+%
+78/22
+77/23
+76/24
+ 
+sustainability report 2020 | nkt a/s | 46
+datasheet photonics
+group
+48 group compliance and reporting principles
+ 
+sustainability report 2020 | nkt a/s | 47
+group
+nkt a/s monitors progress 
+on sustainability by means 
+of three main elements:
+1.  key performance indicators have been 
+developed based on relevant policies 
+and corresponding data is collected. 
+this data covers parameters such as 
+occupational injuries, environmental 
+impact, material utilization and diversity 
+development at board and senior 
+leadeship level. the business units are 
+responsible for kpi quality and data 
+collection.
+2.  an annual statement of representation 
+covering the principles of the code of 
+conduct is signed by senior manage-
+ment representing the activities of the 
+two standalone companies.
+3.  a whistleblower hotline, maintained by 
+an external provider, allows all employ-
+ees as well as external stakeholders 
+to raise concerns about seemingly 
+inappropriate conduct, events or 
+circumstances.
+group compliance and reporting principles
+reporting methodology
+the reporting parameters used in 2020 
+are largely unchanged from previous 
+reports. the present report covers all enti-
+ties of nkt a/s unless otherwise stated.
+data integrity
+the data is considered to be valid.
+auditing
+the present report has not been audited 
+by an external auditor.
+reporting period
+for all environmental data the reporting 
+period in this report is from q4 2019 to 
+q3 2020 and full year for social and  
+governance reporting. nkt photonics 
+reports full year in all areas. 
+diversity and inclusion 
+as described in the diversity policy, nkt 
+a/s is firmly committed to equality of 
+treatment for all employees. as part of 
+this commitment, the workforce com-
+position and changes are monitored as 
+shown below. nkt a/s promotes equality 
+of gender representation and are further 
+committed to promoting equality of 
+career opportunities, nationality, religion, 
+age and other factors. diversity is a key 
+consideration when hiring for executive 
+management and the board of directors. 
+at board level, a target has been set 
+to have at least two members from the 
+underrepresented gender amongst the 
+six annually elected board members. 
+this target was achieved in 2020 and is 
+unchanged for 2021.
+ 
+age profile  
+gender  
+no. of nationalities
+ 
+total 
+< 40 
+40-54 
+>54 
+female 
+male 
+(the predominant nationality in %) 
+ 
+board of directors* 
+6 
+1 
+0 
+5 
+2 
+4 
+ 3 (danish 66%)
+nkt a/s** 
+2 
+0 
+1 
+1 
+1  
+1 
+ 2 (danish 50%, swiss 50%)
+nkt*** 
+80 
+14 
+44 
+22 
+14 
+66 
+ 12  (30% swedish)
+nkt photonics**** 
+13 
+0 
+9 
+4 
+2 
+11 
+  5 (danish 44%)
+* 
+elected at the annual general meeting.
+** 
+also part of the executive group leadership team of nkt. 
+*** the senior leadership level in nkt consists of the extended leadership team, including members of the executive group leadership team.
+**** the senior leadership in nkt photonics is defined as the global management team.
+in the board 
+of directors 
+33%
+ 
+of the members are from the 
+underrepresented gender.
+diversity in senior management at nkt a/s
+ 
+sustainability report 2020 | nkt a/s | 48
+group complicance and reporting principles
+company reg: 6272 5214
+

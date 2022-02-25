@@ -1,0 +1,1754 @@
+bredgade 30, 1260 kØbenhavn k 
+cvr-nr. 14 24 60 45
+ansvarlighedsrapport 2020
+jeudan a/s
+rapporteringspraksis og omfang 
+ansvarlighedsrapporten er en del af ledelsesberetningen i 
+jeudans årsrapport for 2020. der er således tale om en samlet 
+rapportering, der blandt andet indeholder lovpligtig redegørel-
+se for samfundsansvar, jf. årsregnskabslovens § 99 a, lovpligtig 
+redegørelse for virksomhedsledelse, jf. årsregnskabslovens  
+§ 107 b, lovpligtig redegørelse for mangfoldighedspolitik, jf. års-
+regnskabslovens § 107 d og lovpligtig redegørelse for den køns-
+mæssige sammensætning af ledelsen, jf. årsregnskabslovens  
+§ 99 b.
+rapporten giver et indblik i jeudans ambitioner inden for 
+ environment, social & governance (esg) frem til udgangen af 
+2025, ligesom den indeholder ikke-finansielle nøgletal inspire-
+ret af esg reporting guide 2.0 udarbejdet af nasdaq stock 
+exchange. 
+ansvarlighedsrapporten for 2020 er afgrænset til at omhandle 
+ambitionerne for de kommende år. etablering af et solidt rap-
+porteringsgrundlag inden for esg er påbegyndt, og i 2021 
+besluttes hvorvidt jeudan i fremtidige rapporteringer følger en 
+fast standard som f.eks. global reporting initiative (gri) eller 
+sustainability accounting standards board (sasb). kommende 
+rapporter vil være inspireret af en standard, og det vil fremgå, 
+hvilken standard inspirationen kommer fra. 
+ansvarlighedsrapport 
+for 2020
+indhold
+ansvarlighedsrapport
+4
+forord
+6
+et grønnere jeudan (environment)
+10
+et stærkere jeudan (social)
+14
+et jeudan med ansvarlige relationer (governance)
+18
+lovpligtig redegørelse for virksomhedsledelse
+32
+generelle informationer
+38
+ikke-finansielle nøgletal
+forord   –  jeudan ansvarlighedsrapport 2020
+4
+ansvarlighed pÅ vej mod 2025
+jeudan er danmarks største børsnoterede ejendoms- og ser-
+vicevirksomhed, og dagligt er der mere end 100.000 menne-
+sker, der besøger, arbejder, handler eller bor i en af koncernens 
+ejendomme. det forpligter at være den største. også når det 
+gælder ansvarlighed og at bidrage til samfundet. 
+jeudan ejer over 200 ejendomme, primært i det centrale 
+københavn og på frederiksberg, og har 120 års erfaring i at 
+levere smukke og trygge rammer til tilfredse kunder. hvert år 
+investeres der i at vedligeholde, istandsætte og forbedre ejen-
+dommene, og det er både et vigtigt samfundsansvar og en stor 
+ære at være med til at bevare denne fælles kulturarv og sikre, 
+at de klassiske og ofte fredede og bevaringsværdige bygnin-
+ger er velholdte og anvendelige langt ind i fremtiden. jeudan vil 
+bidrage til at udvikle en hovedstad med liv, puls og udvikling – og 
+som samtidig fremstår ordentlig og vedligeholdt. 
+hver dag gør næsten 600 medarbejdere sig umage for at sik-
+re, at jeudan har velfungerende og ordentlige bygninger med 
+rene omgivelser, tilfredse kunder og stolte ejere. værdier som 
+ordentlighed, dygtighed og tilgængelighed sammen med det 
+overordnede løfte, “ordentlighed forpligter”, er væsentlige pej-
+lemærker for alle i jeudan.
+i 2020 gennemførte jeudan en strategiproces med skærpet 
+fokus på virksomhedens esg-indsats. ikke overraskende er 
+der mest at realisere inden for klima- og miljøområdet, men der 
+er kortlagt en række mål inden for alle tre områder, som jeudan 
+vil stræbe mod at nå med udgangen af 2025 og gerne før. målene 
+kan læses i denne rapport. 
+udgangspunktet for esg-strategien er, at jeudan fortsat skal 
+værne om københavn og skabe en langsigtet bæredygtig og 
+rentabel forretning til gavn for koncernens kunder, medarbej-
+dere og ejere – og i sidste ende til gavn for hele samfundet. 
+de opstillede esg-mål rækker frem til udgangen af 2025. 
+perioden er valgt som en erkendelse af, at der særligt inden for 
+klima- og miljøområdet er mange ubekendte, som skal under-
+søges grundigt. jeudan skal bl.a. tilføre nye kompetencer og 
+tilrettelægge nye arbejdsmetoder. for at realisere de opstil-
+lede ambitioner inden for esg kommer jeudan til at investere 
+et større trecifret millionbeløb frem mod udgangen af 2025. 
+esg-strategien formidles her i de tre hovedemner:  
+• 
+et grønnere jeudan
+• 
+et stærkere jeudan
+• 
+et jeudan med ansvarlige relationer
+med udgangspunkt i ovenstående vil jeudan skabe øget trans-
+parens i forhold til drift og udvikling – og der vil i de kommende 
+år være særligt fokus på finansiel performance, at reducere 
+klimamæssige aftryk og at påvirke sociale og etiske forhold 
+positivt. 
+god læselyst. 
+per w. hallgren
+adm. direktør
+forord
+5
+forord   –  jeudan ansvarlighedsrapport 2020
+geografi:
+primært 
+københavn og 
+frederiksberg
+antal medarbejdere: 
+577
+omsætning i 2020:
+dkk 1.534 mio.
+virksomhedstype: 
+børsnoteret ejendoms- 
+og servicevirksomhed
+207
+antal ejendomme:
+jeudan-koncernen – et hurtigt overblik
+dkk 733 mio.
+resultat (ebvat) i 2020: 
+et grønnere jeudan (environment)   –  jeudan ansvarlighedsrapport 2020
+6
+bygningsmassen i danmark udleder store mængder af co2 
+i forbindelse med den daglige drift og anvendelse, og her er 
+jeudans bygninger ingen undtagelse. udledningen af co2 og 
+jeudans løbende renovering og vedligeholdelse af koncernens 
+ejendomme er blandt de mest væsentlige risici for miljøet. 
+yderligere kan affald fra nedrivninger indeholde miljøfarlige 
+stoffer, og der vil i enkelte af jeudans byggeprocesser fore-
+komme miljøskadelige påvirkninger fra maskiner og mate-
+rialer. i afsnittet nedenfor redegøres der for, hvordan jeudan 
+forholder sig til disse risici. 
+jeudan tilstræber mindst mulig påvirkning af miljøet i forbin-
+delse med renovering og vedligeholdelse af koncernens ejen-
+domme, og det er ambitionen, at jeudan i 2025 ikke anvender 
+miljøfarlige stoffer i produktionen, ligesom det er ambitionen, 
+at alle byggepladser er fossilfrie i 2025. en forudsætning her-
+for er dog, at der i 2025 findes produkter på markedet, der kan 
+opfylde krav og forventninger til effektive byggeprocesser 
+samt et slutresultat, der opfylder kundernes behov. 
+ved nedrivning bortskaffes alle miljøfarlige materialer efter 
+gældende forskrifter. det er desuden ambitionen, at jeudan, 
+eller andre, i 2025 genbruger min. 25% af alt byggeaffald i 
+deres oprindelige form. yderligere er det ambitionen, at min. 
+65% af alt byggeaffald i 2025 genbruges ved enten downcyc-
+ling eller upcycling. den resterende andel vil fortsat blive bort-
+skaffet efter de til enhver tid gældende forskrifter.  
+jeudans ejendomsportefølje består af forskellige typer leje-
+mål, primært inden for kontor, detail og bolig. i forhold til at 
+gennemføre energirenovering på henholdsvis erhvervs- og 
+boliglejemål på en økonomisk forsvarlig måde er der forskel-
+lige rammer for jeudans muligheder, da de forbrugsmæssige 
+gevinster, der opnås ved en energirenovering, primært tilfal-
+der kunderne. 
+for erhvervskunder er der kontraktmæssig aftalefrihed i for-
+bindelse med energirenovering. med et generelt øget sam-
+fundsfokus på energiforbrug og co2-udledning forventes også 
+jeudans kunder at have mere fokus på området, og det er der-
+for jeudans forventning, at der kan indgås konkrete aftaler om 
+energirenoveringer. 
+af jeudans ejendomme opvarmes 98% med fjernvarme og 
+alene 2 % med naturgas. 80 % af de ejendomme, der opvarmes 
+med fjernvarme, får fjernvarmen leveret fra hofor. i forhold 
+til den samlede co2-udledning er jeudan derfor afhængig af 
+leverandørernes forbrændingsmetoder. 
+jeudan gennemførte i 2020 en behovsanalyse, som bl.a. viste, 
+at energirådgivning og rådgivning om indeklima ligger højt på 
+kundernes ønskeliste over mulige ekstra ydelser fra jeudan. 
+jeudan vil derfor udvikle en model for rådgivning vedrørende 
+energi og indeklima, således at kunderne modtager den ønske-
+de assistance til at forbedre indeklimaet i deres lejemål og 
+samtidig reducere deres omkostninger. 
+jeudans forretningsmodel bygger primært på at bevare 
+københavns historiske ejendomme ud fra opfattelsen af, at det 
+er mere bæredygtigt at bevare end at bygge nyt. fremadrettet 
+vil jeudan sætte mere fokus på koncernens byggeaffald og den 
+efterfølgende anvendelse heraf. genbrug af byggematerialer 
+er helt i tråd med jeudans ønske om at bevare koncernens ejen-
+domme, og mulighederne for, at byggeaffald kan genbruges i 
+materialets oprindelige funktion, enten af jeudan selv eller af 
+andre, skal afsøges. hvis genbrug ikke er muligt, vil der i stedet 
+blive sørget for størst mulig genanvendelse – enten i form af 
+downcycling eller upcycling, hvor materialer kan genanvendes 
+til et andet formål end det oprindelige.
+jeudan værner om hovedstadens luftkvalitet og støjniveau. 
+derfor vil der fremadrettet blive sat yderligere ind for at 
+fremme brugen af elbiler ved etablering af ladestandere i 
+jeudans p-huse og ved de af jeudans ejendomme, hvor det er 
+muligt. 
+jeudans egne biler skal på længere sigt være elbiler, og det er 
+ambitionen, at de nuværende fossile biler gradvist udfases, i 
+takt med at der findes elbiler på markedet, som kan indfri det 
+et grØnnere jeudan  
+(environment)
+jeudans forretningsmodel 
+bygger primært på at bevare 
+københavns historiske ejendomme 
+ud fra op fattelsen af, at det er 
+mere bæredygtigt at bevare 
+end at bygge nyt.
+gamle håndværksmetoder 
+tages i brug, når kobbertårnet 
+på gl. kongevej 1 renoveres. 
+samlede behov for lastkapacitet og rækkevidde. ved udgangen 
+af 2020 har jeudan i alt 92 firmabiler. heraf kører de 23 på 100 
+% el. målet er 90 % elbiler ved udgangen af 2025. 
+en stor del af jeudans servicemedarbejdere i indre københavn 
+kører udelukkende på eldrevne ladcykler, som løbende har 
+erstattet fossile køretøjer. koncernens funktionærer kører 
+ligeledes hyppigt på cykel, når de skal til og fra kundemøder i 
+indre københavn, og når kunden er længere væk end en pas-
+sende cykelafstand, kan medarbejderne nemt booke en af 
+domicilets i alt fire elbiler.  
+størstedelen af jeudans aktiviteter udspringer fra domicilet 
+i bredgade 30-34, københavn k. inden udgangen af 2025 er 
+det ambitionen at reducere forbruget af el, vand og varme på 
+adressen med 25 % – sammenlignet med det årlige forbrug fra 
+1. april 2019 til 31. marts 2020, som fremgår af tabellen herun-
+der. 
+forbrugstype 
+forbrug 
+mål for 2025
+el 
+131.213 kwh 
+98.410 kwh 
+varme 
+363 mwh 
+272 mwh 
+vand 
+1.877 m3 
+1.408 m3
+i de kommende år vil omfanget af fossildrevne maskiner og 
+materiel på jeudans byggepladser blive analyseret og vurde-
+ret, og ligeledes vil brugen af eventuelle skadelige kemikalier i 
+produktionen blive undersøgt nøje med henblik på eliminering.  
+ejendomme er energirenoveret i et 
+tæt samarbejde med jeudans kunder
+25
+erhvervskunder har fået rådgivning 
+inden for energi og/eller indeklima
+750
+af alt byggeaffald bliver genanvendt 
+(up- eller downcycling)
+65 %
+af alle byggematerialer fra nedrivning 
+bliver genbrugt af jeudan selv eller  
+andre (recycling)
+25 %
+af jeudans p-pladser har  
+ladestandere til elbiler
+25 %
+af jeudans firmabiler er elbiler
+90 %
+af byggepladsernes maskiner  
+og materiel er fossilfrie
+90 %
+eliminering af skadelige kemikalier 
+90 %
+reduktion af energiforbruget på domicil 
+(baseline 2019/2020)
+25 %
+klima- og miljØmÆssige mÅl 
+pÅ vej mod 2025
+9
+en af jeudans 23 elbiler. de udgør  
+25 % af jeudans biler i dag, men  
+målet er 90 % mod 2025. 
+et stærkere jeudan (social)   –  jeudan ansvarlighedsrapport 2020
+10
+for en virksomhed som jeudan med et stort antal medarbejdere 
+der spænder over mange forskellige fag, ligger der en større risiko 
+i ikke at kunne tiltrække det rette antal medarbejdere med de 
+rette kompetencer på det rette tidspunkt. risikoen søges mini-
+meret gennem en række indsatser, som er beskrevet nedenfor.
+jeudan respekterer, og ønsker at leve op til, menneskerettighe-
+der og love vedrørende ligestilling og at tilbyde fair og lige vil-
+kår i ansættelses- og arbejdsforhold, uanset køn, etnisk 
+oprindelse, religion og andre personlige forhold. alt sammen 
+noget som er grundstenen i jeudans mangfoldighedspolitik, 
+der er offentliggjort på jeudans hjemmeside. det er desuden 
+en del af jeudans etik, værdisæt og en del af jeudans persona-
+lehåndbog samt de overenskomster, som jeudan agerer under.
+jeudan opfatter sig desuden som værende i overensstemmel-
+se med de ti grundlæggende og generelle principper om men-
+neskerettigheder, 
+arbejdstagerrettigheder, 
+miljø 
+og 
+antikorruption, som er udtrykt i fn's global compact. dette 
+sker blandt andet ved at stille krav til, at både medarbejere, le-
+verandører og andre samarbejdspartnere overholder menne-
+skerettighederne. konkret underskriver jeudans væsentlige 
+leverandører en leverandørerklæring jf. afsnittet ”et jeudan 
+med ansvarlige relationer” på side 14.
+med denne indsats er det målet at forebygge mod brud på 
+menneskerettighederne i og udenfor koncernen. der har ikke 
+været nogen sager om krænkelse af menneskerettigheder i 
+2020.
+virksomhedskultur 
+jeudan vil være branchens foretrukne arbejdsplads – en ambi-
+tiøs arbejdsplads, der er banebrydende i forhold til tendenser 
+og forventninger. dette mål nås bl.a. ved at skabe en større be-
+vidsthed om, at jeudan er et sted, hvor medarbejdere inddra-
+ges og anerkendes i udviklingen af virksomheden. jeudan 
+tilstræber et arbejdsmiljø med udviklingsmuligheder og hand-
+lekraft og en professionel kultur præget af stolthed, samarbej-
+de og respekt. 
+jeudan vil være “bedst til medarbejdere”. derfor fokuseres der 
+på udvikling af den enkelte, fleksible rammer, enkle arbejdspro-
+cesser og konstruktiv feedback. det er en klar forventning, at 
+dette fokus løbende vil resultere i endnu højere medarbejder-
+tilfredshed. jeudan skal være kendt som en attraktiv, ambitiøs 
+og udviklende arbejdsplads, hvor medarbejderne kan udvikle 
+sig fagligt og personligt, hvor der er en god balance mellem 
+arbejde og privatliv, og hvor fleksibiliteten imødekommer med-
+arbejdere i alle faser af arbejdslivet. på den måde tiltrækkes og 
+fastholdes de dygtige medarbejdere, der er forudsætningen 
+for den fremtidige vækst. 
+jeudan har en ambitiøs kultur med gode muligheder for udvik-
+ling, men grundholdningen er, at samarbejde og fælles løsnin-
+ger gør alle stærkere. her er respekt for hinanden, kunderne 
+og samfundet. Ønsket er at være en let tilgængelig service- og 
+kundeorienteret virksomhed, hvor processerne er enkle, og 
+hvor der digitaliseres på de områder, hvor det skaber værdi for 
+kunder og medarbejdere. 
+jeudan ønsker en ansvarlig virksomhedsledelse, hvor lederne 
+er rollemodeller, der tager ejerskab for virksomhedens udvik-
+ling og økonomiske vækst. målet er en anerkendende ledel-
+sesadfærd, der understøttes af en god feedbackkultur. en 
+ledelsesadfærd, hvor åbenhed, tillid og konstruktiv feedback 
+er med til at sikre høj trivsel og motivation. i jeudan er denne 
+ledelsesadfærd vejen til at fastholde et lavt sygefravær, en lav 
+personaleomsætning og en høj medarbejdertilfredshed. 
+medarbejderuddannelse
+jeudan akademiet er platformen for alle interne udviklingsak-
+tiviteter i jeudan, herunder jeudanskolen, lederuddannelse, in-
+terne kurser, gå hjem-møder, webinarer m.m. jeudan akademiet 
+vil blive udviklet løbende, så aktiviteterne hele tiden understøt-
+ter målene frem mod 2025. 
+alle nye medarbejdere får en grundig introduktion til virksom-
+hedens kultur via jeudanskolen. 
+på planerne for 2021-2022 er også udvikling af en række pre- 
+og onboarding-aktiviteter, så nye medarbejdere allerede inden 
+første arbejdsdag kan lære om virksomheden og kulturen. 
+håndværkerakademiet er ligeledes et nyt initiativ frem mod 
+2025, hvor timelønnede medarbejdere kan styrke deres faglige 
+et stÆrkere jeudan 
+(social)
+jeudan vil være “bedst til medarbej-
+dere”. derfor fokuseres der på  
+udvikling af den enkelte, fleksible  
+rammer, enkle arbejdsprocesser  
+og konstruktiv feedback.
+fastholdelse af koncernens dygtige 
+medarbejdere er forudsætningen for 
+jeudans fremtidige vækst. 
+de sociale mÅl pÅ vej mod 2025
+håndværkerakademiet etableres, 
+og der fokuseres på den faglige håndværksmæssige  
+oplæring inden for klassiske ejendomme.
+sygefraværet reduceres 
+ud fra ambitionen om at være 1 %-point bedre   
+end branchen på funktionærer og 0,5 %-point  bedre end 
+branchen på timelønnede medarbejdere. 
+antallet af lærlinge,
+elever og praktikanter skal udgøre minimum 10 %  
+af den samlede personalesammensætning. 
+medarbejderomsætningen reduceres 
+ud fra ambitionen om at være 5 %-point bedre   
+end branchen på funktionærer og 10 %-point bedre end  
+branchen på timelønnede medarbejdere. 
+kortlægning af muligheder 
+indenfor projekter, der bidrager til at få relevante 
+grupper ind på arbejdsmarkedet. 
+rettidig omskoling 
+af modne medarbejdere skal sikre, at ingen forlader 
+jeudan som følge af nedslidning. 
+andelen af kvindelige håndværkere 
+løftes ud fra ambitionen om at være 1 %-point  
+bedre end branchen. 
+et stærkere jeudan (social)   –  jeudan ansvarlighedsrapport 2020
+13
+og håndværksmæssige kompetencer. med afsæt i en kompe-
+tenceanalyse af jeudans håndværkere og med særligt fokus på 
+vedligehold af jeudans mange fredede ejendomme og de sær-
+lige kvalifikationer, det arbejde kræver, vil den interne uddan-
+nelse blive målrettet herefter. akademiet har til formål at give 
+jeudans håndværkere et kompetenceløft inden for deres fag-
+område.     
+formålet med jeudans overordnede talent- og udviklingspro-
+gram er at sikre, at virksomheden altid har de fornødne kompe-
+tencer og ressourcer til at agere konkurrencedygtigt. 
+den mangfoldige personalesammensætning
+jeudan vil være en god og attraktiv arbejdsplads. målsætningen 
+er at skabe en balanceret og mangfoldig personalesammen-
+sætning. den rette sammensætning af talenter er medvirkende 
+til at styrke jeudans konkurrenceevne og er med til at tiltrække 
+og fastholde de dygtigste medarbejdere. et bredt erfarings- og 
+kompetencegrundlag styrker jeudans udvikling og vækst – og 
+skaber samtidig det dynamiske arbejdsmiljø, der har vist sig at 
+være særligt afgørende for medarbejdertilfredsheden. 
+jeudan har et særligt fokus på unge medarbejdere under uddan-
+nelse og beskæftiger derfor både lærlinge, elever, praktikanter 
+og studentermedhjælpere, der dygtiggør sig inden for hver 
+deres fagområde. i samarbejde med de københavnske uddan-
+nelsesinstitutioner er der blevet skabt sikre og trygge uddan-
+nelsesforløb, der følges af mentorer igennem hele forløbet. det 
+er et succeskriterie, at de færdiguddannede efterfølgende bli-
+ver ansat i jeudan og starter et karriereforløb i virksomheden. 
+i 2020 udgjorde 12 % af jeudans ansatte unge medarbejdere 
+under uddannelse. jeudans ambition er at fastholde antallet 
+af lærlinge, elever og praktikanter, så de frem mod 2025 udgør 
+minimum 10 % af den samlede personalesammensætning. 
+den mangfoldige personalesammensætning rummer også en 
+afbalanceret repræsentation af kønnene. jeudan stræber efter 
+en ligelig kønsfordeling i hele organisationen, noget, der i dag er 
+synligt i både chefgruppen og blandt de øvrige funktionæran-
+satte. 
+blandt de timelønnede håndværkere er der dog en ubalance, 
+og i 2020 var 96,7 % af de ansatte timelønnede håndværkere 
+mænd. det er jeudans ambition frem mod 2025 at løfte ande-
+len af kvinder blandt de timelønnede håndværkere, så virksom-
+heden altid er minimum 1 %-point bedre end branchen og gerne 
+bedre. dette gøres ved at igangsætte nye initiativer, der kan 
+tiltrække flere kvinder til jeudans håndværksstillinger, og at 
+markedsføre disse initiativer sammen med relevante uddan-
+nelsesinstitutioner. 
+jeudan vil være en fleksibel og attraktiv arbejdsplads, der kan 
+imødekomme alle medarbejdere, uanset hvilken fase af deres 
+arbejds- og privatliv de er i. det betyder, at der er mange for-
+skellige behov og forventninger til jeudan som arbejdsplads. 
+jeudan ønsker at skabe fleksible vilkår i form af arbejdsindhold 
+og arbejdstid og vil bl.a. tilbyde omskoling af modne medarbej-
+dere, som dermed kan undgå nedslidning. vores mål er, at en 
+jeudan-medarbejder altid kan få en værdig tilbagetrækning fra 
+arbejdsmarkedet. 
+i samarbejde med udvalgte organisationer tager jeudan ansvar 
+for specifikke grupper, der har svært ved at få fodfæste på 
+arbejdsmarkedet eller har behov for sparring til at træde ind 
+på det private arbejdsmarked. i de kommende år vil jeudan 
+også afsøge mulighederne for at gennemføre et årligt projekt, 
+der bidrager til, at netop de mennesker, der er længst væk fra 
+arbejdsmarkedet, får mulighed for at komme indenfor. 
+der bliver løbende udarbejdet nøgletal på en række punkter, 
+som bruges til at vurdere medarbejdernes engagement samt at 
+kortlægge trivslen i organisationen. 
+for at fastholde sammenligningsgrundlag og beregningsform-
+len for hele 2020 på både kvartalsvise og årlige nøgletal er nøg-
+letallene for 2020 opgjort på samme beregningsgrundlag som 
+tidligere år. nøgletallene rummer ikke alle interne bevægelser 
+i beregningerne, f.eks. er praktikanter og studentermedhjæl-
+pere ikke indeholdt. i 2021 vil jeudan tilpasse beregninger af de 
+sociale nøgletal til bedste praksis inden for esg-data. nøgletal-
+lene fremgår af esg-faktaark på siderne 38-41.
+enps
+i tillæg til koncernens årlige engagementsmåling samt kunde-
+tilfredshedsundersøgelserne er der, som noget nyt i 2020, også 
+målt på enps (employee net promoter score) for at kortlægge 
+jeudans medarbejderes loyalitet og tilfredshed. 
+i 2020 opnåede jeudan et resultat på 30, hvilket betragtes, som 
+et udmærket resultat, om end målet for 2021 sættes ambitiøst 
+til 40. frem mod 2025 sættes målet til 50. som benchmarking 
+anses en enps på 0 som god, og en enps over 50 som frem-
+ragende. ledersparring, kvartalsvise punktmålinger samt 
+specifikke indsatser på tværs af organisationen er blandt de 
+initiativer, som tages i brug for at nå de kommende års mål. det 
+er ikke muligt at foretage en direkte sammenligning med andre 
+virksomheder i ejendoms- og servicebranchen, da denne stati-
+stik ikke er tilgængelig.
+i jeudan arbejder vi ud fra en 
+målsætning om at være en attraktiv 
+og inspirerende arbejds plads med 
+gode udviklingsmuligheder for 
+kompetente og serviceorienterede 
+medarbejdere.
+et jeudan med  ansvarlige relationer (governance)   –  jeudan ansvarlighedsrapport 2020
+14
+sager om bestikkelse fra både kunder, samarbejdspartnere og 
+leverandører er blandt de risici, som møder jeudan. en risiko 
+,som søges minimeret gennem en tydelig politik for modarbej-
+delse af korruption, der fremgår af jeudans hjemmeside, og 
+som medarbejdere introduceres for ved ansættelsen. 
+afsættet for politikken er en bevidsthed om, at jeudan for-
+valter betydelige værdier på aktionærernes vegne, at jeudan 
+jævnligt har samarbejdsrelationer, hvor en sags forløb og 
+udfald har væsentlig betydning for jeudan, og at der i ejen-
+domsbranchen tidligere har været tilfælde, som kan betegnes 
+som korruptionssager. 
+jeudan udfører sine aktiviteter professionelt, uafhængigt af 
+forhold som tilgodeser private interesser, og vil løbende yde 
+en indsats og derigennem medvirke til, at kunder, samarbejds-
+partnere og leverandører kan bevare samme professionalisme 
+og uafhængighed. 
+jeudan følger relevante regler og god praksis, som er rettet 
+mod korruption. bestikkelse og returkommission accepteres 
+ikke og tilbydes ikke i nogen form og under nogen omstændig-
+heder. 
+et jeudan med 
+ansvarlige relationer 
+(governance)
+se i øvrigt esg-faktaark på siderne 38-41.
+governancemÅl pÅ vej mod 2025
+dokumentation  
+for indsatser
+2022
+krav på relevante  
+områder
+2023
+analyse af udvik-
+lingspotentiale og 
+dialog
+2021
+jeudans mål om en anerkendende 
+ledelseskultur understøttes af fire årlige 
+feedbacksamtaler med nærmeste leder. 
+et jeudan med  ansvarlige relationer (governance)   –  jeudan ansvarlighedsrapport 2020
+16
+leverandørers eventuelle uetiske forretningsførelse søges 
+reduceret gennem anvendelse af leverandørerklæringer ved 
+indgåelse af nye aftaler. leverandørerklæringen indeholder 
+bestemmelser vedrørende både sociale og miljømæssige for-
+hold hos leverandøren.
+risici vedrørende leverandører vedrører ikke alene risiko for 
+korruption og uetisk forretningsførelse. leverandører påvirker 
+også både miljømæssige og sociale forhold i forbindelse med 
+udførelse af opgaver for jeudan. i relation til menneskeret-
+tigheder er der ved brug af underleverandører en risiko for, at 
+disse ikke agerer korrekt. jeudan mindsker denne risiko ved at 
+leverandører underskriver leverandørerklæringer.
+i en erkendelse af, at jeudan også bærer et ansvar for den eks-
+terne del af værdikæden, vil der blive en igangsat en analyse af 
+leverandører med henblik på at kortlægge eventuelle environ-
+mental, social og governance udfordringer i leverandørkæden. 
+med afsæt i denne ønskes det fremadrettet også at yde ind-
+flydelse overfor disse led af værdikæden.
+efter jeudans overbevisning har jeudan i 2020 ikke oplevet 
+nogle former for korruption eller bestikkelse.
+jeudan vil tage ansvar for, hvordan virksomhedens samar-
+bejdspartnere og leverandører arbejder med ansvarlighed og 
+esg. koncernen har en lang række samarbejdspartnere, hvoraf 
+en større andel er mindre virksomheder, og tilgangen vil være 
+både ydmyg og ordentlig. jeudan vil i første omgang gennem-
+føre en intern analyse af samtlige samarbejdspartnere for at 
+kortlægge, hvilke partnere der har det største udviklingspo-
+tentiale.
+med udgangspunkt i den interne analyse vil jeudan i 2021 drøfte 
+esg-indsats med de relevante samarbejdspartnere. forvent-
+ningen er, at jeudan med udgangspunkt i denne dialog vil kunne 
+aftale en række mål og delmål med samarbejdspartnerne, som 
+de senest fra og med udgangen af 2022 skal kunne dokumen-
+tere deres indsats indenfor. forventningen er også, at jeudan 
+senest med udgangen af 2023 vil kunne indføre deciderede 
+krav og retningslinjer for relevante samarbejdspartneres esg-
+arbejde. 
+jeudan vil tage ansvar for, 
+hvordan virksomhedens 
+samarbejdspartnere og 
+leverandører arbejder med 
+ansvarlighed og esg.
+værdi for samfundet, kunder, medarbejdere, 
+investorer og øvrig interessenter
+et grØnnere og endnu stÆrkere jeudan 
+frem mod udgangen af 2025 – et samlet 
+overblik over mÅl og indsatser 
+håndværkere, 
+uddannelse
+kompetenceløft 
+vedr. klassiske
+ejendomme og 
+fokus på flere i job
+byggeaffald
+25 % til genbrug
+65 % til up- eller 
+downcycling
+arbejdsulykker
+nul-ulykkes-
+kultur og bedre
+end branchen 
+generelt
+rådgivning
+750 erhvervs-
+kunder har fået
+rådgivning om 
+energi og inde-
+klima 
+sygefravær
+1 %- og  
+0,5 %-point  
+bedre end  
+branchen
+(funk./timeløn)
+elbilisme
+90 % elbiler  
+og ladestandere 
+på 25 % af  
+p-pladserne
+leverandørers 
+esg-indsats
+analyse, dialog, 
+dokumentation 
+og krav
+energi
+25 % mindre 
+forbrug i domicil  
+med baseline i 
+2019/2020
+energi- 
+renovering
+25 ejendomme er 
+energirenoveret
+medarbejder-
+omsætning
+5 %- og 
+10 %-point bedre 
+end branchen
+(funk./timeløn)
+produktion
+fossilfri
+ingen skadelige 
+kemikalier
+håndværkere, 
+kønsdiversitet
+1 %-point bedre 
+end branchen 
+generelt
+unge under 
+uddannelse
+min. 10 % af 
+ansatte er elever, 
+lærlinge og  
+praktikanter
+lovpligtig redegørelse for virksomhedsledelse   –  jeudan ansvarlighedsrapport 2020
+18
+bestyrelsen forholder sig løbende til rammerne og proces-
+serne for den overordnede ledelse af jeudan med henblik på 
+at sikre, at disse er tilrettelagt på en sådan måde, at jeudan 
+til enhver tid er i stand til at løse de ledelsesmæssige opgaver 
+bedst muligt.
+jeudan ønsker at udøve god selskabsledelse og hermed sikre, 
+at jeudan ledes i overensstemmelse med samfundets og 
+aktio nærernes interesser og under hensyntagen til jeudans 
+øvrige interessenter.
+jeudan følger anbefalingerne for god selskabsledelse, der er 
+udarbejdet af komitéen for god selskabsledelse, bortset fra 
+at et flertal af bestyrelsesmedlemmer og udvalgsmedlemmer 
+ikke er uafhængige, ligesom jeudan ikke anvender ekstern 
+bistand i bestyrelsesevalueringen. komitéens anbefalinger 
+er offentliggjort på https://corporategovernance.dk, og på 
+jeudans hjemmeside på url-adressen http://www.jeudan.dk/
+om-jeudan/selskabsledelse/ findes et skema med en samlet 
+oversigt over komitéens anbefalinger for god selskabsledelse 
+under betegnelsen “lovpligtig redegørelse for virksomhedsle-
+delse, jf. Årsregnskabslovens § 107 b, for 2020”.
+aktionÆrer
+generalforsamlingen er jeudans øverste beslutningsorgan. 
+alle aktionærer, der har løst adgangskort, har ret til at deltage 
+og stemme på generalforsamlingen, og aktionærer, der ikke 
+har mulighed for personligt at deltage i generalforsamlingen, 
+kan stemme via fuldmagt, eller brevstemme, hvor der er mulig-
+hed for at tage stilling til hvert enkelt punkt på dagsordenen. 
+generalforsamlingen offentliggøres på selskabets hjemme-
+side senest 3 uger før generalforsamlingsdatoen.
+jeudans vedtægter kan ændres ved en generalforsamlingsbe-
+slutning, hvor beslutningen skal tiltrædes af mindst 2/3 såvel 
+af de afgivne stemmer som af den på generalforsamlingen 
+repræsenterede stemmeberettigede aktiekapital.
+jeudan lægger vægt på generalforsamlingerne som et forum 
+for kommunikation om jeudans forhold, hvor aktionærerne 
+opfordres til at deltage og indgå i en dialog om jeudans udvik-
+ling.
+derudover videregiver jeudan informationer til sine aktionæ-
+rer ved regnskabs- og selskabsmeddelelser og via jeudans 
+hjemmeside. i de løbende bestræbelser på at tilbyde aktionæ-
+rer relevant og rettidig information tilbyder jeudan alle aktio-
+nærer at modtage aktionærinformation elektronisk.
+der er ikke jeudan bekendt indgået særskilte aktionærafta-
+ler, men der foregår løbende dialog med aktionærer i behørig 
+respekt for nasdaq copenhagens regelsæt.
+interessenter
+jeudan tilstræber at opretholde en åben dialog med alle 
+interessenter, herunder aktionærer, kunder, medarbejdere, 
+leverandører, offentlige myndigheder og samfundet gene-
+relt. kommunikationen tager udgangspunkt i jeudans tre 
+kerneværdier: ordentlighed, dygtighed og tilgængelighed. 
+kommunikationen foregår ikke blot direkte via jeudans dag-
+lige kontakt med kunder, leverandører, myndigheder m.fl., men 
+også på de sociale medier og ved deltagelse i investeringsar-
+rangementer, foredrag for foreninger m.m.
+Åbenhed og gennemsigtighed
+alle informationer af væsentlighed for aktionærer og finans-
+markederne udsendes hurtigst muligt via finanstilsynet og 
+nasdaq copenhagen i overensstemmelse med børsreglerne. 
+umiddelbart efter udsendelse via finanstilsynet og nasdaq 
+copenhagen sendes meddelelsen elektronisk til de aktionæ-
+rer samt øvrige interessenter, der har ønsket at modtage elek-
+troniske meddelelser fra jeudan. meddelelsen gøres ligeledes 
+straks tilgængelig på jeudans hjemmeside.
+jeudan offentliggør ikke information på engelsk, da der grun-
+det den nuværende aktionærsammensætning ikke synes at 
+være tilstrækkeligt behov herfor.
+lovpligtig 
+redegØrelse for 
+virksomhedsledelse
+jeudan tilstræber at opretholde en 
+åben dialog med alle interessenter, 
+herunder aktionærer, kunder,  med-
+ arbejdere, leverandører, offentlige 
+myndigheder og samfundet generelt.
+19
+lovpligtig redegørelse for virksomhedsledelse   –  jeudan ansvarlighedsrapport 2020
+jeudans hjemmeside indeholder en sektion for investor rela-
+tions, hvilken bl.a. indeholder aktuelle oplysninger fra nasdaq 
+copenhagen om aktiepris og ordredybde, selskabsmeddelel-
+ser, perioderapporter m.m.
+jeudan offentliggør kvartalsrapporter.
+bestyrelsens opgaver
+jeudans bestyrelse udgør den øverste ledelse, og dens arbejde 
+er reguleret af en forretningsorden, der er udarbejdet i over-
+ensstemmelse med selskabslovens bestemmelser. forret-
+ningsordenen vurderes og ajourføres mindst en gang om året.
+ud over arbejdsbeskrivelserne i forretningsordenen er der 
+ikke udfærdiget selvstændig arbejdsbeskrivelse for bestyrel-
+sesformanden og næstformanden.
+der afholdes mindst fem ordinære bestyrelsesmøder om 
+året. i 2020 er der afholdt fem ordinære bestyrelsesmøder. 
+bestyrelsen modtager en løbende orientering om jeudans for-
+hold forud for hvert bestyrelsesmøde. på møderne behandler 
+bestyrelsen forhold vedrørende jeudans overordnede udvik-
+ling, herunder:
+•  mål og strategi, overordnede økonomiske målsætninger, 
+risikoappetit samt forretningspolitikker og forretningsetik 
+m.m.
+•  jeudans forretningsmodel, koncernstruktur, kapital- og 
+aktiestruktur, medarbejderpolitik, it-politik og finansie-
+ringspolitik.
+•  organisationsstruktur og medarbejdersammensætning 
+m.m.
+•  it-struktur og it-risiko.
+•  analyse og gennemgang af væsentlige risikoområder.
+•  budget, værdiansættelse af koncernens ejendomme, udlej-
+nings- og handlingsplaner, markedsforhold samt forsik-
+ringsforhold.
+•  regnskaber og regnskabsrapportering.
+•  forslag om fusion, køb og salg af selskaber og ejendomme 
+samt større udviklingsprojekter.
+•  ansættelse og aflønning af ledelsen.
+ud over de ordinære bestyrelsesmøder afholdes telefonmø-
+der og skriftlige møder via mail efter behov, ligesom der indkal-
+des til ekstraordinære bestyrelsesmøder, i tilfælde af at der er 
+behov for hastebehandling af bestyrelsesanliggender. i 2020 
+har der ikke været afholdt ekstraordinære bestyrelsesmøder.
+bestyrelsen har nedsat et revisions- og risikoudvalg med del-
+tagelse af helle okholm (formand), tommy pedersen og nick-
+las hansen. revisions- og risikoudvalget har i 2020 foretaget 
+overvågning af, om jeudans interne kontrolsystemer og risiko-
+styringssystemer fungerer effektivt, foretaget overvågning 
+af regnskabsaflæggelsesprocessen, foretaget overvågning 
+af den lovpligtige revision af årsregnskabet og foretaget 
+overvågning og kontrol af revisors uafhængighed. i 2020 har 
+revisions- og risikoudvalget desuden foretaget en evaluering 
+af sit arbejde, herunder det modtagne materiale, kompeten-
+cer/uddannelse samt samarbejde. hvert medlem af udvalget 
+vurderede, at de besad de nødvendige kompetencer, og at de 
+enkelte ikke vurderede specifik videreuddannelse relevant p.t. 
+for udførelsen af hvervet. samarbejdet var velfungerende og 
+professionelt, og det fremlagte materiale var af høj standard 
+og relevans. revisions- og risikoudvalget har i 2020 haft et 
+møde med den eksterne revision, hvor direktionen ikke deltog. 
+revisions- og risikoudvalget har i 2020 afholdt fire ordinære 
+møder.
+bestyrelsen har desuden nedsat et nominerings- og veder-
+lagsudvalg, der udgøres af formandskabet. nominerings- og 
+vederlagsudvalget er i 2020 fremkommet med forslag til 
+vederlag for direktion og bestyrelse, ligesom udvalget har 
+drøftet aflønning af ledende medarbejdere med direktionen. 
+udvalget er fremkommet med indstilling til valg af nyt medlem 
+til bestyrelsen på den ordinære generalforsamling. udvalget 
+har overvåget, at jeudans fastlagte vederlagspolitik er fulgt 
+og i overensstemmelse med jeudans forretningsstrategi, 
+værdier og langsigtede mål. herudover har udvalget vurderet 
+direktionens og bestyrelsens struktur, størrelse, sammensæt-
+ning, kompetencer og resultater. på baggrund af den samlede 
+vurdering har udvalget indstillet eventuelle ændringer til den 
+samlede bestyrelse. nominerings- og vederlagsudvalget har i 
+2020 afholdt et møde.
+på baggrund af en farvearkæologisk 
+undersøgelse bringes søjlerne på 
+havnegade 23 tilbage til de oprindelige 
+stenimitationer. 
+22
+lovpligtig redegørelse for virksomhedsledelse   –  jeudan ansvarlighedsrapport 2020
+der anvendes ikke eksterne rådgivere i udvalgene.
+direktionen ansættes af bestyrelsen, der fastsætter direk-
+tionens ansættelsesvilkår. direktionen er ansvarlig for den 
+daglige drift af jeudan, herunder jeudans aktivitets- og drifts-
+mæssige resultater samt interne anliggender. rammerne for 
+bestyrelsens delegering af ansvar til direktionen og bestyrel-
+sens tilsyn med direktionens arbejde er fastlagt i bestyrelsens 
+forretningsorden.
+mindst tre gange om året afholdes møde mellem bestyrelsens 
+formandskab og direktionen. ved mindst én af samtalerne 
+mellem bestyrelsens formandskab og direktionen sker der 
+en evaluering af samarbejdet mellem bestyrelse og direktion, 
+direktionens arbejde og resultater, ligesom proceduren for og 
+arten af direktionens rapportering til bestyrelsen drøftes.
+gennem en proces ledet af bestyrelsesformanden foretager 
+bestyrelsen en gang årligt på et bestyrelsesmøde en drøf-
+telse, hvor bestyrelsen foretager en evaluering af sit arbejde 
+med henblik på at forbedre bestyrelsesarbejdet, herunder om 
+der er områder, hvor bestyrelsesmedlemmernes kompetence 
+og sagkundskab bør opdateres. den seneste evaluering i efter-
+året 2020 viste, at dagsordenen, tidsallokeringen samt mate-
+rialet og information til bestyrelsen virker passende. enkelte 
+tilpasninger til materialets omfang blev drøftet. bestyrelsen 
+drøftede desuden deltagelse af ekstern bistand i evaluerings-
+processen. der var enighed om, at det ikke vurderes relevant, 
+da de to hovedaktionærer er repræsenteret i bestyrelsen og 
+deltager i alle bestyrelsesmøder. evalueringen viste, at besty-
+relsesmedlemmerne arbejder godt sammen, og kollektivt 
+repræsenterer de relevante kompetenceområder. medlem-
+merne anses individuelt for at være kompetente, og de har alle 
+et højt fremmøde. bestyrelsens øvrige ledelses- og bestyrel-
+sesposter var på et rimeligt niveau i forhold til hvervet i jeudan 
+under hensyntagen til posternes antal, niveau og kompleksi-
+tet. samspillet mellem bestyrelsen, bestyrelsesudvalgene og 
+direktionen er velfungerende og med et kommercielt fokus.
+bestyrelsens sammensÆtning
+ifølge jeudans vedtægter skal bestyrelsen bestå af fire til seks 
+medlemmer. bestyrelsen består for tiden af fem medlemmer. 
+bestyrelsen vælger af sin midte en formand og en næstfor-
+mand. bestyrelsen vurderer med passende mellemrum, hvor-
+vidt antallet af bestyrelsesmedlemmer er hensigtsmæssigt i 
+forhold til jeudans behov.
+nye bestyrelsesmedlemmer indføres i bestyrelsesarbejdet 
+igennem en grundig introduktion til jeudan. bestyrelsesmed-
+lemmer opstilles til valg på generalforsamlingen primært ud 
+fra en samlet bedømmelse af vedkommendes kompetencer 
+og disses komplementaritet med den resterende bestyrelse, 
+ligesom der i vurderingen indgår mangfoldighed, alder m.m. 
+forud for generalforsamlingen, hvor nye medlemmer måtte 
+være på valg, udsendes en kompetenceprofil af kandidaten/
+kandidaterne.
+jeudans forretningsmodel og de hertil forbundne risici medfø-
+rer, at bestyrelsen som helhed bør have særlige kompetencer 
+inden for følgende områder: strategiske forhold; ejendoms-
+branchekendskab; køb/salg af virksomheder og ejendomme; 
+Økonomiske, finansielle og regnskabsmæssige forhold; 
+finansiel regulering; virksomhedsledelse; digitalisering, it 
+og processer; markedsmæssige forhold, kunderelationer og 
+salg; organisation/hr og processer; risikostyring; kapital-
+markedsforhold og børsnotering; forretningsudvikling samt 
+investor relations og kommunikation. 
+det er bestyrelsens samlede vurdering, herunder på baggrund 
+af den gennemførte selvevaluering, at bestyrelsen samlet set 
+besidder tilstrækkelig indsigt i og viden om relevante forhold, 
+der sikrer bestyrelsens grundlag for at varetage den over-
+ordnede og strategiske ledelse af jeudan samt træffe foran-
+formålet med jeudans overordnede 
+talent- og udviklingsprogram er at 
+ sikre, at virksomheden altid har de 
+fornødne kompetencer og ressourcer 
+til at agere konkurrencedygtigt. 
+ejendomshistorie og fredningsplakette 
+fra en af jeudans ejendomme.  
+her på frederiksgade 7.
+24
+lovpligtig redegørelse for virksomhedsledelse   –  jeudan ansvarlighedsrapport 2020
+staltninger til, at jeudan drives betryggende. det er desuden 
+vurderingen, at bestyrelsen besidder tilstrækkelig indsigt til at 
+kunne forholde sig kritisk til og udfordre direktionens arbejde, 
+herunder direktionens beslutninger og løbende rapportering, 
+samt, hvor det er relevant, at kunne indgå i detaljerede og dyb-
+degående diskussioner med direktionen om emnet. der henvi-
+ses til afsnittet “ledelse” i jeudans årsrapport for oplysninger 
+om bestyrelsens ledelseshverv, deltagelse i bestyrelses- og 
+udvalgsmøder, individuelle kompetencer med dyb og særlig 
+indsigt, individuel aflønning samt aktiebesiddelser.
+ved valg af bestyrelsesmedlemmer iagttages arten og omfan-
+get af de pågældende kandidaters øvrige ledelseshverv. 
+jeudan har ikke fastsat standardregler herfor, men foretager 
+en vurdering i hvert enkelt tilfælde. jeudan har ej heller opstil-
+let standardregler for arten og omfanget af de nuværende 
+bestyrelsesmedlemmers øvrige ledelseshverv, idet hvert 
+enkelt bestyrelsesmedlem selv sikrer, at de har den nødven-
+dige tid til bestyrelsesarbejdet, ligesom forholdet drøftes ved 
+den årlige selvevaluering.
+der er ikke personsammenfald mellem bestyrelse og direk-
+tion, og ingen af bestyrelsens medlemmer er involveret i den 
+daglige ledelse af jeudan.
+bestyrelsesformand niels jacobsen er adm. direktør i william 
+demant invest a/s, der besidder 23.257.420 aktier i jeudan, 
+svarende til 42,0 % af aktiekapitalen. niels jacobsen blev valgt 
+til bestyrelsen i jeudan første gang i 2014.
+næstformand claus gregersen er adm. direktør for chr. 
+ augustinus fabrikker aktieselskab, der besidder 22.471.300 
+aktier i jeudan, svarende til 40,5 % af aktiekapitalen. claus 
+gregersen blev valgt til bestyrelsen i jeudan første gang i 2017.
+tommy pedersen har i dag ikke interesser i selskaber, der er 
+blandt de større aktionærer i jeudan. tommy pedersen blev 
+valgt til bestyrelsen i jeudan første gang i 1997.
+helle okholm har ikke interesser i selskaber, der er blandt de 
+større aktionærer i jeudan. helle okholm blev valgt til besty-
+relsen i jeudan første gang i 2017.
+nicklas hansen er investment director i william demant invest 
+a/s. william demant invest a/s besidder 23.257.420 aktier i 
+jeudan, svarende til 42,0 % af aktiekapitalen. nicklas hansen 
+blev valgt til bestyrelsen i jeudan første gang i 2020.
+jeudan vurderer på baggrund af ovennævnte og med hen-
+visning til anbefalingerne udarbejdet af komitéen for god 
+selskabsledelse, at helle okholm er uafhængig. de øvrige 
+bestyrelsesmedlemmer er ifølge anbefalingerne ikke uaf-
+hængige. jeudan har to aktionærer, der hver ejer mere end 40 
+% af aktierne, hvilket har betydning for sammensætningen af 
+jeudans bestyrelse. den ifølge anbefalingerne manglende uaf-
+hængighed vurderes derfor hensigtsmæssig.
+bestyrelsens medlemmer vælges af generalforsamlingen for 
+ét år ad gangen – med mulighed for genvalg.
+risikostyring
+Én af revisions- og risikoudvalgets samt bestyrelsens kon-
+trolopgaver er at sikre, at der sker en effektiv risikostyring, 
+herunder at væsentlige risici identificeres, at der opbygges 
+systemer til risikostyring, samt at der fastlægges risikopo-
+litik og risikorammer. i jeudan indgår forhold om væsentlige 
+risici i den løbende rapportering til revisions- og risikoudvalget 
+samt bestyrelsen, ligesom risikovurdering er en integreret del 
+af strategiprocessen og et væsentligt element i beslutnings-
+grundlaget for alle større dispositioner.
+ved valg af bestyrelsesmedlemmer 
+iagttages arten og omfanget af  de 
+pågældende kandidaters øvrige 
+ ledelseshverv. jeudan har ikke fastsat 
+standardregler herfor, men foretager  
+en vurdering i hvert enkelt tilfælde.
+25
+lovpligtig redegørelse for virksomhedsledelse   –  jeudan ansvarlighedsrapport 2020
+med en fast turnus og mindst en gang årligt behandles følgende 
+væsentlige risikoområder på årets revisions- og risikoudvalgs- 
+samt bestyrelsesmøder: væsentlige regnskabsprincipper og 
+regnskabsskøn, renterisiko, finansiering, likviditetsudvikling, 
+måling (værdiansættelse) af samtlige ejendomme, gennem-
+gang af større ejendomme og kunder, ledige lejemål og lejeni-
+veauer, interne kontroller, forsikringsforhold, hr og it.
+jeudan har etableret en risikokomité. komitéen vil løbende 
+identificere, beskrive og kategorisere risiko- og trusselssce-
+narier, der kan påvirke jeudans omdømme og/eller økonomi 
+negativt i væsentligt omfang. på grundlag heraf udarbejder 
+komitéen forslag til yderligere tiltag, der kan minimere eller 
+eliminere identificerede risici og trusler, ligesom komitéen 
+udarbejder beredskabsplaner. komitéen udarbejder en årlig 
+risikorapport, der forelægges for og drøftes i revisions- og risi-
+koudvalget.
+selskabet har etableret en whistleblowerordning med forank-
+ring hos formanden for revisions- og risikoudvalget.
+revision
+jeudans generalforsamling har valgt deloitte statsautori-
+seret revisionspartnerselskab, weidekampgade 6, 2300 
+københavn s, som revisor. revisor er på valg hvert år på 
+jeudans ordinære generalforsamling.
+i forbindelse med revisionen af jeudans årsrapport gennemgår 
+revisor ligeledes en række interne kontroller og forretnings-
+gange. på et revisions- og risikoudvalgsmøde og på et besty-
+relsesmøde holder henholdsvis revisions- og risikoudvalget 
+og bestyrelsen møde med revisionen, hvor direktionen ikke 
+deltager.
+bestyrelsen har ikke fundet anledning til at etablere en intern 
+revision, jf. de beskrevne forhold vedrørende intern kontrol i 
+afsnittet “interne kontroller og procedurer” herunder. spørgs-
+målet vurderes årligt.
+revisionsaftalen og den tilhørende honorering af revisor afta-
+les mellem bestyrelsen og revisor på baggrund af en indstilling 
+fra revisions- og risikoudvalget. revisions- og risikoudvalget 
+og bestyrelsen har forhåndsgodkendt, at direktionen kan 
+iværksætte nærmere definerede ikke-revisionsydelser for op 
+til dkk 200.000 pr. sag og samlet dkk 600.000. ikke-revisi-
+onsydelser herudover skal forhåndsgodkendes af bestyrelsen 
+efter indstilling fra revisions- og risikoudvalget.
+interne kontroller og procedurer
+jeudans bestyrelse og direktion skal sikre, at jeudans interne 
+og eksterne rapportering er retvisende og fokuserer på de 
+væsentligste områder. som følge heraf er der etableret inter-
+ne kontroller og procedurer for risikostyring, der skal sikre 
+pålidelig information til jeudans beslutningstagere og til de 
+eksterne interessenter, der har behov eller interesse herfor. 
+samtidig er systemerne tilrettelagt med henblik på minime-
+ring af fejl og mangler under hensyn til væsentlighed og effek-
+tivitet.
+direktionen sikrer gennem politikker, forretningsgange, kom-
+munikation og den daglige adfærd, at der i hele organisationen 
+er en bevidsthed om og respekt for de nævnte overordnede 
+hensyn. der er udarbejdet detaljerede regler for blandt andet 
+rapportering, afvigelser, kompetencer, attesteringer, afstem-
+ninger, funktions- og personadskillelser samt dokumentation.
+bestyrelsens forretningsorden indeholder regler for direk-
+tionens beføjelser. desuden indeholder stillingsbeskrivelserne 
+for ledende og centrale medarbejdere præcise angivelser af de 
+pågældendes ansvar, beføjelser og referencelinjer.
+jeudans bestyrelse og direktion 
+skal sikre, at jeudans interne og 
+eksterne rapportering er retvisende 
+og fokuserer på de væsentligste 
+områder.    
+lovpligtig redegørelse for virksomhedsledelse   –  jeudan ansvarlighedsrapport 2020
+26
+jeudans hovedaktiviteter er investering i samt drift og vedlige-
+holdelse af ejendomme. på denne baggrund er følgende områ-
+der i fokus i relation til den interne kontrol:
+•  investeringer: kriterier og betragtninger, der anvendes ved 
+vurdering af investeringsmuligheder.
+•  indgåelse og fornyelse af lejeaftaler med kunderne: der er 
+etableret en formaliseret procedure for forhandlinger og 
+genforhandlinger, for forhandlingernes forløb, for doku-
+mentation og for beslutninger.
+•  omkostningsforbrug: alle driftsomkostninger overvåges 
+af de ansvarlige for de enkelte ejendomme, der hver udgør 
+en økonomisk enhed i jeudans økonomistyring.
+•  indretnings- og vedligeholdelsesprojekter: der er etableret 
+en formaliseret procedure, der i det væsentlige svarer til 
+proceduren vedrørende lejeaftaler, jf. ovenfor.
+•  finansiering: kontrollen er beskrevet i årsrapportens afsnit 
+om strategi og i et afsnit nedenfor.
+•  værdiansættelse af aktiverne: værdiansættelsen af hver 
+af jeudans ejendomme er beskrevet i regnskabsberetnin-
+gen i årsrapporten.
+regnskabsaflæggelsen håndteres centralt i økonomiområdet 
+på tværs af alle selskaber i jeudan og i henhold til udarbejdede 
+instrukser, ligesom økonomiområdet varetager konsoliderin-
+gen af koncernregnskabet.
+kontrolmiljø
+revisions- og risikoudvalget vurderer løbende og mindst en 
+gang om året jeudans organisationsstruktur, herunder organi-
+sation og bemanding af de funktioner, som har betydning for 
+de interne kontroller og risikostyringen. revisions- og risiko-
+udvalget vurderer desuden løbende og mindst en gang om året 
+tilrettelæggelsen af de vigtigste procedurer for intern kontrol 
+og risikostyring.
+endelig rapporterer direktionen løbende til bestyrelsen og 
+mindst på hvert bestyrelsesmøde om den driftsmæssige og 
+økonomiske udvikling og om jeudans risikostilling. det er en 
+del af direktionens ansvar at sikre, at bestyrelsen løbende 
+ orienteres om og involveres i eventuelle væsentlige ændringer 
+i forhold til tidligere rapportering og dialog herom.
+bestyrelsen har ikke etableret en intern revision. bestyrel-
+sen drøfter løbende behovet for intern revision på baggrund 
+af en indstilling fra revisions- og risikoudvalget. henset til de 
+eksisterende procedurer for kontrolopfølgning og den tætte 
+rapportering af kontrolaktiviteterne til revisions- og risikoud-
+valget har revisions- og risikoudvalget samt bestyrelsen p.t. 
+ikke fundet anledning til at etablere en intern revision.
+de væsentligste aktiviteter i jeudans finansområde følger en 
+politik og en instruks, der er fastlagt af revisions- og risiko-
+udvalget samt bestyrelsen, og som revideres efter behov og 
+mindst en gang om året. politikken og instruksen sætter finan-
+sieringsrammerne for blandt andet beløb, transaktionstyper 
+og modparter og beskriver den krævede interne overvågning 
+og rapportering.
+der foretages en årlig budgettering, der omfatter alle for-
+retningsaktiviteter og alle væsentlige ressourcer. budgettet 
+følges månedsvis på nogle poster og kvartalsvis på samtlige 
+poster med afvigelsesrapportering, og kvartalsvis supple-
+res med en opdateret forventning for det indeværende regn-
+skabsår.
+direktionen har ansvaret for, at relevant regulering – for 
+eksempel vedrørende regnskabsaflæggelse, oplysningsfor-
+pligtelser og selskabsledelse – er afspejlet i jeudans tilret-
+telæggelse af den interne kontrol og risikostyringen, og at 
+ændringer i reguleringen hurtigst muligt vurderes og omsæt-
+tes til nødvendige eller hensigtsmæssige ændringer i jeudans 
+processer.
+revisions- og risikoudvalget vurderer 
+løbende og mindst en gang om året 
+jeudans organisationsstruktur, 
+her under organisation og bemanding 
+af de funktioner, som har betydning 
+for de interne kontroller og risikosty-
+ringen. 
+jeudan konverterer løbende biler til 
+ladcykler. i dag råder koncernen over 
+55 såkaldte håndværkercykler.
+lovpligtig redegørelse for virksomhedsledelse   –  jeudan ansvarlighedsrapport 2020
+28
+risikostyring
+revisions- og risikoudvalget samt bestyrelsen vurderer 
+løbende jeudans risikostilling på de områder, der er udpeget 
+som de væsentligste. vurderingen baseres på rapportering fra 
+direktionen, såvel periodisk som ved væsentlige eksterne eller 
+interne hændelser.
+desuden vurderer revisions- og risikoudvalget samt bestyrel-
+sen mindst en gang om året jeudans politik, eksponering og 
+perspektiver på risikoområdet.
+endelig indgår en formaliseret vurdering af risici i alle væsent-
+lige beslutninger, for eksempel vedrørende større investerin-
+ger eller omlægninger af jeudans finansiering.
+kontrol
+efterlevelsen af reglerne for intern kontrol og risikostyring 
+kontrolleres løbende gennem dels faste procedurer, dels stik-
+prøver. formålet er at sikre, at de fastlagte regler og proce-
+durer følges, at medvirke til at forebygge eller minimere fejl, 
+afvigelser eller mangler og at udvikle reglerne og procedurer-
+ne, så disse til stadighed er i overensstemmelse med jeudans 
+aktiviteter.
+i revisionsprotokollater til bestyrelsen rapporterer den gene-
+ralforsamlingsvalgte revision eventuelle væsentlige svaghe-
+der i de interne kontroller og i risikostyringen, der måtte være 
+konstateret i forbindelse med revisionen. mindre væsentlige 
+forhold rapporteres til direktionen i form af management let-
+ters. management letters forevises revisions- og risikoudval-
+get. henholdsvis revisions- og risikoudvalget, bestyrelsen og 
+direktionen har ansvaret for, at der reageres på eventuelle 
+påpegede svagheder, herunder at nødvendige eller hensigts-
+mæssige ændringer i regler og procedurer gennemføres effek-
+tivt og korrekt.
+information
+bestyrelsen har fastlagt jeudans kommunikationspolitik, der 
+lægger vægt på, at information fra jeudan er åben, redelig og 
+tilgængelig.
+bestyrelsen har desuden fastsat regler for jeudans efter-
+levelse af sine oplysningsforpligtelser i overensstemmelse 
+med love, bekendtgørelser og andre forskrifter.
+redegØrelse for den kØnsmÆssige sammensÆt-
+ning af ledelsen og mangfoldighed
+med henvisning til redegørelse for den kønsmæssige sammen-
+sætning af ledelsen, jf. årsregnskabslovens § 99 b, har jeudans 
+bestyrelse i april 2018 besluttet at stile efter at få mindst én 
+yderligere kvinde ind i bestyrelsen over de kommende fire år. 
+den nuværende andel udgør 20 % kvinder og 80 % mænd. i 
+2020 tiltrådte bestyrelsesmedlem søren b. andersson en 
+ledig stilling i jeudan som økonomidirektør. ud fra en samlet 
+vurdering af kompetencer, mangfoldighed, alder, aktionær-
+sammensætning og komplementaritet med den resterende 
+bestyrelse valgte jeudans aktionærer nicklas hansen som nyt 
+medlem af bestyrelsen. målsætningen blev derfor ikke opnået 
+i regnskabsåret.
+for så vidt angår de øvrige ledelseslag, henvises til esg-fakta-
+ark på siderne 38-41.
+med henvisning til redegørelse for mangfoldighedspolitik, 
+jf. årsregnskabslovens § 107 d, er det jeudans opfattelse, at 
+mangfoldighed blandt medarbejdere og ledelsen, herunder 
+en jævn fordeling af alder og uddannelsesbaggrund, bidrager 
+positivt til arbejdsmiljøet og styrker jeudans konkurrence-
+evne og performance. jeudans hr-område har fokus på såvel 
+tiltrækning som fastholdelse af kvalificeret arbejdskraft. her 
+vægtes den næste generation højt, hvor jeudan øger antallet 
+af praktikpladser for studerende, lærlingeprogrammer m.m. 
+jeudan skal fortsat værne om 
+københavn og skabe en langsigtet 
+bæredygtig og rentabel forretning 
+til gavn for koncernens kunder, 
+ medarbejdere og ejere – og i sidste 
+ende til gavn for hele samfundet.
+siden 2018 har kunstner simone aaberg 
+kærn lånt jeudans tårne ved søtorvet, 
+hvor hun sidder og tegner under kuplerne 
+med udsigt over søerne.
+lovpligtig redegørelse for virksomhedsledelse   –  jeudan ansvarlighedsrapport 2020
+30
+for at medvirke til at uddanne nye unge, der kan bidrage med 
+nye tanker og tendenser.
+jeudan har, som det blandt andet fremgår af afsnittet “et 
+stærkere jeudan”, gennem mange år været en mangfoldig 
+arbejdsplads, hvor medarbejderne bidrager med forskellige 
+baggrunde, kompetencer og livsvilkår. dette gælder såvel køn, 
+alder og herkomst som uddannelse, erfaringer og personlighed. 
+det er målsætningen, at ledelsen skal afspejle mangfoldighe-
+den blandt medarbejderne, for så vidt angår en jævn fordeling 
+af alder, uddannelse og erfaring.
+for at fremme mangfoldigheden blandt virksomhedens direk-
+tion og bestyrelse er der stort fokus på dette i rekruttering og 
+forfremmelse af lederne. direktionen består af adm. direktør 
+per w. hallgren.
+bestyrelsen dækker over en bred kam erfaringer fra dansk 
+erhvervsliv, det politiske liv og ejendomsbranchekendskab. 
+denne sammensætning vurderes hensigtsmæssig, idet den 
+sikrer en bredde i medlemmernes tilgang til bestyrelsesopga-
+verne og således er medvirkende til at sikre kvalificerede over-
+vejelser og beslutninger.
+ved udgangen af regnskabsåret var den aldersmæssige sam-
+mensætning i bestyrelse og direktion, at 17 % er under 40 år, 
+50 % er mellem 50 og 60 år, og 33 % er over 60 år. i bestyrelsen 
+har 20 % været medlem i 1 år, 40 % i 4 år og 40 % over 5 år.
+forretningsetik
+lovgivning
+jeudan tilstræber altid at overholde den til enhver tid gælden-
+de danske og internationale lovgivning. ud over den skrevne 
+lovtekst ligger det jeudan på sinde, at også lovgivers intention 
+bag lovgivningen efterleves. 
+eksempelvis betragter jeudan aggressiv skatteplanlægning 
+som en strategi til at udnytte formaliteter og “huller” i skatte-
+lovgivningen alene med det formål at reducere skatteforplig-
+telser uden om eller i strid med lovgivers intentioner. derfor 
+tager jeudan afstand fra enhver form for aggressiv skatte-
+planlægning. 
+jeudan bidrager direkte i form af skatter og afgifter, og i 2020 
+har det økonomiske bidrag til samfundet, afledt af jeudans 
+aktiviteter, været på mere end dkk 400 mio., svarende til at 
+hver enkelt medarbejder i gennemsnit bidrager med næsten 
+dkk 700.000. 
+bidragstype 
+beløb
+selskabsskat1 
+17 mio. dkk 
+betaling til kommuner 
+109 mio. dkk 
+moms 
+171 mio. dkk 
+a-skat & am-bidrag 
+103 mio. dkk 
+total 
+400 mio. dkk
+ 
+1)  beregnet som et gennemsnit af de seneste 3 år som følge af større varians 
+fra år til år 
+eksempelvis betragter jeudan aggres-
+siv skatteplanlægning som en strategi 
+til at udnytte formaliteter og “huller”  
+i skattelovgivningen alene med det 
+formål at reducere skatteforpligtelser 
+uden om eller i strid med lovgivers 
+intentioner. derfor tager jeudan 
+afstand fra enhver form for aggressiv 
+skatteplanlægning. 
+kobberdetaljer fra renoveringen af 
+tårnet på gl. kongevej 1.
+32
+generelle informationer   –  jeudan ansvarlighedsrapport 2020
+generelle 
+informationer
+politikker
+jeudan har udarbejdet en række politikker, der danner det for-
+melle fundament for jeudans forretningsetik, herunder også 
+holdninger og handlinger. politikkerne er vigtige pejlemærker 
+for den samlede organisations daglige virke. 
+politikkerne er følgende: 
+• politik for samfundsansvar
+• politik for klima, energi og miljø
+• politik for arbejdsmiljø
+• politik for mangfoldighed
+• politik for modarbejdelse af korruption
+• politik for modarbejdelse af hvidvask
+• politik for indkøb
+• politik for skat
+flere af politikkerne understreger, at jeudan anerkender og 
+arbejder efter fn global compacts 10 principper for ansvarlig 
+virksomhedsdrift, der omfatter respekten for menneskeret-
+tigheder, arbejdstagerrettigheder, miljø og antikorruption. 
+jeudan er på nuværende tidspunkt ikke tilsluttet fn global 
+compact.
+politikkerne er offentliggjort på jeudans hjemmeside på 
+ følgende adresse (url): jeudan.dk/om-jeudan/ansvarlighed/
+politikker/
+fn’s 17 verdensmÅl
+jeudan ønsker også at bidrage til en langsigtet, stabil og bære-
+dygtig udvikling af samfundet og dermed til opfyldelsen af 
+fn’s 17 verdensmål for bæredygtig udvikling. herunder sær-
+ligt på klima-, energi- og miljøområdet. 
+jeudans esg-strategi bidrager i bred forstand til opfyldelsen 
+af flere af fn’s 17 verdensmål, men særligt vil strategien bidrage 
+til opfyldelse af følgende mål:
+•  mål nr. 8 – anstændige jobs og økonomisk vækst 
+-  delmål 8.5 – skab fuld beskæftigelse og anstændigt  
+    arbejde med lige løn 
+-  delmål 8.6 – hjælp flere unge i arbejde, uddannelse     
+    og træning 
+-  delmål 8.8 – beskyt arbejdstagerrettigheder,  
+    og skabe sikre arbejdsmiljøer
+•  mål nr. 11 – bæredygtige byer og lokalsamfund 
+-  delmål 11.6 – minimer byernes miljøpåvirkning
+•  mål nr. 12 – ansvarligt forbrug og produktion 
+-  delmål 12.5 – reducer affaldsmængden betydeligt 
+-  delmål 12.6 – virksomheder skal opfordres til at agere 
+    bæredygtigt
+whistleblowerordning
+jeudan har en whistleblowerordning. formålet er at minimere 
+virksomhedens risici ved at sikre nem kommunikation og 
+opfordre medarbejdere til at benytte den til at rapportere om 
+groft misbrug, eller mistanke herom, inden for:
+•  overtrædelser, der potentielt truer menneskers liv eller 
+trivsel
+•  misbrug, der kan have ødelæggende virkning på jeudans 
+forretning
+•  misbrug af virksomheden, der kan skade miljøet alvorligt
+•  krænkende adfærd
+medarbejderne kan indberette til deres nærmeste leder eller 
+relevant afdelingsleder ligesom hr kan kontaktes. hvis kon-
+takten til leder og hr ikke giver resultat, kan medarbejderen 
+kontakte direktionen. hvis medarbejderen ønsker at være ano-
+nym, kan der indberettes direkte til formanden for revisions- og 
+risikoudvalget, der efterfølgende vil igangsætte de nødvendige 
+undersøgelser og eventuelle tiltag. indberetteren vil modtage en 
+tilbagemelding, når en sag er afsluttet med eller uden resultat. 
+der har i 2020 ikke været nogen indberetninger under jeudans 
+whistleblowerordning. 
+data- og it-sikkerhed
+i jeudan gælder en række nedskrevne it-retningslinjer. der er 
+dog på nuværende tidspunkt ikke udarbejdet en offentligt til-
+gængelig it-sikkerhedspolitik. 
+jeudans 4 lØfter
+kundeløfte 
+vi vil møde vores kunder, som vi selv gerne vil mødes – vi vil gøre det, vi siger, 
+og sige det, vi gør. vi vil skabe overblik, se muligheder og løse udfordringer 
+for vores kunder. i et tæt samarbejde bygget på tillid og dialog. vi vil være til 
+stede, når og hvor der er brug for os. 
+samfundsløfte 
+vi ønsker at bevare byens historie, styrke dens nutid og sikre dens fremtid. 
+med respekt for historie, materialer og helheden vil vi bidrage til byens 
+bevarelse og forskønnelse. 
+medarbejderløfte
+vi er holdspillere med respekt for hinandens tid, opgaver og faglighed. alle er 
+lige vigtige. med alle kompetencer samlet under ét tag vil vi skabe et trygt, 
+stabilt og udfordrende arbejdsmiljø, som medarbejderne kan være stolte af 
+at være en del af. vi vil prioritere udvikling og muligheder for den enkeltes 
+faglighed, mål og drømme.
+investorløfte 
+vi vil som danmarks største børsnoterede ejendoms- og servicevirksomhed 
+tilbyde en robust og ansvarlig investeringsmulighed for vores investorer. 
+vores strategi er langsigtet ligesom vores relationer.
+som en full-service ejendoms- og servicevirksomhed står jeudan med noget 
+meget værdifuldt mellem hænderne. ikke kun mursten, stuk og trægulve. men 
+trivsel, tryghed og livskvalitet. det er store sager. derfor gør alle i jeudan sig 
+umage for at efterleve disse fire løfter, hver eneste dag. 
+med mere end 200 ejendomme i porteføljen er jeudan  
+danmarks største børsnoterede ejendoms- og servicevirksomhed. dét forpligter. 
+forpligter til at møde samfundet med respekt og til at gøre tingene ordentligt. 
+jeudan vil gerne stå på mål for værdier som ordentlighed, dygtighed  
+og tilgængelighed – og har derfor udarbejdet fire specifikke løfter: 
+34
+generelle informationer   –  jeudan ansvarlighedsrapport 2020
+alle funktionærer i virksomheden gennemgår en obligatorisk 
+e-læring i it-sikkerhed som en del af deres onboardingfor-
+løb. derudover er der i 4. kvartal 2020 indført og påbegyndt 
+e-læring i datasikkerhed. ved udgangen af 2020 har mere end 
+92 % af alle funktionærer gennemført og bestået forløbet. 
+der gennemføres løbende forskellige tests af jeudans fysiske 
+og virtuelle sikkerhed. disse tests og deres resultater danner 
+baggrund for risikovurderinger og heraf afledte løsningsmo-
+deller. 
+eksempelvis er der gennemført en såkaldt red team-test i 
+oktober og november 2020. testen af den fysiske sikkerhed 
+viste ingen brud på sikkerheden, mens der i testen af den virtu-
+elle sikkerhed blev fundet fem forhold. ud af de fem kunne tre 
+kategoriseres som værende kritiske. der bliver arbejdet på at 
+eliminere de kritiske forhold, mens de nemme straks blev løst 
+og lukket. 
+det skal bemærkes, at de fem forhold blev identificeret på 
+baggrund af et “forspring”, hvor jeudans it-samarbejdspart-
+ner på forhånd fik udleveret en jeudan-pc, inkl. en fiktiv it-
+medarbejders brugernavn og adgangskode. dermed startede 
+testen bag vores perimeter og forbi vores tofaktorgodken-
+delse. et forspring, som eventuelle it-kriminelle ikke vil være 
+begunstiget af. 
+blandt de virtuelle tests kan også nævnes, at jeudan gennem-
+fører phishingtests hvert kvartal målrettet jeudans funktio-
+nærer. 
+i 2020 har der været fire datasikkerhedsbrud, som alle er 
+anmeldt til datatilsynet. alle fire anmeldelser er i kategorien 
+“rigtige oplysninger/forkert modtager” (utilsigtet adgang). de 
+berørte personer er oplyst om de pågældende forhold og til-
+hørende foranstaltninger. datatilsynet har i de fire situationer 
+ikke fundet anledning til at iværksætte yderligere handlinger. 
+jeudans funktionærer har i 2020 gennemført e-læring om 
+gdpr, hvor der også har været fokus på datasikkerhedsbrud. 
+internt har jeudan en procedure for håndtering af datasikker-
+hedsbrud, og der findes ligeledes en intern e-mailpolitik, som 
+skal bidrage til at undgå datasikkerhedsbrud.
+i 2020 er der i jeudan gennemført en revision af de interne og 
+eksterne politikker. Årshjulet for gdpr-indsatser er blevet 
+opdateret, og der er indgået en aftale med en ekstern sam-
+arbejdspartner med henblik på at skabe et gennemsigtigt og 
+effektivt internt system, som overskueliggør grundlaget for 
+jeudans behandling af personoplysninger og samtidig sikrer 
+den nødvendige dokumentation. 
+arbejdsmiljØ
+jeudan vil sikre et tilfredsstillende og tidssvarende arbejds-
+miljø – både fysisk og psykisk. grundstenen i virksomhe-
+dens arbejdsmiljøpolitik, som ligger offentligt tilgængelig på  
+jeudan.dk, er ordentlighed. det betyder bl.a., at jeudan stræ-
+ber efter at skabe en ordentlig arbejdsplads, hvor alle udviser 
+gensidig respekt, ligesom det giver den enkelte medarbejder 
+en forpligtelse til at efterleve jeudans værdier på arbejdsplad-
+sen. arbejdsglæde og trivsel er en forudsætning for, at jeudan 
+kan skabe værdi for såvel kunder som aktionærer. 
+arbejdsmiljøforhold varetages af en arbejdsmiljøorganisation. 
+under udvalgene er der etableret faggrupper, som tilsammen 
+repræsenterer alle fag og afdelinger herunder. arbejdsmiljø-
+organisationen består af repræsentanter for både ledelse og 
+medarbejdere. 
+arbejdsmiljøorganisationen bruger primært jeudans intranet, 
+når der skal kommunikeres til alle medarbejdere, mens der 
+kommunikeres via web-appen jeudannet til alle timelønnede 
+medarbejdere. jeudannet er et vigtigt kommunikationsred-
+skab, hvor de timelønnede håndværkere bl.a. har adgang til den 
+digitale apv, som oprettes på alle sager samt øvrige relevante 
+dokumenter.
+for at styrke indsatsen for arbejdsmiljøarbejdet har jeudan 
+medio 2020 ansat en projektleder til at varetage området. 
+medlemmerne af arbejdsmiljøorganisationen og medarbejde-
+re i projektområdet gennemgår løbende supplerende arbejds-
+miljørelevant uddannelse. 
+arbejdstilsynet aflægger med jævne mellemrum uanmeldt 
+tilsynsbesøg. ved tilsynsbesøg, der er aflagt hos jeudan pro-
+jekt & service vedrørende sikkerhed på byggepladserne, har 
+resultaterne generelt været positive. der har i 2020 været ét 
+tilfælde med strakspåbud. påbuddet skyldtes anvendelse af 
+forkerte filtre i støvsugere på byggepladser, og forholdet blev 
+straks løst ved indkøb af nyt materiel.
+i 2020 blev der registreret 32 arbejdsulykker samt én nærved 
+hændelse. de 27 af arbejdsulykkerne vedrørte timelønnede 
+medarbejdere i jeudan projekt & service, og heraf medførte 
+18 tilfælde fravær på en dag eller mere. de ulykkesrelaterede 
+fraværsdage i 2020 udgjorde 175 dage, svarende til 0,23 % af 
+det samlede antal arbejdsdage. der er tale om et fald fra 2019, 
+hvor de ulykkesrelaterede fraværsdage var på 0,28 %. 
+jeudans it-sikkerheds strategi har 
+til formål at højne den tekniske 
+robusthed, beskytte kritiske it- 
+systemer og data samt øge viden  
+og kompetencer hos koncernens 
+medarbejderne.
+arbejdsmiljØarbejdet har i 2020 
+haft sÆrligt fokus pÅ:
+implementering af den digitale apv/sagsspecifik apv 
+opdatering af generel apv med tilhørende handlingsplaner og indsatser
+nedbringelse af arbejdsulykker
+nul påbud fra arbejdstilsynet
+nul sager om manglende velfærdsforanstaltninger
+fokus på farlige stoffer i byggeriet
+ovennævnte fokuspunkter vil blive videreudviklet i 2021.
+36
+generelle informationer   –  jeudan ansvarlighedsrapport 2020
+trods et begrænset fravær som følge af arbejdsulykker er 
+enhver arbejdsulykke én for meget. i 2021 vil der fortsat være 
+særligt fokus på arbejdsmiljø og sikkerhed for at nedbringe 
+antallet af ulykker, særligt blandt jeudans timelønnede hånd-
+værkere.
+jeudans engagement i samfundet
+ca. 30 % af jeudans ejendomme er fredede, ligesom en del er 
+bevaringsværdige. jeudan sætter en ære i at være med til at 
+bevare denne fælles kulturarv og at sikre de historiske byg-
+ninger langt ind i fremtiden. hvert år investeres et større tre-
+cifret millionbeløb i at vedligeholde, istandsætte og forbedre 
+jeudans ejendomme, og det altid med respekt for bygningens 
+æstetik og historie. siden 2019 er der monteret skilte og fred-
+ningsplaketter på de af jeudans ejendomme, der har en helt 
+særlig historie, så forbipasserende kan få glæde af fortællin-
+gerne. 
+jeudan deltager i etablering og drift af byrum og faciliteter, der 
+giver nye muligheder for byens borgere og dens besøgende. 
+det gælder bl.a. torvehallernekbh på israels plads, der hvert 
+år besøges af ca. 5 millioner gæster, omlægningen af sankt 
+annæ plads i frederiksstaden og deltagelsen i foreningen 
+ofelia plads, hvor jeudan i samarbejde med det kongelige 
+ teater tilbyder gratis kulturelle arrangementer og begiven-
+heder. senest har jeudan investeret i enigma, museum for 
+post, tele og kommunikation, og den forestående ombygning 
+og udvidelse af byrummet ud mod trianglen. alt sammen med 
+afsæt i jeudans ønske om at bidrage til attraktive og levende 
+byrum i københavn. 
+som en udvidet del af jeudans samfundsansvar bidrager 
+jeudan også via udvalgte samarbejder. i 2020 er der indgået 
+en partnerskabsaftale med børneriget fonden, hvis formål er 
+at støtte børnerigets patienter – fra det endnu ufødte barn til 
+den unge voksne samt deres pårørende – når børneriget står 
+klar i 2025. 
+jeudan støtter også løkkefonden, der har til formål at hjælpe 
+svært udsatte drenge i alderen 13 til 25 år, samt velkommen 
+hjem, der støtter veteraner med fokus på at bringe deres 
+ militære kompetencer og erfaring ind i det civile liv.  
+jeudan spiller en aktiv rolle i ejendomsbranchen og bidrager 
+hertil igennem medlemskab af dansk industri og ejendomsfor-
+eningen danmark. jeudan er også medlem af foreningen for 
+byggeriets samfundsansvar og har herigennem tilsluttet sig 
+et charter for samfundsansvar i ejendoms-, bygge- og anlægs-
+branchen i danmark.
+ca. 30 % af jeudans ejendomme er 
+fredede, ligesom en del er bevarings-
+værdige. jeudan sætter en ære i at 
+være med til at bevare denne fælles 
+kulturarv og at sikre de historiske 
+bygninger langt ind i fremtiden.
+byrummet omkring enigma på  
+Øster alle 1 står overfor et spændende 
+udviklingsprojekt i 2021. 
+ikke-finansielle nøgletal esg-faktaark    –  jeudan ansvarlighedsrapport 2020
+38
+ikke-finansielle 
+nØgletal
+esg-faktaark
+nøgletal
+rapportering
+definition
+bemærkning
+varmeforbrug
+23.776 m3
+afregnet forbrug i perioden  
+1. april 2019 – 31. marts 2020   
+vedrører jeudans domicil i  
+bredgade nr. 30, 32 og 34
+elforbrug
+376.147 kwh
+afregnet forbrug i perioden  
+1. april 2019 – 31. marts 2020  
+vedrører jeudans domicil i  
+bredgade nr. 30, 32 og 34
+vandforbrug
+4.861 m3
+afregnet forbrug i perioden  
+1. april 2019 – 31. marts 2020 
+vedrører jeudans domicil i  
+bredgade nr. 30, 32 og 34
+1) indhold, nøgletal og datagrundlag vil blive videreudviklet i 2021 og vil fremgå af årsrapporten for 2021.
+environment1
+39
+ikke-finansielle nøgletal esg-faktaark    –  jeudan ansvarlighedsrapport 2020
+ 
+nøgletal
+rapportering
+definition
+bemærkning
+antal fte
+577
+beregnet på basis af betalt atp-
+bidrag for hele koncernen   
+evt. midlertidig arbejdskraft ikke 
+indregnet pga. manglende data
+alder, år i gennemsnit  
+funktionærer:   
+41,5 
+timelønnede:                   
+39,5
+alle ledere:          
+45,0
+funktionsdirektører:  
+49,5
+samlet alder divideret med  
+antal medarbejdere 
+antal medarbejdere er alle 
+medarbejdere pr. 31. december 
+2020  
+anciennitet, 
+år i gennemsnit
+funktionærer:             
+4,0 
+timelønnede:                
+3,5
+alle ledere:                       
+7,0
+funktionsdirektører:  
+10,5
+samlet anciennitet divideret med 
+antal medarbejdere 
+kønsfordeling, 
+kvinder/mænd
+funktionærer:        49,5 % / 50,5 %
+timelønnede:          
+3,3 % / 96,7 %
+antal af det enkelte køn divideret 
+med samlet antal medarbejdere 
+ganget med 100
+kønsfordeling, ledelse
+kvinder/mænd
+alle ledere:               43,9 % / 56,1 %
+funktionsdirektører:    40 % / 60 %
+antal af det enkelte køn divideret 
+med samlet antal medarbejdere 
+ganget med 100
+lønforskel mellem køn
+median kvinder:   
+431.928 dkk
+median mænd:  
+411.871 dkk
+forskel:                                
+1,05
+beregnet på basis af alle  
+funktionærer i koncernen
+median kvinder divideret med 
+median mænd
+alle løndele indgår i beregningen. 
+dog er feriepengeforpligtigelse 
+ikke indregnet
+lønforskel mellem  
+ceo og medarbejdere
+løn ceo:                      9.039.725 dkk
+median funktionærer:  418.824 dkk
+forskel:                             
+21,6 gange
+løn ceo divideret med median 
+funktionærer
+alle løndele indgår i beregningen. 
+dog er feriepengeforpligtigelse 
+ikke indregnet
+medarbejderomsætning
+koncernen, samlet:     
+19 %
+jeudan a/s:           
+16 %
+jeudan projekt & service a/s: 
+• timelønnede        
+20 %
+• funktionærer      
+22 %
+antal frivillige og ufrivillige  
+fratrædelser divideret med  
+antal medarbejdere ganget  
+med 100
+sygefravær
+koncernen, samlet:  
+3,5 %
+funktionærer:      
+2,4 %
+timelønnede:   
+4,2 %
+antal fraværstimer divideret med 
+antal mulige arbejdstimer ganget 
+med 100
+tallene indeholder også 
+langtidssyge. indeholder ikke 
+medarbejdere fratrådt i 2020 
+samt fravær ved arbejdsulykker
+politik for seksuel chikane  
+og diskrimination
+ja, jeudan har en politik for seksuel 
+chikane og diskrimination.
+https://www.jeudan.dk/om-
+jeudan/ansvarlighed/politikker/
+mangfoldighedspolitik/
+arbejdsulykker
+antal arbejdsulykker:  
+32
+antal fraværsdage ved ulykker:   
+175
+ulykkesrelaterede fraværsdage:  0,23 %
+antal fraværsdage ved ulykker divi-
+deret med antal mulige arbejdsdage 
+ganget med 100
+arbejdsmiljøpolitik
+ja, jeudan har en  
+arbejdsmiljøpolitik.
+https://www.jeudan.dk/om-
+jeudan/ansvarlighed/politikker/
+arbejdsmiljøpolitik/
+social
+40
+ikke-finansielle nøgletal esg-faktaark    –  jeudan ansvarlighedsrapport 2020
+ 
+nøgletal
+rapportering
+definition
+bemærkning
+børnearbejde og tvang
+ja, jeudan følger politikker og 
+principper, der tager afstand fra 
+børnearbejde og tvang
+https://www.jeudan.dk/om-
+jeudan/ansvarlighed/politikker/
+politik-for-samfundsansvar/
+https://www.jeudan.dk/om-
+jeudan/ansvarlighed/politikker/
+indkøbspolitik/
+jeudan anerkender og efterlever 
+fn global compacts 10 princip-
+per for ansvarlig virksomheds-
+drift, men koncernen er p.t. ikke 
+tilsluttet global compact med 
+underskrift
+menneskerettigheder
+ja, jeudan følger politikker  
+og principper vedr. 
+menneskerettigheder.
+gælder også for leverandører.
+https://www.jeudan.dk/om-
+jeudan/ansvarlighed/politikker/
+politik-for-samfundsansvar/
+https://www.jeudan.dk/om-
+jeudan/ansvarlighed/politikker/
+indkøbspolitik/
+jeudan anerkender og efterlever 
+fn global compacts 10 princip-
+per for ansvarlig virksomheds-
+drift, men koncernen er p.t. ikke 
+tilsluttet global compact med 
+underskrift
+social - fortsat
+41
+ikke-finansielle nøgletal esg-faktaark    –  jeudan ansvarlighedsrapport 2020
+ 
+nøgletal
+rapportering
+definition
+bemærkning
+kønsdiversitet, 
+bestyrelse
+20 % 
+antal kvindelige medlemmer  
+divideret med samlet antal ganget 
+med 100 
+evt. midlertidig arbejdskraft  
+ikke indregnet pga. manglende 
+data
+kønsdiversitet, 
+formandsposter i 
+bestyrelsesudvalg
+50 %
+antal formandsposter varetaget af 
+kvinder divideret med samlet antal 
+formandsposter ganget med 100
+bestyrelsens 
+uafhængighed
+ingen personsammenfald mellem 
+ceo og bestyrelsesformand
+andel af uafhængige  
+bestyrelsesmedlemmer: 20 %
+antal uafhængige divideret med 
+samlet antal ganget med 100
+jeudans nuværende og tidligere 
+direktion er ikke medlem af 
+bestyrelsen
+bonusaflønning af ledelsen 
+relateret til bæredygtighed
+nej
+andel af koncernens medar-
+bejdere omfattet af kollektive 
+overenskomster
+63,4 %
+antal omfattet af overenskomst 
+divideret med det samlede antal 
+ganget med 100
+code of conduct 
+for leverandører
+ja, der findes en indkøbspolitik 
+samt en leverandørerklæring til 
+leverandører
+https://www.jeudan.dk/om-
+jeudan/ansvarlighed/politikker/
+indkøbspolitik/
+politik for etik 
+og antikorruption
+ja, der findes en politik for etik og 
+modarbejdelse af korruption
+https://www.jeudan.dk/om-
+jeudan/ansvarlighed/politikker/
+politik-for-modarbejdelse-af-
+korruption/
+persondatapolitik
+ja, der findes en politik for håndter-
+ing af persondata
+https://www.jeudan.dk/om-
+jeudan/jeudan-koncernen/per-
+sondatapolitik
+governance
+jeudan a/s
+bredgade 30
+1260 københavn k
+tlf:  7010 6070
+jeudan.dk
+
